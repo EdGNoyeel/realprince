@@ -1,0 +1,676 @@
+fileFormatVersion: 2
+guid: 56275f022995e374c8eade867b3281e2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1411957134088575441
+    second: WaterMelon-new_0
+  - first:
+      213: -6293149607570216970
+    second: WaterMelon-new_1
+  - first:
+      213: -4801751322830380272
+    second: WaterMelon-new_2
+  - first:
+      213: 935696344755655476
+    second: WaterMelon-new_3
+  - first:
+      213: -3533092274725009345
+    second: WaterMelon-new_4
+  - first:
+      213: 1811391839118131086
+    second: WaterMelon-new_5
+  - first:
+      213: -4056673062734383779
+    second: WaterMelon-new_6
+  - first:
+      213: -3192831308387220407
+    second: WaterMelon-new_7
+  - first:
+      213: 8313711840837819852
+    second: WaterMelon-new_8
+  - first:
+      213: -5408170412546051700
+    second: WaterMelon-new_9
+  - first:
+      213: -5996866115027874586
+    second: WaterMelon-new_10
+  - first:
+      213: 250490487036356396
+    second: WaterMelon-new_11
+  - first:
+      213: -2329973473986807209
+    second: WaterMelon-new_12
+  - first:
+      213: 2522073528683210738
+    second: WaterMelon-new_13
+  - first:
+      213: 64068861089576365
+    second: WaterMelon-new_14
+  - first:
+      213: -4566932075308022610
+    second: WaterMelon-new_15
+  - first:
+      213: -8870243065807835889
+    second: WaterMelon-new_16
+  - first:
+      213: -3841569254124191893
+    second: WaterMelon-new_17
+  - first:
+      213: -3915385090174870810
+    second: WaterMelon-new_18
+  - first:
+      213: -3582966603709667073
+    second: WaterMelon-new_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WaterMelon-new_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 855
+        width: 241.6
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d99d675887489310800000000000000
+      internalID: 1411957134088575441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterMelon-new_1
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 855
+        width: 241.6
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f7636246cd3aa8a0800000000000000
+      internalID: -6293149607570216970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterMelon-new_2
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 855
+        width: 241.6
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 013eee6dc90cc5db0800000000000000
+      internalID: -4801751322830380272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterMelon-new_3
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 855
+        width: 241.6
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 433dac63ed24cfc00800000000000000
+      internalID: 935696344755655476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterMelon-new_4
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 855
+        width: 241.6
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f38c6569b4fe7fec0800000000000000
+      internalID: -3533092274725009345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterMelon-new_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 570
+        width: 241.6
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8f7dafc74b532910800000000000000
+      internalID: 1811391839118131086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterMelon-new_6
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 570
+        width: 241.6
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5532d5b75dc3b7c0800000000000000
+      internalID: -4056673062734383779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterMelon-new_7
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 570
+        width: 241.6
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94485d367d8c0b3d0800000000000000
+      internalID: -3192831308387220407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterMelon-new_8
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 570
+        width: 241.6
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccdd81e0fdc306370800000000000000
+      internalID: 8313711840837819852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterMelon-new_9
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 570
+        width: 241.6
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c813a6bd9a152f4b0800000000000000
+      internalID: -5408170412546051700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterMelon-new_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 285
+        width: 241.6
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eccf288a0ad6cca0800000000000000
+      internalID: -5996866115027874586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterMelon-new_11
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 285
+        width: 241.6
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c27aa6355cbe97300800000000000000
+      internalID: 250490487036356396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterMelon-new_12
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 285
+        width: 241.6
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75afeea58754aafd0800000000000000
+      internalID: -2329973473986807209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterMelon-new_13
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 285
+        width: 241.6
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f724960384300320800000000000000
+      internalID: 2522073528683210738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterMelon-new_14
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 285
+        width: 241.6
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da5786a2a4e93e000800000000000000
+      internalID: 64068861089576365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterMelon-new_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 241.6
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea48de1697ffe90c0800000000000000
+      internalID: -4566932075308022610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterMelon-new_16
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 0
+        width: 241.6
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0de62f9de096e480800000000000000
+      internalID: -8870243065807835889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterMelon-new_17
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 0
+        width: 241.6
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6f7ddbed1100bac0800000000000000
+      internalID: -3841569254124191893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterMelon-new_18
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 0
+        width: 241.6
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ea144d4102c9a9c0800000000000000
+      internalID: -3915385090174870810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterMelon-new_19
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 0
+        width: 241.6
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff82cc77bdeb64ec0800000000000000
+      internalID: -3582966603709667073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      WaterMelon-new_0: 1411957134088575441
+      WaterMelon-new_1: -6293149607570216970
+      WaterMelon-new_10: -5996866115027874586
+      WaterMelon-new_11: 250490487036356396
+      WaterMelon-new_12: -2329973473986807209
+      WaterMelon-new_13: 2522073528683210738
+      WaterMelon-new_14: 64068861089576365
+      WaterMelon-new_15: -4566932075308022610
+      WaterMelon-new_16: -8870243065807835889
+      WaterMelon-new_17: -3841569254124191893
+      WaterMelon-new_18: -3915385090174870810
+      WaterMelon-new_19: -3582966603709667073
+      WaterMelon-new_2: -4801751322830380272
+      WaterMelon-new_3: 935696344755655476
+      WaterMelon-new_4: -3533092274725009345
+      WaterMelon-new_5: 1811391839118131086
+      WaterMelon-new_6: -4056673062734383779
+      WaterMelon-new_7: -3192831308387220407
+      WaterMelon-new_8: 8313711840837819852
+      WaterMelon-new_9: -5408170412546051700
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2301 @@
+fileFormatVersion: 2
+guid: 15acb2f7dbf7b43458762ab451c55277
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 84836365088282940
+    second: batch_cloudPack-01_0
+  - first:
+      213: 4325465857900733135
+    second: batch_cloudPack-01_1
+  - first:
+      213: -8891628755175998643
+    second: batch_cloudPack-01_2
+  - first:
+      213: 2755951935766394981
+    second: batch_cloudPack-01_3
+  - first:
+      213: 316055527805464839
+    second: batch_cloudPack-01_4
+  - first:
+      213: -6156370874532015073
+    second: batch_cloudPack-01_5
+  - first:
+      213: -1098953056009907022
+    second: batch_cloudPack-01_6
+  - first:
+      213: -6401187063843456866
+    second: batch_cloudPack-01_7
+  - first:
+      213: 6713089133248862833
+    second: batch_cloudPack-01_8
+  - first:
+      213: 5289568492361793521
+    second: batch_cloudPack-01_9
+  - first:
+      213: -2536140781795735794
+    second: batch_cloudPack-01_10
+  - first:
+      213: -2108639917746938715
+    second: batch_cloudPack-01_11
+  - first:
+      213: -2799979519063665340
+    second: batch_cloudPack-01_12
+  - first:
+      213: -2650579006154898420
+    second: batch_cloudPack-01_13
+  - first:
+      213: 1518181481260025131
+    second: batch_cloudPack-01_14
+  - first:
+      213: 2588880660929532494
+    second: batch_cloudPack-01_15
+  - first:
+      213: 4740762533834448406
+    second: batch_cloudPack-01_16
+  - first:
+      213: 1189753724818580591
+    second: batch_cloudPack-01_17
+  - first:
+      213: -8259107575717743848
+    second: batch_cloudPack-01_18
+  - first:
+      213: 6159889637099907212
+    second: batch_cloudPack-01_19
+  - first:
+      213: 294157362107106232
+    second: batch_cloudPack-01_20
+  - first:
+      213: -375460553457305979
+    second: batch_cloudPack-01_21
+  - first:
+      213: -8897472417125635567
+    second: batch_cloudPack-01_22
+  - first:
+      213: -8923188022510836441
+    second: batch_cloudPack-01_23
+  - first:
+      213: -6274835064399782111
+    second: batch_cloudPack-01_24
+  - first:
+      213: 6704118449280540566
+    second: batch_cloudPack-01_25
+  - first:
+      213: -7698941074869691648
+    second: batch_cloudPack-01_26
+  - first:
+      213: 6651184884418609630
+    second: batch_cloudPack-01_27
+  - first:
+      213: -6404861311242624226
+    second: batch_cloudPack-01_28
+  - first:
+      213: 6093725918147006396
+    second: batch_cloudPack-01_29
+  - first:
+      213: 3377603048301481664
+    second: batch_cloudPack-01_30
+  - first:
+      213: 2537161828249203867
+    second: batch_cloudPack-01_31
+  - first:
+      213: 8412788315598286477
+    second: batch_cloudPack-01_32
+  - first:
+      213: -6148145613698759041
+    second: batch_cloudPack-01_33
+  - first:
+      213: 6576381229004297992
+    second: batch_cloudPack-01_34
+  - first:
+      213: 7198959065434778576
+    second: batch_cloudPack-01_35
+  - first:
+      213: -328493617911659753
+    second: batch_cloudPack-01_36
+  - first:
+      213: -3306967931575171604
+    second: batch_cloudPack-01_37
+  - first:
+      213: -4933609261596360641
+    second: batch_cloudPack-01_38
+  - first:
+      213: 8139368194852115025
+    second: batch_cloudPack-01_39
+  - first:
+      213: -2329149083119314865
+    second: batch_cloudPack-01_40
+  - first:
+      213: -5865910197301069438
+    second: batch_cloudPack-01_41
+  - first:
+      213: -2395401007159338127
+    second: batch_cloudPack-01_42
+  - first:
+      213: -1410874986255386725
+    second: batch_cloudPack-01_43
+  - first:
+      213: 5861843478804422386
+    second: batch_cloudPack-01_44
+  - first:
+      213: -5684383553884835919
+    second: batch_cloudPack-01_45
+  - first:
+      213: 8583199489754130838
+    second: batch_cloudPack-01_46
+  - first:
+      213: -129268997140088013
+    second: batch_cloudPack-01_47
+  - first:
+      213: 9177584167844229108
+    second: batch_cloudPack-01_48
+  - first:
+      213: -2197337045868592575
+    second: batch_cloudPack-01_49
+  - first:
+      213: -83311813198760220
+    second: batch_cloudPack-01_50
+  - first:
+      213: -8399405584748092137
+    second: batch_cloudPack-01_51
+  - first:
+      213: -398017628453442605
+    second: batch_cloudPack-01_52
+  - first:
+      213: 3553469117342302121
+    second: batch_cloudPack-01_53
+  - first:
+      213: -549716003320246419
+    second: batch_cloudPack-01_54
+  - first:
+      213: -7224834738702935105
+    second: batch_cloudPack-01_55
+  - first:
+      213: -2436371913152750597
+    second: batch_cloudPack-01_56
+  - first:
+      213: -2832662996681491473
+    second: batch_cloudPack-01_57
+  - first:
+      213: -4435180818568314593
+    second: batch_cloudPack-01_58
+  - first:
+      213: -7787985424069147694
+    second: batch_cloudPack-01_59
+  - first:
+      213: -9123063549540243073
+    second: batch_cloudPack-01_60
+  - first:
+      213: -5016605547407822548
+    second: batch_cloudPack-01_61
+  - first:
+      213: 7120674519051547537
+    second: batch_cloudPack-01_62
+  - first:
+      213: -7767943814119390683
+    second: batch_cloudPack-01_63
+  - first:
+      213: 3481787386536761248
+    second: batch_cloudPack-01_64
+  - first:
+      213: 5720073024266262719
+    second: batch_cloudPack-01_65
+  - first:
+      213: 5970409403477276676
+    second: batch_cloudPack-01_66
+  - first:
+      213: -8722745757912079312
+    second: batch_cloudPack-01_67
+  - first:
+      213: 925043129617640237
+    second: batch_cloudPack-01_68
+  - first:
+      213: 5622927205868198275
+    second: batch_cloudPack-01_69
+  - first:
+      213: 6245635222031045394
+    second: batch_cloudPack-01_70
+  - first:
+      213: -3546197883203571011
+    second: batch_cloudPack-01_71
+  - first:
+      213: 8697115269426009986
+    second: batch_cloudPack-01_72
+  - first:
+      213: 314364497921035539
+    second: batch_cloudPack-01_73
+  - first:
+      213: 2317488414435429571
+    second: batch_cloudPack-01_74
+  - first:
+      213: -2127076259419002983
+    second: batch_cloudPack-01_75
+  - first:
+      213: 8439753499277639568
+    second: batch_cloudPack-01_76
+  - first:
+      213: -4615484341506640993
+    second: batch_cloudPack-01_77
+  - first:
+      213: -5130856873518347291
+    second: batch_cloudPack-01_78
+  - first:
+      213: -8049181399592042648
+    second: batch_cloudPack-01_79
+  - first:
+      213: -2673831160031480739
+    second: batch_cloudPack-01_80
+  - first:
+      213: -2351320331324844872
+    second: batch_cloudPack-01_81
+  - first:
+      213: 1674109741250122622
+    second: batch_cloudPack-01_82
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: batch_cloudPack-01_0
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1890
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c395f1d79366d2100800000000000000
+      internalID: 84836365088282940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_cloudPack-01_1
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1890
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc2e04cc744270c30800000000000000
+      internalID: 4325465857900733135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_cloudPack-01_2
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1890
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4bf51dc1c69a9480800000000000000
+      internalID: -8891628755175998643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_cloudPack-01_3
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1890
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 568f7651fab1f3620800000000000000
+      internalID: 2755951935766394981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_cloudPack-01_4
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1890
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 701b428f3dad26400800000000000000
+      internalID: 316055527805464839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_cloudPack-01_5
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1890
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1455f5be4d209aa0800000000000000
+      internalID: -6156370874532015073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_cloudPack-01_6
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1890
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b413bf940cbfb0f0800000000000000
+      internalID: -1098953056009907022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_cloudPack-01_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1755
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e98f8c6c74a6a27a0800000000000000
+      internalID: -6401187063843456866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_cloudPack-01_8
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1755
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17a55dccffea92d50800000000000000
+      internalID: 6713089133248862833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_cloudPack-01_9
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1755
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ffb25ab482586940800000000000000
+      internalID: 5289568492361793521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_cloudPack-01_10
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1755
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e070fa06561ddccd0800000000000000
+      internalID: -2536140781795735794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_cloudPack-01_11
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1755
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ac1c77ba2b9cb2e0800000000000000
+      internalID: -2108639917746938715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_cloudPack-01_12
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1755
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44557db56797429d0800000000000000
+      internalID: -2799979519063665340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_cloudPack-01_13
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1755
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c048701ff60473bd0800000000000000
+      internalID: -2650579006154898420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_cloudPack-01_14
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1755
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b258417730aa11510800000000000000
+      internalID: 1518181481260025131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_cloudPack-01_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1620
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e425590ae3d8de320800000000000000
+      internalID: 2588880660929532494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_cloudPack-01_16
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1620
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61edea928629ac140800000000000000
+      internalID: 4740762533834448406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_cloudPack-01_17
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1620
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f64620a85bad28010800000000000000
+      internalID: 1189753724818580591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_cloudPack-01_18
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1620
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8133b932b61c16d80800000000000000
+      internalID: -8259107575717743848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_cloudPack-01_19
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1620
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8823fa0df25c7550800000000000000
+      internalID: 6159889637099907212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_cloudPack-01_20
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1620
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b3c574ff8e051400800000000000000
+      internalID: 294157362107106232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_cloudPack-01_21
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1620
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 586710cad981acaf0800000000000000
+      internalID: -375460553457305979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_cloudPack-01_22
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1620
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11ae36a3af3d58480800000000000000
+      internalID: -8897472417125635567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_cloudPack-01_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1485
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 725a83645c77a2480800000000000000
+      internalID: -8923188022510836441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_cloudPack-01_24
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1485
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f194221ce4be8a0800000000000000
+      internalID: -6274835064399782111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_cloudPack-01_25
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1485
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69f528da530d90d50800000000000000
+      internalID: 6704118449280540566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_cloudPack-01_26
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1485
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00b5ab512edd72590800000000000000
+      internalID: -7698941074869691648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_cloudPack-01_27
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1485
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed10833b961cd4c50800000000000000
+      internalID: 6651184884418609630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_cloudPack-01_28
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1485
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e13adb3629c5d17a0800000000000000
+      internalID: -6404861311242624226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_cloudPack-01_29
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1485
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbf4eb5cf63419450800000000000000
+      internalID: 6093725918147006396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_cloudPack-01_30
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1485
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce494eb318afde20800000000000000
+      internalID: 3377603048301481664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_cloudPack-01_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1350
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9479768d3fc53320800000000000000
+      internalID: 2537161828249203867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_cloudPack-01_32
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1350
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8eeac1766a30c470800000000000000
+      internalID: 8412788315598286477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_cloudPack-01_33
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1350
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f760c1c73266daaa0800000000000000
+      internalID: -6148145613698759041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_cloudPack-01_34
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1350
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 807195672eff34b50800000000000000
+      internalID: 6576381229004297992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_cloudPack-01_35
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1350
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0db61d7d027d7e360800000000000000
+      internalID: 7198959065434778576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_cloudPack-01_36
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1350
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71384618bc4f07bf0800000000000000
+      internalID: -328493617911659753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_cloudPack-01_37
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1350
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce58ad2ff2a4b12d0800000000000000
+      internalID: -3306967931575171604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_cloudPack-01_38
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1350
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f30c8f5148c488bb0800000000000000
+      internalID: -4933609261596360641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_cloudPack-01_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1215
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 152d54ebf38d4f070800000000000000
+      internalID: 8139368194852115025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_cloudPack-01_40
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1215
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f481fbfcf333dafd0800000000000000
+      internalID: -2329149083119314865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_cloudPack-01_41
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1215
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 289378521c9189ea0800000000000000
+      internalID: -5865910197301069438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_cloudPack-01_42
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1215
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17b97a1b973d1ced0800000000000000
+      internalID: -2395401007159338127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_cloudPack-01_43
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1215
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9773c5dca09b6ce0800000000000000
+      internalID: -1410874986255386725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_cloudPack-01_44
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1215
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fed31b2693795150800000000000000
+      internalID: 5861843478804422386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_cloudPack-01_45
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1215
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bf2f9f56430d11b0800000000000000
+      internalID: -5684383553884835919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_cloudPack-01_46
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1215
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 699eb1fc576ad1770800000000000000
+      internalID: 8583199489754130838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_cloudPack-01_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1080
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b7ef0388eb43ef0800000000000000
+      internalID: -129268997140088013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_cloudPack-01_48
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1080
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ffaa9cfc245d5f70800000000000000
+      internalID: 9177584167844229108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_cloudPack-01_49
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1080
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1424239499d7181e0800000000000000
+      internalID: -2197337045868592575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_cloudPack-01_50
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1080
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e6b1b8e85408def0800000000000000
+      internalID: -83311813198760220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_cloudPack-01_51
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1080
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71568a46f115f6b80800000000000000
+      internalID: -8399405584748092137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_cloudPack-01_52
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1080
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3db60b16315f97af0800000000000000
+      internalID: -398017628453442605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_cloudPack-01_53
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1080
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9af328bc555705130800000000000000
+      internalID: 3553469117342302121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_cloudPack-01_54
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1080
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6fcfbe15340f58f0800000000000000
+      internalID: -549716003320246419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_cloudPack-01_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 945
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbb95be751b3cbb90800000000000000
+      internalID: -7224834738702935105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_cloudPack-01_56
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 945
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfb9ac747a4403ed0800000000000000
+      internalID: -2436371913152750597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_cloudPack-01_57
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 945
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: febf76a330c50b8d0800000000000000
+      internalID: -2832662996681491473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_cloudPack-01_58
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 945
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f110c9a4b821372c0800000000000000
+      internalID: -4435180818568314593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_cloudPack-01_59
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 945
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d34072f4848be390800000000000000
+      internalID: -7787985424069147694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_cloudPack-01_60
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 945
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f79e65aa90e546180800000000000000
+      internalID: -9123063549540243073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_cloudPack-01_61
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 945
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c21b08075df616ab0800000000000000
+      internalID: -5016605547407822548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_cloudPack-01_62
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 945
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1933e358fb7b1d260800000000000000
+      internalID: 7120674519051547537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_cloudPack-01_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 810
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5228834e148b23490800000000000000
+      internalID: -7767943814119390683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_cloudPack-01_64
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 810
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a795f54e2bc15030800000000000000
+      internalID: 3481787386536761248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_cloudPack-01_65
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 810
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb85facfb18c16f40800000000000000
+      internalID: 5720073024266262719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_cloudPack-01_66
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 810
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4083ae948b72bd250800000000000000
+      internalID: 5970409403477276676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_cloudPack-01_67
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 810
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 034ea91c2f492f680800000000000000
+      internalID: -8722745757912079312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_cloudPack-01_68
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 810
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2b66c643d966dc00800000000000000
+      internalID: 925043129617640237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_cloudPack-01_69
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 810
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38957af8086a80e40800000000000000
+      internalID: 5622927205868198275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_cloudPack-01_70
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 810
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21314d5c424fca650800000000000000
+      internalID: 6245635222031045394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_cloudPack-01_71
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 675
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db2b86450df59cec0800000000000000
+      internalID: -3546197883203571011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_cloudPack-01_72
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 675
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28753cc124c52b870800000000000000
+      internalID: 8697115269426009986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_cloudPack-01_73
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 675
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31dc39468d8dc5400800000000000000
+      internalID: 314364497921035539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_cloudPack-01_74
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 675
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ccc1813f6f592020800000000000000
+      internalID: 2317488414435429571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_cloudPack-01_75
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 675
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 997e92b696b1b72e0800000000000000
+      internalID: -2127076259419002983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_cloudPack-01_76
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 675
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09fbd448717002570800000000000000
+      internalID: 8439753499277639568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_cloudPack-01_77
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 675
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f937e1ef17182ffb0800000000000000
+      internalID: -4615484341506640993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_cloudPack-01_78
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 675
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eb4194abd88bc8b0800000000000000
+      internalID: -5130856873518347291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_cloudPack-01_79
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 540
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86f72a8d9209b4090800000000000000
+      internalID: -8049181399592042648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_cloudPack-01_80
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 540
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d54f3fcf9b4a4ead0800000000000000
+      internalID: -2673831160031480739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_cloudPack-01_81
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 540
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b49a32dd9e6e5fd0800000000000000
+      internalID: -2351320331324844872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_cloudPack-01_82
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 540
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e731c3a90f1ab3710800000000000000
+      internalID: 1674109741250122622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      batch_cloudPack-01_0: 84836365088282940
+      batch_cloudPack-01_1: 4325465857900733135
+      batch_cloudPack-01_10: -2536140781795735794
+      batch_cloudPack-01_11: -2108639917746938715
+      batch_cloudPack-01_12: -2799979519063665340
+      batch_cloudPack-01_13: -2650579006154898420
+      batch_cloudPack-01_14: 1518181481260025131
+      batch_cloudPack-01_15: 2588880660929532494
+      batch_cloudPack-01_16: 4740762533834448406
+      batch_cloudPack-01_17: 1189753724818580591
+      batch_cloudPack-01_18: -8259107575717743848
+      batch_cloudPack-01_19: 6159889637099907212
+      batch_cloudPack-01_2: -8891628755175998643
+      batch_cloudPack-01_20: 294157362107106232
+      batch_cloudPack-01_21: -375460553457305979
+      batch_cloudPack-01_22: -8897472417125635567
+      batch_cloudPack-01_23: -8923188022510836441
+      batch_cloudPack-01_24: -6274835064399782111
+      batch_cloudPack-01_25: 6704118449280540566
+      batch_cloudPack-01_26: -7698941074869691648
+      batch_cloudPack-01_27: 6651184884418609630
+      batch_cloudPack-01_28: -6404861311242624226
+      batch_cloudPack-01_29: 6093725918147006396
+      batch_cloudPack-01_3: 2755951935766394981
+      batch_cloudPack-01_30: 3377603048301481664
+      batch_cloudPack-01_31: 2537161828249203867
+      batch_cloudPack-01_32: 8412788315598286477
+      batch_cloudPack-01_33: -6148145613698759041
+      batch_cloudPack-01_34: 6576381229004297992
+      batch_cloudPack-01_35: 7198959065434778576
+      batch_cloudPack-01_36: -328493617911659753
+      batch_cloudPack-01_37: -3306967931575171604
+      batch_cloudPack-01_38: -4933609261596360641
+      batch_cloudPack-01_39: 8139368194852115025
+      batch_cloudPack-01_4: 316055527805464839
+      batch_cloudPack-01_40: -2329149083119314865
+      batch_cloudPack-01_41: -5865910197301069438
+      batch_cloudPack-01_42: -2395401007159338127
+      batch_cloudPack-01_43: -1410874986255386725
+      batch_cloudPack-01_44: 5861843478804422386
+      batch_cloudPack-01_45: -5684383553884835919
+      batch_cloudPack-01_46: 8583199489754130838
+      batch_cloudPack-01_47: -129268997140088013
+      batch_cloudPack-01_48: 9177584167844229108
+      batch_cloudPack-01_49: -2197337045868592575
+      batch_cloudPack-01_5: -6156370874532015073
+      batch_cloudPack-01_50: -83311813198760220
+      batch_cloudPack-01_51: -8399405584748092137
+      batch_cloudPack-01_52: -398017628453442605
+      batch_cloudPack-01_53: 3553469117342302121
+      batch_cloudPack-01_54: -549716003320246419
+      batch_cloudPack-01_55: -7224834738702935105
+      batch_cloudPack-01_56: -2436371913152750597
+      batch_cloudPack-01_57: -2832662996681491473
+      batch_cloudPack-01_58: -4435180818568314593
+      batch_cloudPack-01_59: -7787985424069147694
+      batch_cloudPack-01_6: -1098953056009907022
+      batch_cloudPack-01_60: -9123063549540243073
+      batch_cloudPack-01_61: -5016605547407822548
+      batch_cloudPack-01_62: 7120674519051547537
+      batch_cloudPack-01_63: -7767943814119390683
+      batch_cloudPack-01_64: 3481787386536761248
+      batch_cloudPack-01_65: 5720073024266262719
+      batch_cloudPack-01_66: 5970409403477276676
+      batch_cloudPack-01_67: -8722745757912079312
+      batch_cloudPack-01_68: 925043129617640237
+      batch_cloudPack-01_69: 5622927205868198275
+      batch_cloudPack-01_7: -6401187063843456866
+      batch_cloudPack-01_70: 6245635222031045394
+      batch_cloudPack-01_71: -3546197883203571011
+      batch_cloudPack-01_72: 8697115269426009986
+      batch_cloudPack-01_73: 314364497921035539
+      batch_cloudPack-01_74: 2317488414435429571
+      batch_cloudPack-01_75: -2127076259419002983
+      batch_cloudPack-01_76: 8439753499277639568
+      batch_cloudPack-01_77: -4615484341506640993
+      batch_cloudPack-01_78: -5130856873518347291
+      batch_cloudPack-01_79: -8049181399592042648
+      batch_cloudPack-01_8: 6713089133248862833
+      batch_cloudPack-01_80: -2673831160031480739
+      batch_cloudPack-01_81: -2351320331324844872
+      batch_cloudPack-01_82: 1674109741250122622
+      batch_cloudPack-01_9: 5289568492361793521
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

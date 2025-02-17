@@ -1,0 +1,1092 @@
+fileFormatVersion: 2
+guid: 99f84549f02d8784e8934579b5bb46e2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8918060312488775952
+    second: Ginseng-new_0
+  - first:
+      213: 2361987002960053414
+    second: Ginseng-new_1
+  - first:
+      213: -5889301281618029969
+    second: Ginseng-new_2
+  - first:
+      213: -617936929680936198
+    second: Ginseng-new_3
+  - first:
+      213: 7892226889674081155
+    second: Ginseng-new_4
+  - first:
+      213: -6817889440161492811
+    second: Ginseng-new_5
+  - first:
+      213: -622368753704533855
+    second: Ginseng-new_6
+  - first:
+      213: -3526315780847930775
+    second: Ginseng-new_7
+  - first:
+      213: 1639979677880226269
+    second: Ginseng-new_8
+  - first:
+      213: -9042736899382122968
+    second: Ginseng-new_9
+  - first:
+      213: -825387523417070773
+    second: Ginseng-new_10
+  - first:
+      213: 7899440145882672688
+    second: Ginseng-new_11
+  - first:
+      213: 5976648614973360263
+    second: Ginseng-new_12
+  - first:
+      213: 2631613722529264232
+    second: Ginseng-new_13
+  - first:
+      213: -6791437807038349227
+    second: Ginseng-new_14
+  - first:
+      213: 1987337423339320036
+    second: Ginseng-new_15
+  - first:
+      213: -5911512436376999079
+    second: Ginseng-new_16
+  - first:
+      213: 1683164543166588509
+    second: Ginseng-new_17
+  - first:
+      213: 3574673597966156842
+    second: Ginseng-new_18
+  - first:
+      213: -754251783216391722
+    second: Ginseng-new_19
+  - first:
+      213: -5370440752711273755
+    second: Ginseng-new_20
+  - first:
+      213: 275418407860323624
+    second: Ginseng-new_21
+  - first:
+      213: 8249718954946843020
+    second: Ginseng-new_22
+  - first:
+      213: -2459858040422829952
+    second: Ginseng-new_23
+  - first:
+      213: 1667825867707477310
+    second: Ginseng-new_24
+  - first:
+      213: 5201225364614877388
+    second: Ginseng-new_25
+  - first:
+      213: -6512177549437792854
+    second: Ginseng-new_26
+  - first:
+      213: 5261698064406277944
+    second: Ginseng-new_27
+  - first:
+      213: -8952879042515338111
+    second: Ginseng-new_28
+  - first:
+      213: 7924594391388486045
+    second: Ginseng-new_29
+  - first:
+      213: -5308253783002400789
+    second: Ginseng-new_30
+  - first:
+      213: -6212736144079403685
+    second: Ginseng-new_31
+  - first:
+      213: -8941176219843340012
+    second: Ginseng-new_32
+  - first:
+      213: -3547865920479081901
+    second: Ginseng-new_33
+  - first:
+      213: 5719661267687471188
+    second: Ginseng-new_34
+  - first:
+      213: -7100863886714910427
+    second: Ginseng-new_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ginseng-new_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1687.5
+        width: 337.5
+        height: 337.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0111763ba9053cb70800000000000000
+      internalID: 8918060312488775952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ginseng-new_1
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1687.5
+        width: 337.5
+        height: 337.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a406833aa677c020800000000000000
+      internalID: 2361987002960053414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ginseng-new_2
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 1687.5
+        width: 337.5
+        height: 337.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6297edefaff44ea0800000000000000
+      internalID: -5889301281618029969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ginseng-new_3
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 1687.5
+        width: 337.5
+        height: 337.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af2b5cce2a5ac67f0800000000000000
+      internalID: -617936929680936198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ginseng-new_4
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 1687.5
+        width: 337.5
+        height: 337.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3834fc59a82d68d60800000000000000
+      internalID: 7892226889674081155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ginseng-new_5
+      rect:
+        serializedVersion: 2
+        x: 1685
+        y: 1687.5
+        width: 337.5
+        height: 337.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b099494dadf161a0800000000000000
+      internalID: -6817889440161492811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ginseng-new_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1350.5
+        width: 337.5
+        height: 337.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a0832c7ae6ec57f0800000000000000
+      internalID: -622368753704533855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ginseng-new_7
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1350.5
+        width: 337.5
+        height: 337.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96274b40b72001fc0800000000000000
+      internalID: -3526315780847930775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ginseng-new_8
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 1350.5
+        width: 337.5
+        height: 337.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd119eaf3d062c610800000000000000
+      internalID: 1639979677880226269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ginseng-new_9
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 1350.5
+        width: 337.5
+        height: 337.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 826e20353beb18280800000000000000
+      internalID: -9042736899382122968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ginseng-new_10
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 1350.5
+        width: 337.5
+        height: 337.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b43afa8ab62ab84f0800000000000000
+      internalID: -825387523417070773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ginseng-new_11
+      rect:
+        serializedVersion: 2
+        x: 1685
+        y: 1350.5
+        width: 337.5
+        height: 337.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03eebcba5f270ad60800000000000000
+      internalID: 7899440145882672688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ginseng-new_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1013.5
+        width: 337.5
+        height: 337.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78841daef3251f250800000000000000
+      internalID: 5976648614973360263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ginseng-new_13
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1013.5
+        width: 337.5
+        height: 337.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 862766ddcbe558420800000000000000
+      internalID: 2631613722529264232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ginseng-new_14
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 1013.5
+        width: 337.5
+        height: 337.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 550425d0c47ffb1a0800000000000000
+      internalID: -6791437807038349227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ginseng-new_15
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 1013.5
+        width: 337.5
+        height: 337.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e2fafe6bd0749b10800000000000000
+      internalID: 1987337423339320036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ginseng-new_16
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 1013.5
+        width: 337.5
+        height: 337.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95be17872c616fda0800000000000000
+      internalID: -5911512436376999079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ginseng-new_17
+      rect:
+        serializedVersion: 2
+        x: 1685
+        y: 1013.5
+        width: 337.5
+        height: 337.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d562af5fb3dcb5710800000000000000
+      internalID: 1683164543166588509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ginseng-new_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 676.5
+        width: 337.5
+        height: 337.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a248dbaa2bacb9130800000000000000
+      internalID: 3574673597966156842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ginseng-new_19
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 676.5
+        width: 337.5
+        height: 337.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d99e26dffb5885f0800000000000000
+      internalID: -754251783216391722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ginseng-new_20
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 676.5
+        width: 337.5
+        height: 337.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e2fc57d69c5875b0800000000000000
+      internalID: -5370440752711273755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ginseng-new_21
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 676.5
+        width: 337.5
+        height: 337.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8254e1d259b72d300800000000000000
+      internalID: 275418407860323624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ginseng-new_22
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 676.5
+        width: 337.5
+        height: 337.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c81d96e3ea3ec7270800000000000000
+      internalID: 8249718954946843020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ginseng-new_23
+      rect:
+        serializedVersion: 2
+        x: 1685
+        y: 676.5
+        width: 337.5
+        height: 337.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08075b62524dcddd0800000000000000
+      internalID: -2459858040422829952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ginseng-new_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 339.5
+        width: 337.5
+        height: 337.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3d69e74ace452710800000000000000
+      internalID: 1667825867707477310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ginseng-new_25
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 339.5
+        width: 337.5
+        height: 337.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc01f9e69e67e2840800000000000000
+      internalID: 5201225364614877388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ginseng-new_26
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 339.5
+        width: 337.5
+        height: 337.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aad8c73950910a5a0800000000000000
+      internalID: -6512177549437792854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ginseng-new_27
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 339.5
+        width: 337.5
+        height: 337.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83feb4c038e450940800000000000000
+      internalID: 5261698064406277944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ginseng-new_28
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 339.5
+        width: 337.5
+        height: 337.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18c75d9f1fbf0c380800000000000000
+      internalID: -8952879042515338111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ginseng-new_29
+      rect:
+        serializedVersion: 2
+        x: 1685
+        y: 339.5
+        width: 337.5
+        height: 337.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9973c7dc90d9fd60800000000000000
+      internalID: 7924594391388486045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ginseng-new_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2.5
+        width: 337.5
+        height: 337.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be7b4860f4b4556b0800000000000000
+      internalID: -5308253783002400789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ginseng-new_31
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 2.5
+        width: 337.5
+        height: 337.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b55cae8b46de7c9a0800000000000000
+      internalID: -6212736144079403685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ginseng-new_32
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 2.5
+        width: 337.5
+        height: 337.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4195116b99f8ae380800000000000000
+      internalID: -8941176219843340012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ginseng-new_33
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 2.5
+        width: 337.5
+        height: 337.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35a41232eb273cec0800000000000000
+      internalID: -3547865920479081901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ginseng-new_34
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 2.5
+        width: 337.5
+        height: 337.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45872107e91506f40800000000000000
+      internalID: 5719661267687471188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ginseng-new_35
+      rect:
+        serializedVersion: 2
+        x: 1685
+        y: 2.5
+        width: 337.5
+        height: 337.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52945f1cae9a47d90800000000000000
+      internalID: -7100863886714910427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Ginseng-new_0: 8918060312488775952
+      Ginseng-new_1: 2361987002960053414
+      Ginseng-new_10: -825387523417070773
+      Ginseng-new_11: 7899440145882672688
+      Ginseng-new_12: 5976648614973360263
+      Ginseng-new_13: 2631613722529264232
+      Ginseng-new_14: -6791437807038349227
+      Ginseng-new_15: 1987337423339320036
+      Ginseng-new_16: -5911512436376999079
+      Ginseng-new_17: 1683164543166588509
+      Ginseng-new_18: 3574673597966156842
+      Ginseng-new_19: -754251783216391722
+      Ginseng-new_2: -5889301281618029969
+      Ginseng-new_20: -5370440752711273755
+      Ginseng-new_21: 275418407860323624
+      Ginseng-new_22: 8249718954946843020
+      Ginseng-new_23: -2459858040422829952
+      Ginseng-new_24: 1667825867707477310
+      Ginseng-new_25: 5201225364614877388
+      Ginseng-new_26: -6512177549437792854
+      Ginseng-new_27: 5261698064406277944
+      Ginseng-new_28: -8952879042515338111
+      Ginseng-new_29: 7924594391388486045
+      Ginseng-new_3: -617936929680936198
+      Ginseng-new_30: -5308253783002400789
+      Ginseng-new_31: -6212736144079403685
+      Ginseng-new_32: -8941176219843340012
+      Ginseng-new_33: -3547865920479081901
+      Ginseng-new_34: 5719661267687471188
+      Ginseng-new_35: -7100863886714910427
+      Ginseng-new_4: 7892226889674081155
+      Ginseng-new_5: -6817889440161492811
+      Ginseng-new_6: -622368753704533855
+      Ginseng-new_7: -3526315780847930775
+      Ginseng-new_8: 1639979677880226269
+      Ginseng-new_9: -9042736899382122968
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

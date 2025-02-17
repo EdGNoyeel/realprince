@@ -1,0 +1,2002 @@
+fileFormatVersion: 2
+guid: 9307758a162791643a8caa334ac5e8c1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3674046400177076216
+    second: gameover_start_0
+  - first:
+      213: 332645804486018372
+    second: gameover_start_1
+  - first:
+      213: -563762987246196327
+    second: gameover_start_2
+  - first:
+      213: 636711920735683425
+    second: gameover_start_3
+  - first:
+      213: -7734217880523458777
+    second: gameover_start_4
+  - first:
+      213: 7719674305539264610
+    second: gameover_start_5
+  - first:
+      213: -3311113054123653131
+    second: gameover_start_6
+  - first:
+      213: -2408862630169608392
+    second: gameover_start_7
+  - first:
+      213: -6103549243461293299
+    second: gameover_start_8
+  - first:
+      213: -2083888031100150618
+    second: gameover_start_9
+  - first:
+      213: -1085787338627114622
+    second: gameover_start_10
+  - first:
+      213: -1579944304579064463
+    second: gameover_start_11
+  - first:
+      213: 7382097733703067267
+    second: gameover_start_12
+  - first:
+      213: -2786073165097848111
+    second: gameover_start_13
+  - first:
+      213: -6697054270872391468
+    second: gameover_start_14
+  - first:
+      213: -8295025534804295905
+    second: gameover_start_15
+  - first:
+      213: 7746213560410677290
+    second: gameover_start_16
+  - first:
+      213: 957510621871764358
+    second: gameover_start_17
+  - first:
+      213: -5077117922988580449
+    second: gameover_start_18
+  - first:
+      213: -5766514846994615501
+    second: gameover_start_19
+  - first:
+      213: 1171021983803865371
+    second: gameover_start_20
+  - first:
+      213: 1962531975344278636
+    second: gameover_start_21
+  - first:
+      213: 6609298840776018120
+    second: gameover_start_22
+  - first:
+      213: 824133581325458071
+    second: gameover_start_23
+  - first:
+      213: 2255720689927406043
+    second: gameover_start_24
+  - first:
+      213: -2769269970051483939
+    second: gameover_start_25
+  - first:
+      213: 8729999764349960459
+    second: gameover_start_26
+  - first:
+      213: 720741205810100586
+    second: gameover_start_27
+  - first:
+      213: -7209097343389930279
+    second: gameover_start_28
+  - first:
+      213: -8317778750027297650
+    second: gameover_start_29
+  - first:
+      213: -3639332838676146633
+    second: gameover_start_30
+  - first:
+      213: 754019981261058788
+    second: gameover_start_31
+  - first:
+      213: 3785553937205414929
+    second: gameover_start_32
+  - first:
+      213: -7304189181532656309
+    second: gameover_start_33
+  - first:
+      213: -5732488368534057428
+    second: gameover_start_34
+  - first:
+      213: 49964183228022633
+    second: gameover_start_35
+  - first:
+      213: 2251440109980961342
+    second: gameover_start_36
+  - first:
+      213: -1373392271871886429
+    second: gameover_start_37
+  - first:
+      213: -2224561540916533687
+    second: gameover_start_38
+  - first:
+      213: 6587449185845758790
+    second: gameover_start_39
+  - first:
+      213: -2731393493422970186
+    second: gameover_start_40
+  - first:
+      213: 1859094999940180893
+    second: gameover_start_41
+  - first:
+      213: 2147715693179755762
+    second: gameover_start_42
+  - first:
+      213: -3770789277121306658
+    second: gameover_start_43
+  - first:
+      213: 4446411592171381667
+    second: gameover_start_44
+  - first:
+      213: -120256096731037551
+    second: gameover_start_45
+  - first:
+      213: 2447201464809752750
+    second: gameover_start_46
+  - first:
+      213: -6655361827134124730
+    second: gameover_start_47
+  - first:
+      213: 8347408728514667580
+    second: gameover_start_48
+  - first:
+      213: -8270223833854579955
+    second: gameover_start_49
+  - first:
+      213: -2321851898687713425
+    second: gameover_start_50
+  - first:
+      213: 8289251683793001214
+    second: gameover_start_51
+  - first:
+      213: 9128551696525701422
+    second: gameover_start_52
+  - first:
+      213: -418807458373653790
+    second: gameover_start_53
+  - first:
+      213: 2882518035512718825
+    second: gameover_start_54
+  - first:
+      213: -3457326795550361329
+    second: gameover_start_55
+  - first:
+      213: -4954859876716891710
+    second: gameover_start_56
+  - first:
+      213: 7077705864970925492
+    second: gameover_start_57
+  - first:
+      213: -5047934663697137021
+    second: gameover_start_58
+  - first:
+      213: 9082788725483519651
+    second: gameover_start_59
+  - first:
+      213: -2056560788333133247
+    second: gameover_start_60
+  - first:
+      213: 7582900729739485945
+    second: gameover_start_61
+  - first:
+      213: -2441206200996702590
+    second: gameover_start_62
+  - first:
+      213: -3255292361540060629
+    second: gameover_start_63
+  - first:
+      213: 602023819072562551
+    second: gameover_start_64
+  - first:
+      213: 8117126843773452287
+    second: gameover_start_65
+  - first:
+      213: 2486171750617025016
+    second: gameover_start_66
+  - first:
+      213: 7789125316838991864
+    second: gameover_start_67
+  - first:
+      213: 1786100131182447458
+    second: gameover_start_68
+  - first:
+      213: -8797515080732136443
+    second: gameover_start_69
+  - first:
+      213: -5262086832720606498
+    second: gameover_start_70
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gameover_start_0
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 2090
+        width: 310
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f77bda2cb5dcf230800000000000000
+      internalID: 3674046400177076216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameover_start_1
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 2090
+        width: 310
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 445c964c89bcd9400800000000000000
+      internalID: 332645804486018372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameover_start_2
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 2090
+        width: 310
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9996dafcc8c1d28f0800000000000000
+      internalID: -563762987246196327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameover_start_3
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 2090
+        width: 310
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16305b35e1e06d800800000000000000
+      internalID: 636711920735683425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameover_start_4
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 2090
+        width: 310
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 727bce7b0d98aa490800000000000000
+      internalID: -7734217880523458777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameover_start_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1900
+        width: 310
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 260d06b51eac12b60800000000000000
+      internalID: 7719674305539264610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameover_start_6
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1900
+        width: 310
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f70dc568309c02d0800000000000000
+      internalID: -3311113054123653131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameover_start_7
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 1900
+        width: 310
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83ff6085330029ed0800000000000000
+      internalID: -2408862630169608392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameover_start_8
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 1900
+        width: 310
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0ba2621d46db4ba0800000000000000
+      internalID: -6103549243461293299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameover_start_9
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 1900
+        width: 310
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ac569a60ea8413e0800000000000000
+      internalID: -2083888031100150618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameover_start_10
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 1900
+        width: 310
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28993831b228ee0f0800000000000000
+      internalID: -1085787338627114622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameover_start_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1710
+        width: 310
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17dc9a0a609e21ae0800000000000000
+      internalID: -1579944304579064463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameover_start_12
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1710
+        width: 310
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 386669ad6ca727660800000000000000
+      internalID: 7382097733703067267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameover_start_13
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 1710
+        width: 310
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d23814b731e559d0800000000000000
+      internalID: -2786073165097848111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameover_start_14
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 1710
+        width: 310
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d073278f984f03a0800000000000000
+      internalID: -6697054270872391468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameover_start_15
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 1710
+        width: 310
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1ff13b993622ec80800000000000000
+      internalID: -8295025534804295905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameover_start_16
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 1710
+        width: 310
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a20a7962134108b60800000000000000
+      internalID: 7746213560410677290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameover_start_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1520
+        width: 310
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 683745566d2c94d00800000000000000
+      internalID: 957510621871764358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameover_start_18
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1520
+        width: 310
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f912f7516247a89b0800000000000000
+      internalID: -5077117922988580449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameover_start_19
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 1520
+        width: 310
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 333bed88c4939ffa0800000000000000
+      internalID: -5766514846994615501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameover_start_20
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 1520
+        width: 310
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b197dc83a4e404010800000000000000
+      internalID: 1171021983803865371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameover_start_21
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 1520
+        width: 310
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6ccdb20f605c3b10800000000000000
+      internalID: 1962531975344278636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameover_start_22
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 1520
+        width: 310
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c80bd23742f8bb50800000000000000
+      internalID: 6609298840776018120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameover_start_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1330
+        width: 310
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79adf523029ef6b00800000000000000
+      internalID: 824133581325458071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameover_start_24
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1330
+        width: 310
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd14f93240eed4f10800000000000000
+      internalID: 2255720689927406043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameover_start_25
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 1330
+        width: 310
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd6bceb62a39199d0800000000000000
+      internalID: -2769269970051483939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameover_start_26
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 1330
+        width: 310
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b01c25b3880372970800000000000000
+      internalID: 8729999764349960459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameover_start_27
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 1330
+        width: 310
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a693c4bde46900a00800000000000000
+      internalID: 720741205810100586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameover_start_28
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 1330
+        width: 310
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dce700692424fb90800000000000000
+      internalID: -7209097343389930279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameover_start_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1140
+        width: 310
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8c845cdb40519c80800000000000000
+      internalID: -8317778750027297650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameover_start_30
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1140
+        width: 310
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7365b43b01e7e7dc0800000000000000
+      internalID: -3639332838676146633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameover_start_31
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 1140
+        width: 310
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e2bc909d21d67a00800000000000000
+      internalID: 754019981261058788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameover_start_32
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 1140
+        width: 310
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11cc539cf3df88430800000000000000
+      internalID: 3785553937205414929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameover_start_33
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 1140
+        width: 310
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4dae7e73ae42aa90800000000000000
+      internalID: -7304189181532656309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameover_start_34
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 1140
+        width: 310
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2e087a633c1270b0800000000000000
+      internalID: -5732488368534057428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameover_start_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 950
+        width: 310
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96f7cc0f82281b000800000000000000
+      internalID: 49964183228022633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameover_start_36
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 950
+        width: 310
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3a4b74f9d8be3f10800000000000000
+      internalID: 2251440109980961342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameover_start_37
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 950
+        width: 310
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ab3fc9510bb0fce0800000000000000
+      internalID: -1373392271871886429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameover_start_38
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 950
+        width: 310
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 946aca49015c021e0800000000000000
+      internalID: -2224561540916533687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameover_start_39
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 950
+        width: 310
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64bc54af1225b6b50800000000000000
+      internalID: 6587449185845758790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameover_start_40
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 950
+        width: 310
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bae5bad614281ad0800000000000000
+      internalID: -2731393493422970186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameover_start_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 760
+        width: 310
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9ba3237d05dcc910800000000000000
+      internalID: 1859094999940180893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameover_start_42
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 760
+        width: 310
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fcd28a3b083ecd10800000000000000
+      internalID: 2147715693179755762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameover_start_43
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 760
+        width: 310
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edf155681277babc0800000000000000
+      internalID: -3770789277121306658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameover_start_44
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 760
+        width: 310
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a3ed84f8c3d4bd30800000000000000
+      internalID: 4446411592171381667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameover_start_45
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 760
+        width: 310
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 190854897b3c45ef0800000000000000
+      internalID: -120256096731037551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameover_start_46
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 760
+        width: 310
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea80dc334c436f120800000000000000
+      internalID: 2447201464809752750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameover_start_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 570
+        width: 310
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64dc9f90ea763a3a0800000000000000
+      internalID: -6655361827134124730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameover_start_48
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 570
+        width: 310
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c34ac1a1304f7d370800000000000000
+      internalID: 8347408728514667580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameover_start_49
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 570
+        width: 310
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0be02a9d334a3d80800000000000000
+      internalID: -8270223833854579955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameover_start_50
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 570
+        width: 310
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6f07a5ffff17cfd0800000000000000
+      internalID: -2321851898687713425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameover_start_51
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 570
+        width: 310
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efa5a42fc76590370800000000000000
+      internalID: 8289251683793001214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameover_start_52
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 570
+        width: 310
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e21343127612fae70800000000000000
+      internalID: 9128551696525701422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameover_start_53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 380
+        width: 310
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eaaa56e5d8103af0800000000000000
+      internalID: -418807458373653790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameover_start_54
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 380
+        width: 310
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e5746d81e2c00820800000000000000
+      internalID: 2882518035512718825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameover_start_55
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 380
+        width: 310
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f09f7ced89b1500d0800000000000000
+      internalID: -3457326795550361329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameover_start_56
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 380
+        width: 310
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c13470b13dcc3bb0800000000000000
+      internalID: -4954859876716891710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameover_start_57
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 380
+        width: 310
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b57a422cff093260800000000000000
+      internalID: 7077705864970925492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameover_start_58
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 380
+        width: 310
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38283f02b2222f9b0800000000000000
+      internalID: -5047934663697137021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameover_start_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 190
+        width: 310
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ae3e50293c8c0e70800000000000000
+      internalID: 9082788725483519651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameover_start_60
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 190
+        width: 310
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1420860fbd0a573e0800000000000000
+      internalID: -2056560788333133247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameover_start_61
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 190
+        width: 310
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f22c2ba900eb3960800000000000000
+      internalID: 7582900729739485945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameover_start_62
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 190
+        width: 310
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2865c1ee4e71f1ed0800000000000000
+      internalID: -2441206200996702590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameover_start_63
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 190
+        width: 310
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2abc5e28d0e2d2d0800000000000000
+      internalID: -3255292361540060629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameover_start_64
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 190
+        width: 310
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 775e42a4971da5800800000000000000
+      internalID: 602023819072562551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameover_start_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 310
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff77e7abd3d5a070800000000000000
+      internalID: 8117126843773452287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameover_start_66
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 0
+        width: 310
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f9832ee808a08220800000000000000
+      internalID: 2486171750617025016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameover_start_67
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 0
+        width: 310
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f7a0350538881c60800000000000000
+      internalID: 7789125316838991864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameover_start_68
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 0
+        width: 310
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b886c2b9089c810800000000000000
+      internalID: 1786100131182447458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameover_start_69
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 0
+        width: 310
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50ca1d235a2f8e580800000000000000
+      internalID: -8797515080732136443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameover_start_70
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 0
+        width: 310
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda8d66c7ef49f6b0800000000000000
+      internalID: -5262086832720606498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      gameover_start_0: 3674046400177076216
+      gameover_start_1: 332645804486018372
+      gameover_start_10: -1085787338627114622
+      gameover_start_11: -1579944304579064463
+      gameover_start_12: 7382097733703067267
+      gameover_start_13: -2786073165097848111
+      gameover_start_14: -6697054270872391468
+      gameover_start_15: -8295025534804295905
+      gameover_start_16: 7746213560410677290
+      gameover_start_17: 957510621871764358
+      gameover_start_18: -5077117922988580449
+      gameover_start_19: -5766514846994615501
+      gameover_start_2: -563762987246196327
+      gameover_start_20: 1171021983803865371
+      gameover_start_21: 1962531975344278636
+      gameover_start_22: 6609298840776018120
+      gameover_start_23: 824133581325458071
+      gameover_start_24: 2255720689927406043
+      gameover_start_25: -2769269970051483939
+      gameover_start_26: 8729999764349960459
+      gameover_start_27: 720741205810100586
+      gameover_start_28: -7209097343389930279
+      gameover_start_29: -8317778750027297650
+      gameover_start_3: 636711920735683425
+      gameover_start_30: -3639332838676146633
+      gameover_start_31: 754019981261058788
+      gameover_start_32: 3785553937205414929
+      gameover_start_33: -7304189181532656309
+      gameover_start_34: -5732488368534057428
+      gameover_start_35: 49964183228022633
+      gameover_start_36: 2251440109980961342
+      gameover_start_37: -1373392271871886429
+      gameover_start_38: -2224561540916533687
+      gameover_start_39: 6587449185845758790
+      gameover_start_4: -7734217880523458777
+      gameover_start_40: -2731393493422970186
+      gameover_start_41: 1859094999940180893
+      gameover_start_42: 2147715693179755762
+      gameover_start_43: -3770789277121306658
+      gameover_start_44: 4446411592171381667
+      gameover_start_45: -120256096731037551
+      gameover_start_46: 2447201464809752750
+      gameover_start_47: -6655361827134124730
+      gameover_start_48: 8347408728514667580
+      gameover_start_49: -8270223833854579955
+      gameover_start_5: 7719674305539264610
+      gameover_start_50: -2321851898687713425
+      gameover_start_51: 8289251683793001214
+      gameover_start_52: 9128551696525701422
+      gameover_start_53: -418807458373653790
+      gameover_start_54: 2882518035512718825
+      gameover_start_55: -3457326795550361329
+      gameover_start_56: -4954859876716891710
+      gameover_start_57: 7077705864970925492
+      gameover_start_58: -5047934663697137021
+      gameover_start_59: 9082788725483519651
+      gameover_start_6: -3311113054123653131
+      gameover_start_60: -2056560788333133247
+      gameover_start_61: 7582900729739485945
+      gameover_start_62: -2441206200996702590
+      gameover_start_63: -3255292361540060629
+      gameover_start_64: 602023819072562551
+      gameover_start_65: 8117126843773452287
+      gameover_start_66: 2486171750617025016
+      gameover_start_67: 7789125316838991864
+      gameover_start_68: 1786100131182447458
+      gameover_start_69: -8797515080732136443
+      gameover_start_7: -2408862630169608392
+      gameover_start_70: -5262086832720606498
+      gameover_start_8: -6103549243461293299
+      gameover_start_9: -2083888031100150618
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

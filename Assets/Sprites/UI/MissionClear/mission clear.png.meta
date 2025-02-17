@@ -1,0 +1,2002 @@
+fileFormatVersion: 2
+guid: b76d1f2d8ca90a84cbd10ad49e627e2c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1436034418179384990
+    second: mission clear_0
+  - first:
+      213: -219326725185784316
+    second: mission clear_1
+  - first:
+      213: -4001174402216682371
+    second: mission clear_2
+  - first:
+      213: 7098617898371805260
+    second: mission clear_3
+  - first:
+      213: 991586051553043847
+    second: mission clear_4
+  - first:
+      213: -27616117993871052
+    second: mission clear_5
+  - first:
+      213: 2309792239430185718
+    second: mission clear_6
+  - first:
+      213: -3939952184455881601
+    second: mission clear_7
+  - first:
+      213: 993591758654692455
+    second: mission clear_8
+  - first:
+      213: -7417016068178286380
+    second: mission clear_9
+  - first:
+      213: -7760396009740583474
+    second: mission clear_10
+  - first:
+      213: -5055275701252100555
+    second: mission clear_11
+  - first:
+      213: 7685342482150407853
+    second: mission clear_12
+  - first:
+      213: 262475311284285748
+    second: mission clear_13
+  - first:
+      213: 1880291312788501920
+    second: mission clear_14
+  - first:
+      213: 1642238744962659824
+    second: mission clear_15
+  - first:
+      213: -5413009716435955946
+    second: mission clear_16
+  - first:
+      213: -4621399354910845164
+    second: mission clear_17
+  - first:
+      213: -7282212565358202112
+    second: mission clear_18
+  - first:
+      213: 4969503887902219759
+    second: mission clear_19
+  - first:
+      213: -8032135419285267508
+    second: mission clear_20
+  - first:
+      213: 1114816173604879187
+    second: mission clear_21
+  - first:
+      213: 6318353095778767238
+    second: mission clear_22
+  - first:
+      213: 8208744514745206204
+    second: mission clear_23
+  - first:
+      213: 6503346135396527851
+    second: mission clear_24
+  - first:
+      213: 4704431291536445248
+    second: mission clear_25
+  - first:
+      213: -2582816430311896836
+    second: mission clear_26
+  - first:
+      213: -3136361258631834160
+    second: mission clear_27
+  - first:
+      213: -7752220186717543801
+    second: mission clear_28
+  - first:
+      213: -743935974200959101
+    second: mission clear_29
+  - first:
+      213: 8300274441513467283
+    second: mission clear_30
+  - first:
+      213: -4615098127882777989
+    second: mission clear_31
+  - first:
+      213: 3393053062283336167
+    second: mission clear_32
+  - first:
+      213: 918861446848668423
+    second: mission clear_33
+  - first:
+      213: -8268703891361260708
+    second: mission clear_34
+  - first:
+      213: -7855800596913478757
+    second: mission clear_35
+  - first:
+      213: 2166261256054044994
+    second: mission clear_36
+  - first:
+      213: 7295862092718600491
+    second: mission clear_37
+  - first:
+      213: 568877842265065615
+    second: mission clear_38
+  - first:
+      213: -7570969160246199384
+    second: mission clear_39
+  - first:
+      213: -2874552843361968184
+    second: mission clear_40
+  - first:
+      213: -3378976888701451971
+    second: mission clear_41
+  - first:
+      213: 8113672762745083388
+    second: mission clear_42
+  - first:
+      213: 1283137029012248588
+    second: mission clear_43
+  - first:
+      213: 7805495943324575538
+    second: mission clear_44
+  - first:
+      213: 2636739703853975068
+    second: mission clear_45
+  - first:
+      213: -4426738300057538406
+    second: mission clear_46
+  - first:
+      213: 2734436401726665124
+    second: mission clear_47
+  - first:
+      213: 6288065089458873736
+    second: mission clear_48
+  - first:
+      213: -5603383499909985689
+    second: mission clear_49
+  - first:
+      213: 2534280825609072012
+    second: mission clear_50
+  - first:
+      213: 905886911196004041
+    second: mission clear_51
+  - first:
+      213: -5369515409492086762
+    second: mission clear_52
+  - first:
+      213: -1263943324448623404
+    second: mission clear_53
+  - first:
+      213: 7398376093245827203
+    second: mission clear_54
+  - first:
+      213: 7003413347874538066
+    second: mission clear_55
+  - first:
+      213: -1136217797137738185
+    second: mission clear_56
+  - first:
+      213: -4559962052142840867
+    second: mission clear_57
+  - first:
+      213: -6270684805004032503
+    second: mission clear_58
+  - first:
+      213: 8165757286365184039
+    second: mission clear_59
+  - first:
+      213: 137635194867748070
+    second: mission clear_60
+  - first:
+      213: 4848305012963342048
+    second: mission clear_61
+  - first:
+      213: 1094857007366320059
+    second: mission clear_62
+  - first:
+      213: 6002730048782085940
+    second: mission clear_63
+  - first:
+      213: -1718568339676117265
+    second: mission clear_64
+  - first:
+      213: 5443118511124175478
+    second: mission clear_65
+  - first:
+      213: 3890340994471298607
+    second: mission clear_66
+  - first:
+      213: 5804632040839995535
+    second: mission clear_67
+  - first:
+      213: -7956168349919800910
+    second: mission clear_68
+  - first:
+      213: -756637091772575349
+    second: mission clear_69
+  - first:
+      213: 94640361042701732
+    second: mission clear_70
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mission clear_0
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 3230
+        width: 410
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 269de2b1e4e221ce0800000000000000
+      internalID: -1436034418179384990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mission clear_1
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 3230
+        width: 410
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4063d87618bc4fcf0800000000000000
+      internalID: -219326725185784316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mission clear_2
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 3230
+        width: 410
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7c1d7f8419f878c0800000000000000
+      internalID: -4001174402216682371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mission clear_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3040
+        width: 410
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c407ea45e5b538260800000000000000
+      internalID: 7098617898371805260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mission clear_4
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 3040
+        width: 410
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7852d0f9242d2cd00800000000000000
+      internalID: 991586051553043847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mission clear_5
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 3040
+        width: 410
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43966e87943ed9ff0800000000000000
+      internalID: -27616117993871052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mission clear_6
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 3040
+        width: 410
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f2b030ddc70e0020800000000000000
+      internalID: 2309792239430185718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mission clear_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2850
+        width: 410
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c9b7dec5a7259c0800000000000000
+      internalID: -3939952184455881601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mission clear_8
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 2850
+        width: 410
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76c5e52b072f9cd00800000000000000
+      internalID: 993591758654692455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mission clear_9
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 2850
+        width: 410
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d86edade27711990800000000000000
+      internalID: -7417016068178286380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mission clear_10
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 2850
+        width: 410
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecdbd0b02f88d4490800000000000000
+      internalID: -7760396009740583474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mission clear_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2660
+        width: 410
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53e6431a88d08d9b0800000000000000
+      internalID: -5055275701252100555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mission clear_12
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 2660
+        width: 410
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae3bc1d442d7aa60800000000000000
+      internalID: 7685342482150407853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mission clear_13
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 2660
+        width: 410
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 431f86ba7ef74a300800000000000000
+      internalID: 262475311284285748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mission clear_14
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 2660
+        width: 410
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a5f20d9cf2281a10800000000000000
+      internalID: 1880291312788501920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mission clear_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2470
+        width: 410
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f5f1e500776ac610800000000000000
+      internalID: 1642238744962659824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mission clear_16
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 2470
+        width: 410
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61fc81e975021e4b0800000000000000
+      internalID: -5413009716435955946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mission clear_17
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 2470
+        width: 410
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 417d15d95cd7ddfb0800000000000000
+      internalID: -4621399354910845164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mission clear_18
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 2470
+        width: 410
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00330fe214260fa90800000000000000
+      internalID: -7282212565358202112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mission clear_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2280
+        width: 410
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fed955cd47937f440800000000000000
+      internalID: 4969503887902219759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mission clear_20
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 2280
+        width: 410
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb1ba9646f188090800000000000000
+      internalID: -8032135419285267508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mission clear_21
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 2280
+        width: 410
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35b3491476f987f00800000000000000
+      internalID: 1114816173604879187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mission clear_22
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 2280
+        width: 410
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 681126f1aac4fa750800000000000000
+      internalID: 6318353095778767238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mission clear_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2090
+        width: 410
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb50355f4a15be170800000000000000
+      internalID: 8208744514745206204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mission clear_24
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 2090
+        width: 410
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee28bb9ad6804a50800000000000000
+      internalID: 6503346135396527851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mission clear_25
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 2090
+        width: 410
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04f0342a55f794140800000000000000
+      internalID: 4704431291536445248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mission clear_26
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 2090
+        width: 410
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf88737142ef72cd0800000000000000
+      internalID: -2582816430311896836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mission clear_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1900
+        width: 410
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d5d3fb6d086974d0800000000000000
+      internalID: -3136361258631834160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mission clear_28
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 1900
+        width: 410
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 782a61e20d49a6490800000000000000
+      internalID: -7752220186717543801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mission clear_29
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 1900
+        width: 410
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f1e1a4c220da5f0800000000000000
+      internalID: -743935974200959101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mission clear_30
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 1900
+        width: 410
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39df9a8b0af703370800000000000000
+      internalID: 8300274441513467283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mission clear_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1710
+        width: 410
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7a0afb54b0e3ffb0800000000000000
+      internalID: -4615098127882777989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mission clear_32
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 1710
+        width: 410
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e9137178cb861f20800000000000000
+      internalID: 3393053062283336167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mission clear_33
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 1710
+        width: 410
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70367391e9370cc00800000000000000
+      internalID: 918861446848668423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mission clear_34
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 1710
+        width: 410
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5b958ace99af3d80800000000000000
+      internalID: -8268703891361260708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mission clear_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1520
+        width: 410
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b93abaa9af69af290800000000000000
+      internalID: -7855800596913478757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mission clear_36
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 1520
+        width: 410
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 249fac1922b101e10800000000000000
+      internalID: 2166261256054044994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mission clear_37
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 1520
+        width: 410
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b21fabe0beb104560800000000000000
+      internalID: 7295862092718600491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mission clear_38
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 1520
+        width: 410
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f88cccc226f05e700800000000000000
+      internalID: 568877842265065615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mission clear_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1330
+        width: 410
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ab761659a38ee690800000000000000
+      internalID: -7570969160246199384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mission clear_40
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 1330
+        width: 410
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cf12534b698b18d0800000000000000
+      internalID: -2874552843361968184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mission clear_41
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 1330
+        width: 410
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3102bc1c667b11d0800000000000000
+      internalID: -3378976888701451971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mission clear_42
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 1330
+        width: 410
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf5de2fb36e899070800000000000000
+      internalID: 8113672762745083388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mission clear_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1140
+        width: 410
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c08dc6c545e9ec110800000000000000
+      internalID: 1283137029012248588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mission clear_44
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 1140
+        width: 410
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2372d958431b25c60800000000000000
+      internalID: 7805495943324575538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mission clear_45
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 1140
+        width: 410
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1682656ac4979420800000000000000
+      internalID: 2636739703853975068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mission clear_46
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 1140
+        width: 410
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a90347f48f01192c0800000000000000
+      internalID: -4426738300057538406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mission clear_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 950
+        width: 410
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a1b0d17b6ba2f520800000000000000
+      internalID: 2734436401726665124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mission clear_48
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 950
+        width: 410
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8852bbd12e1b34750800000000000000
+      internalID: 6288065089458873736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mission clear_49
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 950
+        width: 410
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76a84931568cc32b0800000000000000
+      internalID: -5603383499909985689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mission clear_50
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 950
+        width: 410
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d2383dbf29b2320800000000000000
+      internalID: 2534280825609072012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mission clear_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 760
+        width: 410
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ce738c985b529c00800000000000000
+      internalID: 905886911196004041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mission clear_52
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 760
+        width: 410
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 610fc391f26ab75b0800000000000000
+      internalID: -5369515409492086762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mission clear_53
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 760
+        width: 410
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d4730a3e32957ee0800000000000000
+      internalID: -1263943324448623404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mission clear_54
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 760
+        width: 410
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 388e8a8cbdf4ca660800000000000000
+      internalID: 7398376093245827203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mission clear_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 570
+        width: 410
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2528a4f855f113160800000000000000
+      internalID: 7003413347874538066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mission clear_56
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 570
+        width: 410
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 736d026fee75b30f0800000000000000
+      internalID: -1136217797137738185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mission clear_57
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 570
+        width: 410
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd3c3cc5ca2c7b0c0800000000000000
+      internalID: -4559962052142840867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mission clear_58
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 570
+        width: 410
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9068b43b46d0af8a0800000000000000
+      internalID: -6270684805004032503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mission clear_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 380
+        width: 410
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 720cad7ecf8925170800000000000000
+      internalID: 8165757286365184039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mission clear_60
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 380
+        width: 410
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ec0fa20b7af8e100800000000000000
+      internalID: 137635194867748070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mission clear_61
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 380
+        width: 410
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e6fc6cc8b3a84340800000000000000
+      internalID: 4848305012963342048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mission clear_62
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 380
+        width: 410
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbfaaebb5a6b13f00800000000000000
+      internalID: 1094857007366320059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mission clear_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 190
+        width: 410
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43f2830fc2bfd4350800000000000000
+      internalID: 6002730048782085940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mission clear_64
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 190
+        width: 410
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe64f5f433b6628e0800000000000000
+      internalID: -1718568339676117265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mission clear_65
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 190
+        width: 410
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67ad8ed6277d98b40800000000000000
+      internalID: 5443118511124175478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mission clear_66
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 190
+        width: 410
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f260a96c5844df530800000000000000
+      internalID: 3890340994471298607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mission clear_67
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 410
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f806e1e36123e8050800000000000000
+      internalID: 5804632040839995535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mission clear_68
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 0
+        width: 410
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b113d11a03069190800000000000000
+      internalID: -7956168349919800910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mission clear_69
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 0
+        width: 410
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b81d209e292ef75f0800000000000000
+      internalID: -756637091772575349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mission clear_70
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 0
+        width: 410
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ad6d5d28ea305100800000000000000
+      internalID: 94640361042701732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      mission clear_0: -1436034418179384990
+      mission clear_1: -219326725185784316
+      mission clear_10: -7760396009740583474
+      mission clear_11: -5055275701252100555
+      mission clear_12: 7685342482150407853
+      mission clear_13: 262475311284285748
+      mission clear_14: 1880291312788501920
+      mission clear_15: 1642238744962659824
+      mission clear_16: -5413009716435955946
+      mission clear_17: -4621399354910845164
+      mission clear_18: -7282212565358202112
+      mission clear_19: 4969503887902219759
+      mission clear_2: -4001174402216682371
+      mission clear_20: -8032135419285267508
+      mission clear_21: 1114816173604879187
+      mission clear_22: 6318353095778767238
+      mission clear_23: 8208744514745206204
+      mission clear_24: 6503346135396527851
+      mission clear_25: 4704431291536445248
+      mission clear_26: -2582816430311896836
+      mission clear_27: -3136361258631834160
+      mission clear_28: -7752220186717543801
+      mission clear_29: -743935974200959101
+      mission clear_3: 7098617898371805260
+      mission clear_30: 8300274441513467283
+      mission clear_31: -4615098127882777989
+      mission clear_32: 3393053062283336167
+      mission clear_33: 918861446848668423
+      mission clear_34: -8268703891361260708
+      mission clear_35: -7855800596913478757
+      mission clear_36: 2166261256054044994
+      mission clear_37: 7295862092718600491
+      mission clear_38: 568877842265065615
+      mission clear_39: -7570969160246199384
+      mission clear_4: 991586051553043847
+      mission clear_40: -2874552843361968184
+      mission clear_41: -3378976888701451971
+      mission clear_42: 8113672762745083388
+      mission clear_43: 1283137029012248588
+      mission clear_44: 7805495943324575538
+      mission clear_45: 2636739703853975068
+      mission clear_46: -4426738300057538406
+      mission clear_47: 2734436401726665124
+      mission clear_48: 6288065089458873736
+      mission clear_49: -5603383499909985689
+      mission clear_5: -27616117993871052
+      mission clear_50: 2534280825609072012
+      mission clear_51: 905886911196004041
+      mission clear_52: -5369515409492086762
+      mission clear_53: -1263943324448623404
+      mission clear_54: 7398376093245827203
+      mission clear_55: 7003413347874538066
+      mission clear_56: -1136217797137738185
+      mission clear_57: -4559962052142840867
+      mission clear_58: -6270684805004032503
+      mission clear_59: 8165757286365184039
+      mission clear_6: 2309792239430185718
+      mission clear_60: 137635194867748070
+      mission clear_61: 4848305012963342048
+      mission clear_62: 1094857007366320059
+      mission clear_63: 6002730048782085940
+      mission clear_64: -1718568339676117265
+      mission clear_65: 5443118511124175478
+      mission clear_66: 3890340994471298607
+      mission clear_67: 5804632040839995535
+      mission clear_68: -7956168349919800910
+      mission clear_69: -756637091772575349
+      mission clear_7: -3939952184455881601
+      mission clear_70: 94640361042701732
+      mission clear_8: 993591758654692455
+      mission clear_9: -7417016068178286380
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

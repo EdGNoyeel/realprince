@@ -1,0 +1,624 @@
+fileFormatVersion: 2
+guid: d54e2806bdb84a54b8377a6c1d622ecc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6561806747672166711
+    second: batch_1mulchi_0
+  - first:
+      213: 7211568310111627672
+    second: batch_1mulchi_1
+  - first:
+      213: -4476405743473046197
+    second: batch_1mulchi_2
+  - first:
+      213: 3964886823439376934
+    second: batch_1mulchi_3
+  - first:
+      213: -3219901385004848734
+    second: batch_1mulchi_4
+  - first:
+      213: 5382111258745912934
+    second: batch_1mulchi_5
+  - first:
+      213: 3253594925088262226
+    second: batch_1mulchi_6
+  - first:
+      213: 1411400712217076029
+    second: batch_1mulchi_7
+  - first:
+      213: 3512224173043866148
+    second: batch_1mulchi_8
+  - first:
+      213: -5919101901048385837
+    second: batch_1mulchi_9
+  - first:
+      213: -3117148055314020177
+    second: batch_1mulchi_10
+  - first:
+      213: -5289261050234958325
+    second: batch_1mulchi_11
+  - first:
+      213: -9130418223829627985
+    second: batch_1mulchi_12
+  - first:
+      213: -239675679538374267
+    second: batch_1mulchi_13
+  - first:
+      213: -3076791787449820644
+    second: batch_1mulchi_14
+  - first:
+      213: -3989559873588817989
+    second: batch_1mulchi_15
+  - first:
+      213: 379941160208532811
+    second: batch_1mulchi_16
+  - first:
+      213: -7703148763354812204
+    second: batch_1mulchi_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: batch_1mulchi_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1109
+        width: 481
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 10}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 731c2c79878301b50800000000000000
+      internalID: 6561806747672166711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_1mulchi_1
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 1108.8
+        width: 481.25
+        height: 277.2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 10}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 899eaa56b23a41460800000000000000
+      internalID: 7211568310111627672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_1mulchi_2
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 1108.8
+        width: 481.25
+        height: 277.2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 10}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4d45cd71bc90e1c0800000000000000
+      internalID: -4476405743473046197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_1mulchi_3
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 1108.8
+        width: 481.25
+        height: 277.2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 10}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6222bbd1f8b160730800000000000000
+      internalID: 3964886823439376934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_1mulchi_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 831.8
+        width: 481.25
+        height: 277.2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 10}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a96ff600cc9053d0800000000000000
+      internalID: -3219901385004848734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_1mulchi_5
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 831.8
+        width: 481.25
+        height: 277.2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 10}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66e3e279ca911ba40800000000000000
+      internalID: 5382111258745912934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_1mulchi_6
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 831.8
+        width: 481.25
+        height: 277.2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 10}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25846e89857172d20800000000000000
+      internalID: 3253594925088262226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_1mulchi_7
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 831.8
+        width: 481.25
+        height: 277.2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 10}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d31ae67487d469310800000000000000
+      internalID: 1411400712217076029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_1mulchi_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 554.8
+        width: 481.25
+        height: 277.2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 10}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42ad1ddd64dedb030800000000000000
+      internalID: 3512224173043866148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_1mulchi_9
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 554.8
+        width: 481.25
+        height: 277.2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 10}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3deeba68e202bdda0800000000000000
+      internalID: -5919101901048385837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_1mulchi_10
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 554.8
+        width: 481.25
+        height: 277.2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 10}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa845baeb5aadb4d0800000000000000
+      internalID: -3117148055314020177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_1mulchi_11
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 554.8
+        width: 481.25
+        height: 277.2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 10}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0e8f683915c896b0800000000000000
+      internalID: -5289261050234958325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_1mulchi_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 277.8
+        width: 481.25
+        height: 277.2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 10}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fabc1ed100d3a4180800000000000000
+      internalID: -9130418223829627985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_1mulchi_13
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 277.8
+        width: 481.25
+        height: 277.2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 10}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58990d34d308cacf0800000000000000
+      internalID: -239675679538374267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_1mulchi_14
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 279
+        width: 481
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 10}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ad63dbb2a0d45d0800000000000000
+      internalID: -3076791787449820644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_1mulchi_15
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 277.8
+        width: 481.25
+        height: 277.2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 10}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf069cbe6c32a8c0800000000000000
+      internalID: -3989559873588817989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_1mulchi_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0.7999878
+        width: 481.25
+        height: 277.2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 10}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4587c1e872d54500800000000000000
+      internalID: 379941160208532811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_1mulchi_17
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 0
+        width: 481
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 10}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d03f34430be81590800000000000000
+      internalID: -7703148763354812204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      batch_1mulchi_0: 6561806747672166711
+      batch_1mulchi_1: 7211568310111627672
+      batch_1mulchi_10: -3117148055314020177
+      batch_1mulchi_11: -5289261050234958325
+      batch_1mulchi_12: -9130418223829627985
+      batch_1mulchi_13: -239675679538374267
+      batch_1mulchi_14: -3076791787449820644
+      batch_1mulchi_15: -3989559873588817989
+      batch_1mulchi_16: 379941160208532811
+      batch_1mulchi_17: -7703148763354812204
+      batch_1mulchi_2: -4476405743473046197
+      batch_1mulchi_3: 3964886823439376934
+      batch_1mulchi_4: -3219901385004848734
+      batch_1mulchi_5: 5382111258745912934
+      batch_1mulchi_6: 3253594925088262226
+      batch_1mulchi_7: 1411400712217076029
+      batch_1mulchi_8: 3512224173043866148
+      batch_1mulchi_9: -5919101901048385837
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

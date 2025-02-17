@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2917959679231971651
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 337155381923442823}
+  - component: {fileID: 5218870081813799991}
+  m_Layer: 0
+  m_Name: Gold1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &337155381923442823
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2917959679231971651}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5218870081813799991
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2917959679231971651}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 065be69fc55fa4063b4040f6e0359f58, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _targetPoint: 1000000000
+  _currentPoint: 134870036
+  requirement: "\uACE8\uB4DC 100,000 \uBAA8\uC73C\uAE30!!"
+  rewardment: "\uACE8\uB4DC 10,000,000\uBCF4\uC0C1!"
+  condi: "\uACE8\uB4DC 100,000 \uBAA8\uC73C\uAE30!!(134870036/1000000000)"
+  canUnlock: 0
+  progress: 0.13487004
+  rewardPrefab: {fileID: 2033603725970619968, guid: b87148d9992024f0eae70295e918ac1c,
+    type: 3}
+  _rewardGold: 10000000

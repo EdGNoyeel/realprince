@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1520748055094207395
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4215935276348731644}
+  - component: {fileID: 4419755001053151091}
+  m_Layer: 0
+  m_Name: Stage0209
+  m_TagString: stage
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4215935276348731644
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1520748055094207395}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4419755001053151091
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1520748055094207395}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f1a52a7a63bdb4a2c9575c49c9ad43c3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  stageDifficulty: 11
+  levelDifficulty: 0
+  totalDifficulty: 0
+  exp: 0
+  stageName: "9. \uB9AC\uB9AC\uB9BF\uC790\uB85C \uB05D\uB098\uB294 \uB9D0\uC740?"
+  stageNumb: 9
+  Prefab1: {fileID: 7734070393137897335, guid: e3ce58a70a27ebe408866e62a0b20c11, type: 3}
+  Prefab2: {fileID: 7734070393137897335, guid: e3ce58a70a27ebe408866e62a0b20c11, type: 3}
+  Prefab3: {fileID: 9185269867780590042, guid: 9e589108f85b13a479fab9d2da59e531, type: 3}
+  Prefab4: {fileID: 7734070393137897335, guid: e3ce58a70a27ebe408866e62a0b20c11, type: 3}
+  stageTitle: {fileID: 0}
+  story: "\uB300\uBA38\uB9AC \uBA38\uBA38\uB9AC \uBA38\uB300\uB9AC \uB300\uB300\uB9AC
+    \uD145\uBE48 \uC815\uC218\uB9AC"
+  recomPower: ..
+  recomPowerNumb: ..
+  vicMent: "\"\uB300\uBA38\uB9AC \uAE4E\uC544\uB77C\"\uB294 \uB9D0\uC774 \uC548\uB418\uC8E0.
+    \uAE4E\uC744\uAC8C \uC5C6\uB294\uB370..."
+  bG: {fileID: 0}
+  presentMonster: 00000000000100000001000000000000000000000000000000
+  waves: []
+  waveInterval: 8
+  initialScore: 0
+  currentScore: 0
+  vicCondi: 
+  time_start: 0
+  time_current: 0
+  time_Max: 60
+  isEnded: 0
+  timer: 
+  initialTooth: 0
+  stars: 0
+  intervalSec: 1
+  intervalClone: 0
+  enemyCountLimit: 10
+  enemy: []
+  enemyCount: 0
+  currentStory: 0

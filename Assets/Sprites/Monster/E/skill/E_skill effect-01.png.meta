@@ -1,0 +1,676 @@
+fileFormatVersion: 2
+guid: 6bd5d19159ed61a4380672ad9c650a7e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3145914056073662801
+    second: E_skill effect-01_0
+  - first:
+      213: 3625105702910076561
+    second: E_skill effect-01_1
+  - first:
+      213: 372642814023618160
+    second: E_skill effect-01_2
+  - first:
+      213: 8147664344344798319
+    second: E_skill effect-01_3
+  - first:
+      213: -6515634334363405418
+    second: E_skill effect-01_4
+  - first:
+      213: -7833864256511674528
+    second: E_skill effect-01_5
+  - first:
+      213: -6498517516716218590
+    second: E_skill effect-01_6
+  - first:
+      213: -8701198839161540160
+    second: E_skill effect-01_7
+  - first:
+      213: 2796592334389439646
+    second: E_skill effect-01_8
+  - first:
+      213: -6887114002757153780
+    second: E_skill effect-01_9
+  - first:
+      213: -6586086461937767714
+    second: E_skill effect-01_10
+  - first:
+      213: -1244693320516214368
+    second: E_skill effect-01_11
+  - first:
+      213: 3825115382572473193
+    second: E_skill effect-01_12
+  - first:
+      213: -5960214881670821342
+    second: E_skill effect-01_13
+  - first:
+      213: 3427363530377817551
+    second: E_skill effect-01_14
+  - first:
+      213: 1783819888115835387
+    second: E_skill effect-01_15
+  - first:
+      213: -1657822711329451160
+    second: E_skill effect-01_16
+  - first:
+      213: -4033350152777216082
+    second: E_skill effect-01_17
+  - first:
+      213: -6716585452561855054
+    second: E_skill effect-01_18
+  - first:
+      213: 2726731377639085712
+    second: E_skill effect-01_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: E_skill effect-01_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1968.8
+        width: 875
+        height: 492.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 151dd2e8a2888ab20800000000000000
+      internalID: 3145914056073662801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E_skill effect-01_1
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 1968.8
+        width: 875
+        height: 492.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 196a23f1e66fe4230800000000000000
+      internalID: 3625105702910076561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E_skill effect-01_2
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 1968.8
+        width: 875
+        height: 492.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07ecafd3aa4eb2500800000000000000
+      internalID: 372642814023618160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E_skill effect-01_3
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 1968.8
+        width: 875
+        height: 492.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f64a9c19d81521170800000000000000
+      internalID: 8147664344344798319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E_skill effect-01_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1476.8
+        width: 875
+        height: 492.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6933eed1811d395a0800000000000000
+      internalID: -6515634334363405418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E_skill effect-01_5
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 1476.8
+        width: 875
+        height: 492.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 067fdfbd6f5884390800000000000000
+      internalID: -7833864256511674528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E_skill effect-01_6
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 1476.8
+        width: 875
+        height: 492.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 227e979cfb0a0d5a0800000000000000
+      internalID: -6498517516716218590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E_skill effect-01_7
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 1476.8
+        width: 875
+        height: 492.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c13cb7b1c12f3780800000000000000
+      internalID: -8701198839161540160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E_skill effect-01_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 984.8
+        width: 875
+        height: 492.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9cecd049ed7fc620800000000000000
+      internalID: 2796592334389439646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E_skill effect-01_9
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 984.8
+        width: 875
+        height: 492.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0c8a02dd4e0c60a0800000000000000
+      internalID: -6887114002757153780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E_skill effect-01_10
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 984.8
+        width: 875
+        height: 492.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edaa038e1458994a0800000000000000
+      internalID: -6586086461937767714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E_skill effect-01_11
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 984.8
+        width: 875
+        height: 492.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a164580506f9bee0800000000000000
+      internalID: -1244693320516214368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E_skill effect-01_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 492.8
+        width: 875
+        height: 492.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b5d139c2a851530800000000000000
+      internalID: 3825115382572473193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E_skill effect-01_13
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 492.8
+        width: 875
+        height: 492.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22a8309c420194da0800000000000000
+      internalID: -5960214881670821342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E_skill effect-01_14
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 492.8
+        width: 875
+        height: 492.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcd6c40d8f0709f20800000000000000
+      internalID: 3427363530377817551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E_skill effect-01_15
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 492.8
+        width: 875
+        height: 492.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf1eb66bcb661c810800000000000000
+      internalID: 1783819888115835387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E_skill effect-01_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0.7999878
+        width: 875
+        height: 492.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86312ae070b3ef8e0800000000000000
+      internalID: -1657822711329451160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E_skill effect-01_17
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 0.7999878
+        width: 875
+        height: 492.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaf42f8d769a608c0800000000000000
+      internalID: -4033350152777216082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E_skill effect-01_18
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 0.7999878
+        width: 875
+        height: 492.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bd8e7ced15e9c2a0800000000000000
+      internalID: -6716585452561855054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E_skill effect-01_19
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 0.7999878
+        width: 875
+        height: 492.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 096d61abdbb47d520800000000000000
+      internalID: 2726731377639085712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      E_skill effect-01_0: 3145914056073662801
+      E_skill effect-01_1: 3625105702910076561
+      E_skill effect-01_10: -6586086461937767714
+      E_skill effect-01_11: -1244693320516214368
+      E_skill effect-01_12: 3825115382572473193
+      E_skill effect-01_13: -5960214881670821342
+      E_skill effect-01_14: 3427363530377817551
+      E_skill effect-01_15: 1783819888115835387
+      E_skill effect-01_16: -1657822711329451160
+      E_skill effect-01_17: -4033350152777216082
+      E_skill effect-01_18: -6716585452561855054
+      E_skill effect-01_19: 2726731377639085712
+      E_skill effect-01_2: 372642814023618160
+      E_skill effect-01_3: 8147664344344798319
+      E_skill effect-01_4: -6515634334363405418
+      E_skill effect-01_5: -7833864256511674528
+      E_skill effect-01_6: -6498517516716218590
+      E_skill effect-01_7: -8701198839161540160
+      E_skill effect-01_8: 2796592334389439646
+      E_skill effect-01_9: -6887114002757153780
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

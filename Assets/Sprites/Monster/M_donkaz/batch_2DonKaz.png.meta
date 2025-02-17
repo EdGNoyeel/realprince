@@ -1,0 +1,1222 @@
+fileFormatVersion: 2
+guid: 85faaa3c6b330ce43bc27f682b3037d8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5512774619662841076
+    second: batch_2DonKaz_0
+  - first:
+      213: -4529993761015932811
+    second: batch_2DonKaz_1
+  - first:
+      213: 6935364854746053849
+    second: batch_2DonKaz_2
+  - first:
+      213: -2079079245971144603
+    second: batch_2DonKaz_3
+  - first:
+      213: 2504850693780326945
+    second: batch_2DonKaz_4
+  - first:
+      213: 3900988258050727727
+    second: batch_2DonKaz_5
+  - first:
+      213: 1823795555919720799
+    second: batch_2DonKaz_6
+  - first:
+      213: -8959377547598452825
+    second: batch_2DonKaz_7
+  - first:
+      213: 5414579809048878105
+    second: batch_2DonKaz_8
+  - first:
+      213: -6548287763809919740
+    second: batch_2DonKaz_9
+  - first:
+      213: 5913374592065808396
+    second: batch_2DonKaz_10
+  - first:
+      213: -7920733864401048878
+    second: batch_2DonKaz_11
+  - first:
+      213: -6823004426106995081
+    second: batch_2DonKaz_12
+  - first:
+      213: -5614816078335350222
+    second: batch_2DonKaz_13
+  - first:
+      213: 2851357199413305337
+    second: batch_2DonKaz_14
+  - first:
+      213: -2227644805498140792
+    second: batch_2DonKaz_15
+  - first:
+      213: 5908995209293123184
+    second: batch_2DonKaz_16
+  - first:
+      213: -4315637340767001892
+    second: batch_2DonKaz_17
+  - first:
+      213: 5760456393835689266
+    second: batch_2DonKaz_18
+  - first:
+      213: 5152175419007608444
+    second: batch_2DonKaz_19
+  - first:
+      213: 4782537123328980330
+    second: batch_2DonKaz_20
+  - first:
+      213: -6220653318994673789
+    second: batch_2DonKaz_21
+  - first:
+      213: -4623741668583620748
+    second: batch_2DonKaz_22
+  - first:
+      213: 9201757135121644485
+    second: batch_2DonKaz_23
+  - first:
+      213: -451394711144672662
+    second: batch_2DonKaz_24
+  - first:
+      213: -2926356684604136674
+    second: batch_2DonKaz_25
+  - first:
+      213: -2554306953091417879
+    second: batch_2DonKaz_26
+  - first:
+      213: 8456551707915825623
+    second: batch_2DonKaz_27
+  - first:
+      213: 7771564016359466697
+    second: batch_2DonKaz_28
+  - first:
+      213: 998410703413074531
+    second: batch_2DonKaz_29
+  - first:
+      213: 3085671142677578798
+    second: batch_2DonKaz_30
+  - first:
+      213: 6710573327892191956
+    second: batch_2DonKaz_31
+  - first:
+      213: 1389917519184447231
+    second: batch_2DonKaz_32
+  - first:
+      213: -3354063069359419880
+    second: batch_2DonKaz_33
+  - first:
+      213: -2398409926695042176
+    second: batch_2DonKaz_34
+  - first:
+      213: -612306302810742005
+    second: batch_2DonKaz_35
+  - first:
+      213: -1710141570677330678
+    second: batch_2DonKaz_36
+  - first:
+      213: -4460806389604310170
+    second: batch_2DonKaz_37
+  - first:
+      213: -4832108163284543209
+    second: batch_2DonKaz_38
+  - first:
+      213: 86609361265338757
+    second: batch_2DonKaz_39
+  - first:
+      213: -7939392654737811846
+    second: batch_2DonKaz_40
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: batch_2DonKaz_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1425
+        width: 285
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0b053cf0b0be73b0800000000000000
+      internalID: -5512774619662841076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_2DonKaz_1
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 1425
+        width: 285
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 578d8efdcaa3221c0800000000000000
+      internalID: -4529993761015932811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_2DonKaz_2
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 1425
+        width: 285
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dcfdda179d5f3060800000000000000
+      internalID: 6935364854746053849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_2DonKaz_3
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 1425
+        width: 285
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 560c004f070a523e0800000000000000
+      internalID: -2079079245971144603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_2DonKaz_4
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 1425
+        width: 285
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12aca2a4f6403c220800000000000000
+      internalID: 2504850693780326945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_2DonKaz_5
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 1425
+        width: 285
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2f55120728132630800000000000000
+      internalID: 3900988258050727727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_2DonKaz_6
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 1425
+        width: 285
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f51f78d256c6f4910800000000000000
+      internalID: 1823795555919720799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_2DonKaz_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1140
+        width: 285
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a7a8cad695e9a380800000000000000
+      internalID: -8959377547598452825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_2DonKaz_8
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 1140
+        width: 285
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91c5c5e06a3742b40800000000000000
+      internalID: 5414579809048878105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_2DonKaz_9
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 1140
+        width: 285
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40d921f19fecf15a0800000000000000
+      internalID: -6548287763809919740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_2DonKaz_10
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 1140
+        width: 285
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0827ef6cd6801250800000000000000
+      internalID: 5913374592065808396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_2DonKaz_11
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 1140
+        width: 285
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dae7f32486e31290800000000000000
+      internalID: -7920733864401048878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_2DonKaz_12
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 1140
+        width: 285
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77e79f0df91df41a0800000000000000
+      internalID: -6823004426106995081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_2DonKaz_13
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 1140
+        width: 285
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23a6bab768a2412b0800000000000000
+      internalID: -5614816078335350222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_2DonKaz_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 855
+        width: 285
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ff58c6044e029720800000000000000
+      internalID: 2851357199413305337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_2DonKaz_15
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 855
+        width: 285
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8870a8a1ad0d511e0800000000000000
+      internalID: -2227644805498140792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_2DonKaz_16
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 855
+        width: 285
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07ec66de5d7f00250800000000000000
+      internalID: 5908995209293123184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_2DonKaz_17
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 855
+        width: 285
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd2eb2c24b6cb14c0800000000000000
+      internalID: -4315637340767001892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_2DonKaz_18
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 855
+        width: 285
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23534bae19041ff40800000000000000
+      internalID: 5760456393835689266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_2DonKaz_19
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 855
+        width: 285
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c76a2760f34308740800000000000000
+      internalID: 5152175419007608444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_2DonKaz_20
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 855
+        width: 285
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a657429bc2cfe5240800000000000000
+      internalID: 4782537123328980330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_2DonKaz_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 570
+        width: 285
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38fb77ac3cccba9a0800000000000000
+      internalID: -6220653318994673789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_2DonKaz_22
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 570
+        width: 285
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47fb6e6337b25dfb0800000000000000
+      internalID: -4623741668583620748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_2DonKaz_23
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 570
+        width: 285
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb77548c5533bf70800000000000000
+      internalID: 9201757135121644485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_2DonKaz_24
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 570
+        width: 285
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a625bbcd6e25cb9f0800000000000000
+      internalID: -451394711144672662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_2DonKaz_25
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 570
+        width: 285
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e13a410991e7367d0800000000000000
+      internalID: -2926356684604136674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_2DonKaz_26
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 570
+        width: 285
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e8fca50c574d8cd0800000000000000
+      internalID: -2554306953091417879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_2DonKaz_27
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 570
+        width: 285
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d1bb0f39f4bb5570800000000000000
+      internalID: 8456551707915825623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_2DonKaz_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 285
+        width: 285
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c660502c442adb60800000000000000
+      internalID: 7771564016359466697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_2DonKaz_29
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 285
+        width: 285
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a52e4be311bdd00800000000000000
+      internalID: 998410703413074531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_2DonKaz_30
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 285
+        width: 285
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2488f04e8182da20800000000000000
+      internalID: 3085671142677578798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_2DonKaz_31
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 285
+        width: 285
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4da993833eeb02d50800000000000000
+      internalID: 6710573327892191956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_2DonKaz_32
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 285
+        width: 285
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff6c41e9e9af94310800000000000000
+      internalID: 1389917519184447231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_2DonKaz_33
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 285
+        width: 285
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e4394b869f371d0800000000000000
+      internalID: -3354063069359419880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_2DonKaz_34
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 285
+        width: 285
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 083429501e227bed0800000000000000
+      internalID: -2398409926695042176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_2DonKaz_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 285
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b03ab3769a6a087f0800000000000000
+      internalID: -612306302810742005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_2DonKaz_36
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 0
+        width: 285
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0d262c5d4b5448e0800000000000000
+      internalID: -1710141570677330678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_2DonKaz_37
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 0
+        width: 285
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 663a7d719380812c0800000000000000
+      internalID: -4460806389604310170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_2DonKaz_38
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 0
+        width: 285
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 719d8232a37e0fcb0800000000000000
+      internalID: -4832108163284543209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_2DonKaz_39
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 0
+        width: 285
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 589a17451c2b33100800000000000000
+      internalID: 86609361265338757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_2DonKaz_40
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 0
+        width: 285
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a76d10af17c91d190800000000000000
+      internalID: -7939392654737811846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      batch_2DonKaz_0: -5512774619662841076
+      batch_2DonKaz_1: -4529993761015932811
+      batch_2DonKaz_10: 5913374592065808396
+      batch_2DonKaz_11: -7920733864401048878
+      batch_2DonKaz_12: -6823004426106995081
+      batch_2DonKaz_13: -5614816078335350222
+      batch_2DonKaz_14: 2851357199413305337
+      batch_2DonKaz_15: -2227644805498140792
+      batch_2DonKaz_16: 5908995209293123184
+      batch_2DonKaz_17: -4315637340767001892
+      batch_2DonKaz_18: 5760456393835689266
+      batch_2DonKaz_19: 5152175419007608444
+      batch_2DonKaz_2: 6935364854746053849
+      batch_2DonKaz_20: 4782537123328980330
+      batch_2DonKaz_21: -6220653318994673789
+      batch_2DonKaz_22: -4623741668583620748
+      batch_2DonKaz_23: 9201757135121644485
+      batch_2DonKaz_24: -451394711144672662
+      batch_2DonKaz_25: -2926356684604136674
+      batch_2DonKaz_26: -2554306953091417879
+      batch_2DonKaz_27: 8456551707915825623
+      batch_2DonKaz_28: 7771564016359466697
+      batch_2DonKaz_29: 998410703413074531
+      batch_2DonKaz_3: -2079079245971144603
+      batch_2DonKaz_30: 3085671142677578798
+      batch_2DonKaz_31: 6710573327892191956
+      batch_2DonKaz_32: 1389917519184447231
+      batch_2DonKaz_33: -3354063069359419880
+      batch_2DonKaz_34: -2398409926695042176
+      batch_2DonKaz_35: -612306302810742005
+      batch_2DonKaz_36: -1710141570677330678
+      batch_2DonKaz_37: -4460806389604310170
+      batch_2DonKaz_38: -4832108163284543209
+      batch_2DonKaz_39: 86609361265338757
+      batch_2DonKaz_4: 2504850693780326945
+      batch_2DonKaz_40: -7939392654737811846
+      batch_2DonKaz_5: 3900988258050727727
+      batch_2DonKaz_6: 1823795555919720799
+      batch_2DonKaz_7: -8959377547598452825
+      batch_2DonKaz_8: 5414579809048878105
+      batch_2DonKaz_9: -6548287763809919740
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

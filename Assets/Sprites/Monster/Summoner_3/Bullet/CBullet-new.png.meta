@@ -1,0 +1,962 @@
+fileFormatVersion: 2
+guid: 95f67dbedc176f649bf801e1330f6a71
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2883754246393491616
+    second: CBullet-new_0
+  - first:
+      213: -969820228211255094
+    second: CBullet-new_1
+  - first:
+      213: 752433122809047269
+    second: CBullet-new_2
+  - first:
+      213: -3519629594039883051
+    second: CBullet-new_3
+  - first:
+      213: 2637982302398237837
+    second: CBullet-new_4
+  - first:
+      213: -5849118970641322561
+    second: CBullet-new_5
+  - first:
+      213: 3880667277256009551
+    second: CBullet-new_6
+  - first:
+      213: 7474575223403318730
+    second: CBullet-new_7
+  - first:
+      213: 8392998799853224244
+    second: CBullet-new_8
+  - first:
+      213: -5083928378689277021
+    second: CBullet-new_9
+  - first:
+      213: -5159106628924449458
+    second: CBullet-new_10
+  - first:
+      213: -635031201610130442
+    second: CBullet-new_11
+  - first:
+      213: -283005106142692991
+    second: CBullet-new_12
+  - first:
+      213: -8610346514830787325
+    second: CBullet-new_13
+  - first:
+      213: -3398225125132383464
+    second: CBullet-new_14
+  - first:
+      213: -3030519060599398329
+    second: CBullet-new_15
+  - first:
+      213: 4088311433080979139
+    second: CBullet-new_16
+  - first:
+      213: 6022680151366555795
+    second: CBullet-new_17
+  - first:
+      213: -7632745770543514845
+    second: CBullet-new_18
+  - first:
+      213: 4682074708472081826
+    second: CBullet-new_19
+  - first:
+      213: 6045723591913358295
+    second: CBullet-new_20
+  - first:
+      213: 2559808372886118145
+    second: CBullet-new_21
+  - first:
+      213: -1597339096500750636
+    second: CBullet-new_22
+  - first:
+      213: 6852409831620058334
+    second: CBullet-new_23
+  - first:
+      213: 4443104042033097118
+    second: CBullet-new_24
+  - first:
+      213: 2517585160120794937
+    second: CBullet-new_25
+  - first:
+      213: -1229921489860072997
+    second: CBullet-new_26
+  - first:
+      213: 8158473537202461313
+    second: CBullet-new_27
+  - first:
+      213: 8729252894526786311
+    second: CBullet-new_28
+  - first:
+      213: -6828824468179015990
+    second: CBullet-new_29
+  - first:
+      213: -6226149624017550496
+    second: CBullet-new_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CBullet-new_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 672.5
+        width: 129.5
+        height: 134.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a0fec35537250820800000000000000
+      internalID: 2883754246393491616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CBullet-new_1
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 672.5
+        width: 129.5
+        height: 134.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac8da7904a18a82f0800000000000000
+      internalID: -969820228211255094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CBullet-new_2
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 672.5
+        width: 129.5
+        height: 134.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e8654a40fd217a00800000000000000
+      internalID: 752433122809047269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CBullet-new_3
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 672.5
+        width: 129.5
+        height: 134.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5daec423883c72fc0800000000000000
+      internalID: -3519629594039883051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CBullet-new_4
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 672.5
+        width: 129.5
+        height: 134.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8cc63a6deefb9420800000000000000
+      internalID: 2637982302398237837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CBullet-new_5
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 672.5
+        width: 129.5
+        height: 134.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbdece14941c3dea0800000000000000
+      internalID: -5849118970641322561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CBullet-new_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 538.5
+        width: 129.5
+        height: 134.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f47a358f356ead530800000000000000
+      internalID: 3880667277256009551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CBullet-new_7
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 538.5
+        width: 129.5
+        height: 134.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd04ed40960bb760800000000000000
+      internalID: 7474575223403318730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CBullet-new_8
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 538.5
+        width: 129.5
+        height: 134.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4310881c0fbe97470800000000000000
+      internalID: 8392998799853224244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CBullet-new_9
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 538.5
+        width: 129.5
+        height: 134.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a3b2bc43124279b0800000000000000
+      internalID: -5083928378689277021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CBullet-new_10
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 538.5
+        width: 129.5
+        height: 134.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4d5898eadb2768b0800000000000000
+      internalID: -5159106628924449458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CBullet-new_11
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 538.5
+        width: 129.5
+        height: 134.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fb1db69c7aef27f0800000000000000
+      internalID: -635031201610130442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CBullet-new_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 404.5
+        width: 129.5
+        height: 134.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1893ebafa50921cf0800000000000000
+      internalID: -283005106142692991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CBullet-new_13
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 404.5
+        width: 129.5
+        height: 134.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30dfc7ed677e18880800000000000000
+      internalID: -8610346514830787325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CBullet-new_14
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 404.5
+        width: 129.5
+        height: 134.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b4da5d04417d0d0800000000000000
+      internalID: -3398225125132383464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CBullet-new_15
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 404.5
+        width: 129.5
+        height: 134.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7402ce388fe61f5d0800000000000000
+      internalID: -3030519060599398329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CBullet-new_16
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 404.5
+        width: 129.5
+        height: 134.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ceb5fb66999cb830800000000000000
+      internalID: 4088311433080979139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CBullet-new_17
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 404.5
+        width: 129.5
+        height: 134.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 398dff920bbd49350800000000000000
+      internalID: 6022680151366555795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CBullet-new_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 270.5
+        width: 129.5
+        height: 134.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32b73e5692a031690800000000000000
+      internalID: -7632745770543514845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CBullet-new_19
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 270.5
+        width: 129.5
+        height: 134.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ada15204221af040800000000000000
+      internalID: 4682074708472081826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CBullet-new_20
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 270.5
+        width: 129.5
+        height: 134.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d3c1324399b6e350800000000000000
+      internalID: 6045723591913358295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CBullet-new_21
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 270.5
+        width: 129.5
+        height: 134.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10f92f61724468320800000000000000
+      internalID: 2559808372886118145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CBullet-new_22
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 270.5
+        width: 129.5
+        height: 134.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d6ba370e8c15d9e0800000000000000
+      internalID: -1597339096500750636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CBullet-new_23
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 270.5
+        width: 129.5
+        height: 134.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edc9b1daf66a81f50800000000000000
+      internalID: 6852409831620058334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CBullet-new_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 136.5
+        width: 129.5
+        height: 134.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e992c7de59319ad30800000000000000
+      internalID: 4443104042033097118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CBullet-new_25
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 136.5
+        width: 129.5
+        height: 134.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93f7bc84d5240f220800000000000000
+      internalID: 2517585160120794937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CBullet-new_26
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 136.5
+        width: 129.5
+        height: 134.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd9654fdbe07eeee0800000000000000
+      internalID: -1229921489860072997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CBullet-new_27
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 136.5
+        width: 129.5
+        height: 134.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18a9066e478b83170800000000000000
+      internalID: 8158473537202461313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CBullet-new_28
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 136.5
+        width: 129.5
+        height: 134.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70bc1dc0249842970800000000000000
+      internalID: 8729252894526786311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CBullet-new_29
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 136.5
+        width: 129.5
+        height: 134.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac6a1bca3542b31a0800000000000000
+      internalID: -6828824468179015990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CBullet-new_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2.5
+        width: 129.5
+        height: 134.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 063800e87e54899a0800000000000000
+      internalID: -6226149624017550496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      CBullet-new_0: 2883754246393491616
+      CBullet-new_1: -969820228211255094
+      CBullet-new_10: -5159106628924449458
+      CBullet-new_11: -635031201610130442
+      CBullet-new_12: -283005106142692991
+      CBullet-new_13: -8610346514830787325
+      CBullet-new_14: -3398225125132383464
+      CBullet-new_15: -3030519060599398329
+      CBullet-new_16: 4088311433080979139
+      CBullet-new_17: 6022680151366555795
+      CBullet-new_18: -7632745770543514845
+      CBullet-new_19: 4682074708472081826
+      CBullet-new_2: 752433122809047269
+      CBullet-new_20: 6045723591913358295
+      CBullet-new_21: 2559808372886118145
+      CBullet-new_22: -1597339096500750636
+      CBullet-new_23: 6852409831620058334
+      CBullet-new_24: 4443104042033097118
+      CBullet-new_25: 2517585160120794937
+      CBullet-new_26: -1229921489860072997
+      CBullet-new_27: 8158473537202461313
+      CBullet-new_28: 8729252894526786311
+      CBullet-new_29: -6828824468179015990
+      CBullet-new_3: -3519629594039883051
+      CBullet-new_30: -6226149624017550496
+      CBullet-new_4: 2637982302398237837
+      CBullet-new_5: -5849118970641322561
+      CBullet-new_6: 3880667277256009551
+      CBullet-new_7: 7474575223403318730
+      CBullet-new_8: 8392998799853224244
+      CBullet-new_9: -5083928378689277021
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

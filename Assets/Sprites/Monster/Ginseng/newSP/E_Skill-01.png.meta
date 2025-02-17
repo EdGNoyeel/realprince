@@ -1,0 +1,780 @@
+fileFormatVersion: 2
+guid: 51dc7ead8a0a58e4ea2d3b8e217185f8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7215728882543639720
+    second: E_Skill-01_0
+  - first:
+      213: -3565935902421026713
+    second: E_Skill-01_1
+  - first:
+      213: -5158078731104570641
+    second: E_Skill-01_2
+  - first:
+      213: -3491864103439277050
+    second: E_Skill-01_3
+  - first:
+      213: -3857444458545558767
+    second: E_Skill-01_4
+  - first:
+      213: 5237895382306957216
+    second: E_Skill-01_5
+  - first:
+      213: -7799197162651895379
+    second: E_Skill-01_6
+  - first:
+      213: 372484510464604448
+    second: E_Skill-01_7
+  - first:
+      213: 9131666172953562225
+    second: E_Skill-01_8
+  - first:
+      213: -1950466306425182453
+    second: E_Skill-01_9
+  - first:
+      213: -3198960732835274732
+    second: E_Skill-01_10
+  - first:
+      213: -3730339192398467679
+    second: E_Skill-01_11
+  - first:
+      213: -815573529740197251
+    second: E_Skill-01_12
+  - first:
+      213: -8704313732668010656
+    second: E_Skill-01_13
+  - first:
+      213: -7455705091541768253
+    second: E_Skill-01_14
+  - first:
+      213: 8880309193910603870
+    second: E_Skill-01_15
+  - first:
+      213: 8866062664148655400
+    second: E_Skill-01_16
+  - first:
+      213: -2600441746177352044
+    second: E_Skill-01_17
+  - first:
+      213: -2278850201218541179
+    second: E_Skill-01_18
+  - first:
+      213: 6106330607688275100
+    second: E_Skill-01_19
+  - first:
+      213: 2052715548858630963
+    second: E_Skill-01_20
+  - first:
+      213: -8706666037299291043
+    second: E_Skill-01_21
+  - first:
+      213: -8928267650856696984
+    second: E_Skill-01_22
+  - first:
+      213: 6336043028410009863
+    second: E_Skill-01_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: E_Skill-01_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2812.5
+        width: 666.6667
+        height: 937.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 853c578dfc49cdb90800000000000000
+      internalID: -7215728882543639720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E_Skill-01_1
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 2812.5
+        width: 666.6667
+        height: 937.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 768f16c9030438ec0800000000000000
+      internalID: -3565935902421026713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E_Skill-01_2
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 2812.5
+        width: 666.6667
+        height: 937.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe2b30509b2da68b0800000000000000
+      internalID: -5158078731104570641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E_Skill-01_3
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 2812.5
+        width: 666.6667
+        height: 937.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 604609e39186a8fc0800000000000000
+      internalID: -3491864103439277050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E_Skill-01_4
+      rect:
+        serializedVersion: 2
+        x: 2664
+        y: 2812.5
+        width: 666.6667
+        height: 937.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11bc79bd3ba977ac0800000000000000
+      internalID: -3857444458545558767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E_Skill-01_5
+      rect:
+        serializedVersion: 2
+        x: 3330
+        y: 2812.5
+        width: 666.6667
+        height: 937.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a7a011491eb0b840800000000000000
+      internalID: 5237895382306957216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E_Skill-01_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1875.5
+        width: 666.6667
+        height: 937.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da936e2a08fa3c390800000000000000
+      internalID: -7799197162651895379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E_Skill-01_7
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 1875.5
+        width: 666.6667
+        height: 937.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 029f39250b45b2500800000000000000
+      internalID: 372484510464604448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E_Skill-01_8
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 1875.5
+        width: 666.6667
+        height: 937.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17c095ea0023abe70800000000000000
+      internalID: 9131666172953562225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E_Skill-01_9
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 1875.5
+        width: 666.6667
+        height: 937.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b07a8237a3d8ee4e0800000000000000
+      internalID: -1950466306425182453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E_Skill-01_10
+      rect:
+        serializedVersion: 2
+        x: 2664
+        y: 1875.5
+        width: 666.6667
+        height: 937.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4102eec89220b93d0800000000000000
+      internalID: -3198960732835274732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E_Skill-01_11
+      rect:
+        serializedVersion: 2
+        x: 3330
+        y: 1875.5
+        width: 666.6667
+        height: 937.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ad2f59c44c2b3cc0800000000000000
+      internalID: -3730339192398467679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E_Skill-01_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 938.5
+        width: 666.6667
+        height: 937.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d72cf9f12308ea4f0800000000000000
+      internalID: -815573529740197251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E_Skill-01_13
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 938.5
+        width: 666.6667
+        height: 937.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06fc4ce07c0143780800000000000000
+      internalID: -8704313732668010656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E_Skill-01_14
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 938.5
+        width: 666.6667
+        height: 937.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c7e494a8b3088890800000000000000
+      internalID: -7455705091541768253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E_Skill-01_15
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 938.5
+        width: 666.6667
+        height: 937.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e505da679223d3b70800000000000000
+      internalID: 8880309193910603870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E_Skill-01_16
+      rect:
+        serializedVersion: 2
+        x: 2664
+        y: 938.5
+        width: 666.6667
+        height: 937.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d1fe4c4059a0b70800000000000000
+      internalID: 8866062664148655400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E_Skill-01_17
+      rect:
+        serializedVersion: 2
+        x: 3330
+        y: 938.5
+        width: 666.6667
+        height: 937.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e9004720069ebd0800000000000000
+      internalID: -2600441746177352044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E_Skill-01_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1.5
+        width: 666.6667
+        height: 937.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5899a0cd0d5ef50e0800000000000000
+      internalID: -2278850201218541179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E_Skill-01_19
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 1.5
+        width: 666.6667
+        height: 937.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c94da50c55b0eb450800000000000000
+      internalID: 6106330607688275100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E_Skill-01_20
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 1.5
+        width: 666.6667
+        height: 937.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 333c3aa7ae5bc7c10800000000000000
+      internalID: 2052715548858630963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E_Skill-01_21
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 1.5
+        width: 666.6667
+        height: 937.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5c51d47e55bb2780800000000000000
+      internalID: -8706666037299291043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E_Skill-01_22
+      rect:
+        serializedVersion: 2
+        x: 2664
+        y: 1.5
+        width: 666.6667
+        height: 937.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 863431320eb681480800000000000000
+      internalID: -8928267650856696984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E_Skill-01_23
+      rect:
+        serializedVersion: 2
+        x: 3330
+        y: 1.5
+        width: 666.6667
+        height: 937.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70908f580952ee750800000000000000
+      internalID: 6336043028410009863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      E_Skill-01_0: -7215728882543639720
+      E_Skill-01_1: -3565935902421026713
+      E_Skill-01_10: -3198960732835274732
+      E_Skill-01_11: -3730339192398467679
+      E_Skill-01_12: -815573529740197251
+      E_Skill-01_13: -8704313732668010656
+      E_Skill-01_14: -7455705091541768253
+      E_Skill-01_15: 8880309193910603870
+      E_Skill-01_16: 8866062664148655400
+      E_Skill-01_17: -2600441746177352044
+      E_Skill-01_18: -2278850201218541179
+      E_Skill-01_19: 6106330607688275100
+      E_Skill-01_2: -5158078731104570641
+      E_Skill-01_20: 2052715548858630963
+      E_Skill-01_21: -8706666037299291043
+      E_Skill-01_22: -8928267650856696984
+      E_Skill-01_23: 6336043028410009863
+      E_Skill-01_3: -3491864103439277050
+      E_Skill-01_4: -3857444458545558767
+      E_Skill-01_5: 5237895382306957216
+      E_Skill-01_6: -7799197162651895379
+      E_Skill-01_7: 372484510464604448
+      E_Skill-01_8: 9131666172953562225
+      E_Skill-01_9: -1950466306425182453
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1482 @@
+fileFormatVersion: 2
+guid: 015772d542584e341aca9b0b166ac27f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8317799414298527686
+    second: gameover_idle_0
+  - first:
+      213: 1328033820944681747
+    second: gameover_idle_1
+  - first:
+      213: 8503328565759948588
+    second: gameover_idle_2
+  - first:
+      213: -4843199726037057278
+    second: gameover_idle_3
+  - first:
+      213: 422867670287145576
+    second: gameover_idle_4
+  - first:
+      213: 8287593423372035477
+    second: gameover_idle_5
+  - first:
+      213: -1996800093658340803
+    second: gameover_idle_6
+  - first:
+      213: 8467814458460801430
+    second: gameover_idle_7
+  - first:
+      213: 4464982907842832998
+    second: gameover_idle_8
+  - first:
+      213: -3052137215758134230
+    second: gameover_idle_9
+  - first:
+      213: -7449999915953553456
+    second: gameover_idle_10
+  - first:
+      213: -9199414032738354161
+    second: gameover_idle_11
+  - first:
+      213: 3389825918854171193
+    second: gameover_idle_12
+  - first:
+      213: 3817208916364115538
+    second: gameover_idle_13
+  - first:
+      213: -5186043961368494946
+    second: gameover_idle_14
+  - first:
+      213: 7687478676273750315
+    second: gameover_idle_15
+  - first:
+      213: 458487314126167853
+    second: gameover_idle_16
+  - first:
+      213: -7608485458142230706
+    second: gameover_idle_17
+  - first:
+      213: -7772628144902193462
+    second: gameover_idle_18
+  - first:
+      213: 327532291784619088
+    second: gameover_idle_19
+  - first:
+      213: -2184550527464485576
+    second: gameover_idle_20
+  - first:
+      213: 2783921272138129258
+    second: gameover_idle_21
+  - first:
+      213: -1268686475133306134
+    second: gameover_idle_22
+  - first:
+      213: -5018021328501574105
+    second: gameover_idle_23
+  - first:
+      213: 4681966369442698061
+    second: gameover_idle_24
+  - first:
+      213: 4764896524683416382
+    second: gameover_idle_25
+  - first:
+      213: -701266902840910885
+    second: gameover_idle_26
+  - first:
+      213: -4499013287575052045
+    second: gameover_idle_27
+  - first:
+      213: -6633122417762689967
+    second: gameover_idle_28
+  - first:
+      213: -8054484042336224490
+    second: gameover_idle_29
+  - first:
+      213: 6119578688660851537
+    second: gameover_idle_30
+  - first:
+      213: 6520991160337813605
+    second: gameover_idle_31
+  - first:
+      213: -1995142212385895410
+    second: gameover_idle_32
+  - first:
+      213: 4177110819770276042
+    second: gameover_idle_33
+  - first:
+      213: -4302726085476322311
+    second: gameover_idle_34
+  - first:
+      213: 7186258019615001980
+    second: gameover_idle_35
+  - first:
+      213: -7211063699715348174
+    second: gameover_idle_36
+  - first:
+      213: 8328999602556040228
+    second: gameover_idle_37
+  - first:
+      213: 3686023933747327243
+    second: gameover_idle_38
+  - first:
+      213: -3981818617357835358
+    second: gameover_idle_39
+  - first:
+      213: 1320272365538113778
+    second: gameover_idle_40
+  - first:
+      213: -7555992727657997902
+    second: gameover_idle_41
+  - first:
+      213: 8114337979348843718
+    second: gameover_idle_42
+  - first:
+      213: -8681296670097964843
+    second: gameover_idle_43
+  - first:
+      213: 7760630300106058004
+    second: gameover_idle_44
+  - first:
+      213: 2294050181398894152
+    second: gameover_idle_45
+  - first:
+      213: -1416074459816149798
+    second: gameover_idle_46
+  - first:
+      213: -4807078149725943305
+    second: gameover_idle_47
+  - first:
+      213: -4469174917837441684
+    second: gameover_idle_48
+  - first:
+      213: 8465997753547695948
+    second: gameover_idle_49
+  - first:
+      213: 8142362183590634413
+    second: gameover_idle_50
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gameover_idle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1520
+        width: 310
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c7473a6f72ce6370800000000000000
+      internalID: 8317799414298527686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameover_idle_1
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1520
+        width: 310
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31bcc1359bf1e6210800000000000000
+      internalID: 1328033820944681747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameover_idle_2
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 1520
+        width: 310
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c27bd8a2744e10670800000000000000
+      internalID: 8503328565759948588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameover_idle_3
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 1520
+        width: 310
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 201ca41728f79ccb0800000000000000
+      internalID: -4843199726037057278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameover_idle_4
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 1520
+        width: 310
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86a567ad7e35ed500800000000000000
+      internalID: 422867670287145576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameover_idle_5
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 1520
+        width: 310
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59524fa1f42730370800000000000000
+      internalID: 8287593423372035477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameover_idle_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1330
+        width: 310
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d322702f4e0f944e0800000000000000
+      internalID: -1996800093658340803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameover_idle_7
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1330
+        width: 310
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6990974b268b38570800000000000000
+      internalID: 8467814458460801430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameover_idle_8
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 1330
+        width: 310
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66aa9265c4ec6fd30800000000000000
+      internalID: 4464982907842832998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameover_idle_9
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 1330
+        width: 310
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a249cf88f51a4a5d0800000000000000
+      internalID: -3052137215758134230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameover_idle_10
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 1330
+        width: 310
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dff5e85c884c9890800000000000000
+      internalID: -7449999915953553456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameover_idle_11
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 1330
+        width: 310
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0cf2e48dad155080800000000000000
+      internalID: -9199414032738354161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameover_idle_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1140
+        width: 310
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a07bf86b41b0f20800000000000000
+      internalID: 3389825918854171193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameover_idle_13
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1140
+        width: 310
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25e3655f84379f430800000000000000
+      internalID: 3817208916364115538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameover_idle_14
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 1140
+        width: 310
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9c32157e787708b0800000000000000
+      internalID: -5186043961368494946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameover_idle_15
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 1140
+        width: 310
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b21efa540296faa60800000000000000
+      internalID: 7687478676273750315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameover_idle_16
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 1140
+        width: 310
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f538478cfdc5600800000000000000
+      internalID: 458487314126167853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameover_idle_17
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 1140
+        width: 310
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4705bc89ca396690800000000000000
+      internalID: -7608485458142230706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameover_idle_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 950
+        width: 310
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aceb6e322e3122490800000000000000
+      internalID: -7772628144902193462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameover_idle_19
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 950
+        width: 310
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 054ba4052e0ab8400800000000000000
+      internalID: 327532291784619088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameover_idle_20
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 950
+        width: 310
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83d46989edaeea1e0800000000000000
+      internalID: -2184550527464485576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameover_idle_21
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 950
+        width: 310
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6f527ca5a972a620800000000000000
+      internalID: 2783921272138129258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameover_idle_22
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 950
+        width: 310
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aea36566f58b46ee0800000000000000
+      internalID: -1268686475133306134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameover_idle_23
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 950
+        width: 310
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 726745730386c5ab0800000000000000
+      internalID: -5018021328501574105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameover_idle_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 760
+        width: 310
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4315fc5b9fa9f040800000000000000
+      internalID: 4681966369442698061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameover_idle_25
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 760
+        width: 310
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e339f39c420502240800000000000000
+      internalID: 4764896524683416382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameover_idle_26
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 760
+        width: 310
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdbdd63a7799446f0800000000000000
+      internalID: -701266902840910885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameover_idle_27
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 760
+        width: 310
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f0a352704b4091c0800000000000000
+      internalID: -4499013287575052045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameover_idle_28
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 760
+        width: 310
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c13990e4a62f3a0800000000000000
+      internalID: -6633122417762689967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameover_idle_29
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 760
+        width: 310
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61b3f7f1079b83090800000000000000
+      internalID: -8054484042336224490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameover_idle_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 570
+        width: 310
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15b4ea8f46c1de450800000000000000
+      internalID: 6119578688660851537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameover_idle_31
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 570
+        width: 310
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 560d56f19e63f7a50800000000000000
+      internalID: 6520991160337813605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameover_idle_32
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 570
+        width: 310
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0c0a528ab4df44e0800000000000000
+      internalID: -1995142212385895410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameover_idle_33
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 570
+        width: 310
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac819d7c82418f930800000000000000
+      internalID: 4177110819770276042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameover_idle_34
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 570
+        width: 310
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f3706d0c65a944c0800000000000000
+      internalID: -4302726085476322311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameover_idle_35
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 570
+        width: 310
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7d447b2897bab360800000000000000
+      internalID: 7186258019615001980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameover_idle_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 380
+        width: 310
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 239a0cd55c72deb90800000000000000
+      internalID: -7211063699715348174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameover_idle_37
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 380
+        width: 310
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 424f8b4720d869370800000000000000
+      internalID: 8328999602556040228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameover_idle_38
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 380
+        width: 310
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b01f8940d33672330800000000000000
+      internalID: 3686023933747327243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameover_idle_39
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 380
+        width: 310
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a36958601dbdb8c0800000000000000
+      internalID: -3981818617357835358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameover_idle_40
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 380
+        width: 310
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f8f9aaa8bc825210800000000000000
+      internalID: 1320272365538113778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameover_idle_41
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 380
+        width: 310
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b99286c5a8b32790800000000000000
+      internalID: -7555992727657997902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameover_idle_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 190
+        width: 310
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cc7c8e866beb9070800000000000000
+      internalID: 8114337979348843718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameover_idle_43
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 190
+        width: 310
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d0870d8ca6d58780800000000000000
+      internalID: -8681296670097964843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameover_idle_44
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 190
+        width: 310
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41964fee32c43bb60800000000000000
+      internalID: 7760630300106058004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameover_idle_45
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 190
+        width: 310
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 846933f4c7a16df10800000000000000
+      internalID: 2294050181398894152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameover_idle_46
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 190
+        width: 310
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adcb72f08c7195ce0800000000000000
+      internalID: -1416074459816149798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameover_idle_47
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 190
+        width: 310
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f90b0e44e3d94db0800000000000000
+      internalID: -4807078149725943305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameover_idle_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 310
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c65b637471d4af1c0800000000000000
+      internalID: -4469174917837441684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameover_idle_49
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 0
+        width: 310
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4727712a144d7570800000000000000
+      internalID: 8465997753547695948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameover_idle_50
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 0
+        width: 310
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da36e71144b7ff070800000000000000
+      internalID: 8142362183590634413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      gameover_idle_0: 8317799414298527686
+      gameover_idle_1: 1328033820944681747
+      gameover_idle_10: -7449999915953553456
+      gameover_idle_11: -9199414032738354161
+      gameover_idle_12: 3389825918854171193
+      gameover_idle_13: 3817208916364115538
+      gameover_idle_14: -5186043961368494946
+      gameover_idle_15: 7687478676273750315
+      gameover_idle_16: 458487314126167853
+      gameover_idle_17: -7608485458142230706
+      gameover_idle_18: -7772628144902193462
+      gameover_idle_19: 327532291784619088
+      gameover_idle_2: 8503328565759948588
+      gameover_idle_20: -2184550527464485576
+      gameover_idle_21: 2783921272138129258
+      gameover_idle_22: -1268686475133306134
+      gameover_idle_23: -5018021328501574105
+      gameover_idle_24: 4681966369442698061
+      gameover_idle_25: 4764896524683416382
+      gameover_idle_26: -701266902840910885
+      gameover_idle_27: -4499013287575052045
+      gameover_idle_28: -6633122417762689967
+      gameover_idle_29: -8054484042336224490
+      gameover_idle_3: -4843199726037057278
+      gameover_idle_30: 6119578688660851537
+      gameover_idle_31: 6520991160337813605
+      gameover_idle_32: -1995142212385895410
+      gameover_idle_33: 4177110819770276042
+      gameover_idle_34: -4302726085476322311
+      gameover_idle_35: 7186258019615001980
+      gameover_idle_36: -7211063699715348174
+      gameover_idle_37: 8328999602556040228
+      gameover_idle_38: 3686023933747327243
+      gameover_idle_39: -3981818617357835358
+      gameover_idle_4: 422867670287145576
+      gameover_idle_40: 1320272365538113778
+      gameover_idle_41: -7555992727657997902
+      gameover_idle_42: 8114337979348843718
+      gameover_idle_43: -8681296670097964843
+      gameover_idle_44: 7760630300106058004
+      gameover_idle_45: 2294050181398894152
+      gameover_idle_46: -1416074459816149798
+      gameover_idle_47: -4807078149725943305
+      gameover_idle_48: -4469174917837441684
+      gameover_idle_49: 8465997753547695948
+      gameover_idle_5: 8287593423372035477
+      gameover_idle_50: 8142362183590634413
+      gameover_idle_6: -1996800093658340803
+      gameover_idle_7: 8467814458460801430
+      gameover_idle_8: 4464982907842832998
+      gameover_idle_9: -3052137215758134230
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

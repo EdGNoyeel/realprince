@@ -1,0 +1,598 @@
+fileFormatVersion: 2
+guid: 9a54e8e81f2e3244db78d4caf1b8a148
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2957034384560847532
+    second: OrangeSelfDest_0
+  - first:
+      213: 4988186586664173456
+    second: OrangeSelfDest_1
+  - first:
+      213: -6415479498851144659
+    second: OrangeSelfDest_2
+  - first:
+      213: 9213184501351768562
+    second: OrangeSelfDest_3
+  - first:
+      213: -757086971402290834
+    second: OrangeSelfDest_4
+  - first:
+      213: 7781053211554339741
+    second: OrangeSelfDest_5
+  - first:
+      213: -6666008660906708533
+    second: OrangeSelfDest_6
+  - first:
+      213: 3009302877542326837
+    second: OrangeSelfDest_7
+  - first:
+      213: -4523725281640071522
+    second: OrangeSelfDest_8
+  - first:
+      213: -4933132477057439143
+    second: OrangeSelfDest_9
+  - first:
+      213: 8421874479958715703
+    second: OrangeSelfDest_10
+  - first:
+      213: -3294510771482000856
+    second: OrangeSelfDest_11
+  - first:
+      213: 5762421672868574099
+    second: OrangeSelfDest_12
+  - first:
+      213: 1614451791400863423
+    second: OrangeSelfDest_13
+  - first:
+      213: -7263355144983548444
+    second: OrangeSelfDest_14
+  - first:
+      213: 2489748207566921904
+    second: OrangeSelfDest_15
+  - first:
+      213: -1894088515011753738
+    second: OrangeSelfDest_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: OrangeSelfDest_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2000
+        width: 322
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa7d501b1f790920800000000000000
+      internalID: 2957034384560847532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeSelfDest_1
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 2000
+        width: 322
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09f7c73a549993540800000000000000
+      internalID: 4988186586664173456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeSelfDest_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1750
+        width: 322
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2c2d2fe263a7f6a0800000000000000
+      internalID: -6415479498851144659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeSelfDest_3
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 1750
+        width: 322
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f1e43d8d7ecbdf70800000000000000
+      internalID: 9213184501351768562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeSelfDest_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1500
+        width: 322
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e697d7529694e75f0800000000000000
+      internalID: -757086971402290834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeSelfDest_5
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 1500
+        width: 322
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9bdb1d8baadbfb60800000000000000
+      internalID: 7781053211554339741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeSelfDest_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1250
+        width: 322
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc17af0e0749d73a0800000000000000
+      internalID: -6666008660906708533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeSelfDest_7
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 1250
+        width: 322
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 532a87de50133c920800000000000000
+      internalID: 3009302877542326837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeSelfDest_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1000
+        width: 322
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9eb366f2df7831c0800000000000000
+      internalID: -4523725281640071522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeSelfDest_9
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 1000
+        width: 322
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a6c03262ef98bb0800000000000000
+      internalID: -4933132477057439143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeSelfDest_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 750
+        width: 322
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73dedd0f73280e470800000000000000
+      internalID: 8421874479958715703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeSelfDest_11
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 750
+        width: 322
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8220e1d88eb8742d0800000000000000
+      internalID: -3294510771482000856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeSelfDest_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 500
+        width: 322
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 393f7591bfb38ff40800000000000000
+      internalID: 5762421672868574099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeSelfDest_13
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 500
+        width: 322
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb6017db95fa76610800000000000000
+      internalID: 1614451791400863423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeSelfDest_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 250
+        width: 322
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4edefb18af0633b90800000000000000
+      internalID: -7263355144983548444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeSelfDest_15
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 250
+        width: 322
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b02134bdcc5d8220800000000000000
+      internalID: 2489748207566921904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeSelfDest_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 322
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f8c399e788d6b5e0800000000000000
+      internalID: -1894088515011753738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      OrangeSelfDest_0: 2957034384560847532
+      OrangeSelfDest_1: 4988186586664173456
+      OrangeSelfDest_10: 8421874479958715703
+      OrangeSelfDest_11: -3294510771482000856
+      OrangeSelfDest_12: 5762421672868574099
+      OrangeSelfDest_13: 1614451791400863423
+      OrangeSelfDest_14: -7263355144983548444
+      OrangeSelfDest_15: 2489748207566921904
+      OrangeSelfDest_16: -1894088515011753738
+      OrangeSelfDest_2: -6415479498851144659
+      OrangeSelfDest_3: 9213184501351768562
+      OrangeSelfDest_4: -757086971402290834
+      OrangeSelfDest_5: 7781053211554339741
+      OrangeSelfDest_6: -6666008660906708533
+      OrangeSelfDest_7: 3009302877542326837
+      OrangeSelfDest_8: -4523725281640071522
+      OrangeSelfDest_9: -4933132477057439143
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

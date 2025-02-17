@@ -1,0 +1,728 @@
+fileFormatVersion: 2
+guid: 79fe4325fbab7f9428f1bfd819809ab0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8578979035764954850
+    second: ByungiOpen_0
+  - first:
+      213: -7883088001872382996
+    second: ByungiOpen_1
+  - first:
+      213: -3301533823638020329
+    second: ByungiOpen_2
+  - first:
+      213: 4294766965941038757
+    second: ByungiOpen_3
+  - first:
+      213: -5455079882769482322
+    second: ByungiOpen_4
+  - first:
+      213: -7524819169328726746
+    second: ByungiOpen_5
+  - first:
+      213: -789955441875560179
+    second: ByungiOpen_6
+  - first:
+      213: -6454918027913408979
+    second: ByungiOpen_7
+  - first:
+      213: -4498871534370467732
+    second: ByungiOpen_8
+  - first:
+      213: -3121835668590752975
+    second: ByungiOpen_9
+  - first:
+      213: 6659706523793811949
+    second: ByungiOpen_10
+  - first:
+      213: 2728707681301621063
+    second: ByungiOpen_11
+  - first:
+      213: 162476316125903051
+    second: ByungiOpen_12
+  - first:
+      213: 3458557670124106732
+    second: ByungiOpen_13
+  - first:
+      213: 8500012703991772176
+    second: ByungiOpen_14
+  - first:
+      213: -8605611651764608614
+    second: ByungiOpen_15
+  - first:
+      213: -5481367389424894735
+    second: ByungiOpen_16
+  - first:
+      213: 2963325692869074730
+    second: ByungiOpen_17
+  - first:
+      213: -2196736901001047398
+    second: ByungiOpen_18
+  - first:
+      213: 6882172282755637414
+    second: ByungiOpen_19
+  - first:
+      213: -5201076545621478963
+    second: ByungiOpen_20
+  - first:
+      213: 2914930975411026095
+    second: ByungiOpen_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ByungiOpen_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1720
+        width: 420
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e61b4acaf7ae0770800000000000000
+      internalID: 8578979035764954850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ByungiOpen_1
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1720
+        width: 420
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce3b04b8a35a99290800000000000000
+      internalID: -7883088001872382996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ByungiOpen_2
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1720
+        width: 420
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71f5e1cca789e22d0800000000000000
+      internalID: -3301533823638020329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ByungiOpen_3
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 1720
+        width: 420
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ae6ff50dc31a9b30800000000000000
+      internalID: 4294766965941038757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ByungiOpen_4
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1720
+        width: 420
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ead3526bfb9ab44b0800000000000000
+      internalID: -5455079882769482322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ByungiOpen_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1290
+        width: 420
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62d7c1d65d8729790800000000000000
+      internalID: -7524819169328726746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ByungiOpen_6
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1290
+        width: 420
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d09de9206b38905f0800000000000000
+      internalID: -789955441875560179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ByungiOpen_7
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1290
+        width: 420
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2ec4f3d0468b66a0800000000000000
+      internalID: -6454918027913408979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ByungiOpen_8
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 1290
+        width: 420
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c605bbfec2cc091c0800000000000000
+      internalID: -4498871534370467732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ByungiOpen_9
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1290
+        width: 420
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13b0186eff20da4d0800000000000000
+      internalID: -3121835668590752975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ByungiOpen_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 860
+        width: 420
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de9e41b7cc70c6c50800000000000000
+      internalID: 6659706523793811949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ByungiOpen_11
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 860
+        width: 420
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 749ecd7cd215ed520800000000000000
+      internalID: 2728707681301621063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ByungiOpen_12
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 860
+        width: 420
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc83913495b314200800000000000000
+      internalID: 162476316125903051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ByungiOpen_13
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 860
+        width: 420
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce333f270e34fff20800000000000000
+      internalID: 3458557670124106732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ByungiOpen_14
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 860
+        width: 420
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 014bcbfe48c16f570800000000000000
+      internalID: 8500012703991772176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ByungiOpen_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 430
+        width: 420
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a91ab951cc9b29880800000000000000
+      internalID: -8605611651764608614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ByungiOpen_16
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 430
+        width: 420
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fc3bed96654ee3b0800000000000000
+      internalID: -5481367389424894735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ByungiOpen_17
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 430
+        width: 420
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2fdf3d6409df1920800000000000000
+      internalID: 2963325692869074730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ByungiOpen_18
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 430
+        width: 420
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9217d66d6f9381e0800000000000000
+      internalID: -2196736901001047398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ByungiOpen_19
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 430
+        width: 420
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a060b45a33628f50800000000000000
+      internalID: 6882172282755637414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ByungiOpen_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 420
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc1bd90307012d7b0800000000000000
+      internalID: -5201076545621478963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ByungiOpen_21
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 0
+        width: 420
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa83826374ae37820800000000000000
+      internalID: 2914930975411026095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ByungiOpen_0: 8578979035764954850
+      ByungiOpen_1: -7883088001872382996
+      ByungiOpen_10: 6659706523793811949
+      ByungiOpen_11: 2728707681301621063
+      ByungiOpen_12: 162476316125903051
+      ByungiOpen_13: 3458557670124106732
+      ByungiOpen_14: 8500012703991772176
+      ByungiOpen_15: -8605611651764608614
+      ByungiOpen_16: -5481367389424894735
+      ByungiOpen_17: 2963325692869074730
+      ByungiOpen_18: -2196736901001047398
+      ByungiOpen_19: 6882172282755637414
+      ByungiOpen_2: -3301533823638020329
+      ByungiOpen_20: -5201076545621478963
+      ByungiOpen_21: 2914930975411026095
+      ByungiOpen_3: 4294766965941038757
+      ByungiOpen_4: -5455079882769482322
+      ByungiOpen_5: -7524819169328726746
+      ByungiOpen_6: -789955441875560179
+      ByungiOpen_7: -6454918027913408979
+      ByungiOpen_8: -4498871534370467732
+      ByungiOpen_9: -3121835668590752975
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

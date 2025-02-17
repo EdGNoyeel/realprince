@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "936243433912",
+    "firebase_url": "https://princethebadbreathe-default-rtdb.firebaseio.com",
+    "project_id": "princethebadbreathe",
+    "storage_bucket": "princethebadbreathe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936243433912:android:5688b99eb2fcb2a0ab3f4d",
+        "android_client_info": {
+          "package_name": "com.gameoim.princethebadbreath"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "936243433912-qr838crib6isqs93cs2dnl5u8pc0csq9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD42MMfzu5jdY72KdQbksrLAN-WzBt88UE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "936243433912-qr838crib6isqs93cs2dnl5u8pc0csq9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "936243433912-3f68o6bsbmh3usb5lnp44q8fj138fiu3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.gameoim.princethebadbreath",
+                "app_store_id": "1604180207"
+              }
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-4902307626283456~7480091116"
+    }
+  ],
+  "configuration_version": "1"
+}

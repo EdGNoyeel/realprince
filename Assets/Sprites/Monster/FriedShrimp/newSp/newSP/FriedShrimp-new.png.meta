@@ -1,0 +1,1196 @@
+fileFormatVersion: 2
+guid: 91de4e527a67dc24a89ed99c23a6c909
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2321347354467399503
+    second: FriedShrimp-new_0
+  - first:
+      213: -4132815152188945531
+    second: FriedShrimp-new_1
+  - first:
+      213: -7355006723546568924
+    second: FriedShrimp-new_2
+  - first:
+      213: 3732547243887179354
+    second: FriedShrimp-new_3
+  - first:
+      213: -6266999382035675691
+    second: FriedShrimp-new_4
+  - first:
+      213: 6229383616950581160
+    second: FriedShrimp-new_5
+  - first:
+      213: 6936039979049258083
+    second: FriedShrimp-new_6
+  - first:
+      213: -5079164138246162761
+    second: FriedShrimp-new_7
+  - first:
+      213: -6088430146975507867
+    second: FriedShrimp-new_8
+  - first:
+      213: -8735308687935434548
+    second: FriedShrimp-new_9
+  - first:
+      213: 1038747983712108611
+    second: FriedShrimp-new_10
+  - first:
+      213: -5634760479513351274
+    second: FriedShrimp-new_11
+  - first:
+      213: -5114774962587766139
+    second: FriedShrimp-new_12
+  - first:
+      213: 1426148023653630920
+    second: FriedShrimp-new_13
+  - first:
+      213: 2465353551063721619
+    second: FriedShrimp-new_14
+  - first:
+      213: -7431056852231775178
+    second: FriedShrimp-new_15
+  - first:
+      213: 4875321675723297670
+    second: FriedShrimp-new_16
+  - first:
+      213: 7302303705049535786
+    second: FriedShrimp-new_17
+  - first:
+      213: 6444525880870881050
+    second: FriedShrimp-new_18
+  - first:
+      213: -7659191953368622872
+    second: FriedShrimp-new_19
+  - first:
+      213: 2396378725980220986
+    second: FriedShrimp-new_20
+  - first:
+      213: -8695766354635360948
+    second: FriedShrimp-new_21
+  - first:
+      213: 7675959620745107021
+    second: FriedShrimp-new_22
+  - first:
+      213: 3707698603534336863
+    second: FriedShrimp-new_23
+  - first:
+      213: -5770956042882144182
+    second: FriedShrimp-new_24
+  - first:
+      213: 4533442451206506714
+    second: FriedShrimp-new_25
+  - first:
+      213: 6883262668209596079
+    second: FriedShrimp-new_26
+  - first:
+      213: 7289508843103109514
+    second: FriedShrimp-new_27
+  - first:
+      213: 2568732810343578533
+    second: FriedShrimp-new_28
+  - first:
+      213: -1381415685265454689
+    second: FriedShrimp-new_29
+  - first:
+      213: -7807039795869756093
+    second: FriedShrimp-new_30
+  - first:
+      213: 3819662819805716928
+    second: FriedShrimp-new_31
+  - first:
+      213: 1601784815232893102
+    second: FriedShrimp-new_32
+  - first:
+      213: 8547627548408306975
+    second: FriedShrimp-new_33
+  - first:
+      213: -1607413565384522676
+    second: FriedShrimp-new_34
+  - first:
+      213: -3879854206038580064
+    second: FriedShrimp-new_35
+  - first:
+      213: -4930792095957690543
+    second: FriedShrimp-new_36
+  - first:
+      213: 4183394581461267727
+    second: FriedShrimp-new_37
+  - first:
+      213: -3715049889250002427
+    second: FriedShrimp-new_38
+  - first:
+      213: -5633856682248232116
+    second: FriedShrimp-new_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FriedShrimp-new_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1417.7142
+        width: 283.16666
+        height: 236.28572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f47725fae15173020800000000000000
+      internalID: 2321347354467399503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FriedShrimp-new_1
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1417.7142
+        width: 283.16666
+        height: 236.28572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58b0d63048a45a6c0800000000000000
+      internalID: -4132815152188945531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FriedShrimp-new_2
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 1417.7142
+        width: 283.16666
+        height: 236.28572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 427a56a7a54cde990800000000000000
+      internalID: -7355006723546568924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FriedShrimp-new_3
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 1417.7142
+        width: 283.16666
+        height: 236.28572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a56324341fbacc330800000000000000
+      internalID: 3732547243887179354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FriedShrimp-new_4
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 1417.7142
+        width: 283.16666
+        height: 236.28572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d5cb2a14452709a0800000000000000
+      internalID: -6266999382035675691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FriedShrimp-new_5
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 1417.7142
+        width: 283.16666
+        height: 236.28572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a73af91567337650800000000000000
+      internalID: 6229383616950581160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FriedShrimp-new_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1181.7142
+        width: 283.16666
+        height: 236.28572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36c832bbc93c14060800000000000000
+      internalID: 6936039979049258083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FriedShrimp-new_7
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1181.7142
+        width: 283.16666
+        height: 236.28572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b63fe7702f2389b0800000000000000
+      internalID: -5079164138246162761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FriedShrimp-new_8
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 1181.7142
+        width: 283.16666
+        height: 236.28572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56adeb90a0d818ba0800000000000000
+      internalID: -6088430146975507867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FriedShrimp-new_9
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 1181.7142
+        width: 283.16666
+        height: 236.28572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc0993ca703f5c680800000000000000
+      internalID: -8735308687935434548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FriedShrimp-new_10
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 1181.7142
+        width: 283.16666
+        height: 236.28572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3404054a9cf5a6e00800000000000000
+      internalID: 1038747983712108611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FriedShrimp-new_11
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 1181.7142
+        width: 283.16666
+        height: 236.28572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69b6238b23f4dc1b0800000000000000
+      internalID: -5634760479513351274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FriedShrimp-new_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 945.7143
+        width: 283.16666
+        height: 236.28572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 582f4e0554ba409b0800000000000000
+      internalID: -5114774962587766139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FriedShrimp-new_13
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 945.7143
+        width: 283.16666
+        height: 236.28572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c3000b4212bac310800000000000000
+      internalID: 1426148023653630920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FriedShrimp-new_14
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 945.7143
+        width: 283.16666
+        height: 236.28572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 396a6e02ef1b63220800000000000000
+      internalID: 2465353551063721619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FriedShrimp-new_15
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 945.7143
+        width: 283.16666
+        height: 236.28572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63c1ef01a259fd890800000000000000
+      internalID: -7431056852231775178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FriedShrimp-new_16
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 945.7143
+        width: 283.16666
+        height: 236.28572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 683df37cb3f98a340800000000000000
+      internalID: 4875321675723297670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FriedShrimp-new_17
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 945.7143
+        width: 283.16666
+        height: 236.28572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a251f7dc78ef65560800000000000000
+      internalID: 7302303705049535786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FriedShrimp-new_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 709.7143
+        width: 283.16666
+        height: 236.28572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a17ce13e42e8f6950800000000000000
+      internalID: 6444525880870881050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FriedShrimp-new_19
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 709.7143
+        width: 283.16666
+        height: 236.28572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e8dee0af7515b590800000000000000
+      internalID: -7659191953368622872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FriedShrimp-new_20
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 709.7143
+        width: 283.16666
+        height: 236.28572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3eaa5531c5a14120800000000000000
+      internalID: 2396378725980220986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FriedShrimp-new_21
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 709.7143
+        width: 283.16666
+        height: 236.28572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c457a26929e625780800000000000000
+      internalID: -8695766354635360948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FriedShrimp-new_22
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 709.7143
+        width: 283.16666
+        height: 236.28572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4611c82b9c768a60800000000000000
+      internalID: 7675959620745107021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FriedShrimp-new_23
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 709.7143
+        width: 283.16666
+        height: 236.28572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5340e55c34647330800000000000000
+      internalID: 3707698603534336863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FriedShrimp-new_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 473.7143
+        width: 283.16666
+        height: 236.28572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a48ad990e0279efa0800000000000000
+      internalID: -5770956042882144182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FriedShrimp-new_25
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 473.7143
+        width: 283.16666
+        height: 236.28572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad807d1e3e50aee30800000000000000
+      internalID: 4533442451206506714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FriedShrimp-new_26
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 473.7143
+        width: 283.16666
+        height: 236.28572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa6275a7de2468f50800000000000000
+      internalID: 6883262668209596079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FriedShrimp-new_27
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 473.7143
+        width: 283.16666
+        height: 236.28572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a81ca3cdba9892560800000000000000
+      internalID: 7289508843103109514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FriedShrimp-new_28
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 473.7143
+        width: 283.16666
+        height: 236.28572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ab7b6b91e8f5a320800000000000000
+      internalID: 2568732810343578533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FriedShrimp-new_29
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 473.7143
+        width: 283.16666
+        height: 236.28572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f998998d0c934dce0800000000000000
+      internalID: -1381415685265454689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FriedShrimp-new_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 237.71428
+        width: 283.16666
+        height: 236.28572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34558db4ba2d7a390800000000000000
+      internalID: -7807039795869756093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FriedShrimp-new_31
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 237.71428
+        width: 283.16666
+        height: 236.28572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c16940e81b220530800000000000000
+      internalID: 3819662819805716928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FriedShrimp-new_32
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 237.71428
+        width: 283.16666
+        height: 236.28572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea042968dceaa3610800000000000000
+      internalID: 1601784815232893102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FriedShrimp-new_33
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 237.71428
+        width: 283.16666
+        height: 236.28572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d583fc7f54f9670800000000000000
+      internalID: 8547627548408306975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FriedShrimp-new_34
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 237.71428
+        width: 283.16666
+        height: 236.28572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c448c14f0e151b9e0800000000000000
+      internalID: -1607413565384522676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FriedShrimp-new_35
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 237.71428
+        width: 283.16666
+        height: 236.28572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a4e3cce72df72ac0800000000000000
+      internalID: -3879854206038580064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FriedShrimp-new_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1.7142792
+        width: 283.16666
+        height: 236.28572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 157532396be429bb0800000000000000
+      internalID: -4930792095957690543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FriedShrimp-new_37
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1.7142792
+        width: 283.16666
+        height: 236.28572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f05fa4f05376e0a30800000000000000
+      internalID: 4183394581461267727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FriedShrimp-new_38
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 1.7142792
+        width: 283.16666
+        height: 236.28572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50a36641fcd717cc0800000000000000
+      internalID: -3715049889250002427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FriedShrimp-new_39
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 1.7142792
+        width: 283.16666
+        height: 236.28572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c43222b623580d1b0800000000000000
+      internalID: -5633856682248232116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      FriedShrimp-new_0: 2321347354467399503
+      FriedShrimp-new_1: -4132815152188945531
+      FriedShrimp-new_10: 1038747983712108611
+      FriedShrimp-new_11: -5634760479513351274
+      FriedShrimp-new_12: -5114774962587766139
+      FriedShrimp-new_13: 1426148023653630920
+      FriedShrimp-new_14: 2465353551063721619
+      FriedShrimp-new_15: -7431056852231775178
+      FriedShrimp-new_16: 4875321675723297670
+      FriedShrimp-new_17: 7302303705049535786
+      FriedShrimp-new_18: 6444525880870881050
+      FriedShrimp-new_19: -7659191953368622872
+      FriedShrimp-new_2: -7355006723546568924
+      FriedShrimp-new_20: 2396378725980220986
+      FriedShrimp-new_21: -8695766354635360948
+      FriedShrimp-new_22: 7675959620745107021
+      FriedShrimp-new_23: 3707698603534336863
+      FriedShrimp-new_24: -5770956042882144182
+      FriedShrimp-new_25: 4533442451206506714
+      FriedShrimp-new_26: 6883262668209596079
+      FriedShrimp-new_27: 7289508843103109514
+      FriedShrimp-new_28: 2568732810343578533
+      FriedShrimp-new_29: -1381415685265454689
+      FriedShrimp-new_3: 3732547243887179354
+      FriedShrimp-new_30: -7807039795869756093
+      FriedShrimp-new_31: 3819662819805716928
+      FriedShrimp-new_32: 1601784815232893102
+      FriedShrimp-new_33: 8547627548408306975
+      FriedShrimp-new_34: -1607413565384522676
+      FriedShrimp-new_35: -3879854206038580064
+      FriedShrimp-new_36: -4930792095957690543
+      FriedShrimp-new_37: 4183394581461267727
+      FriedShrimp-new_38: -3715049889250002427
+      FriedShrimp-new_39: -5633856682248232116
+      FriedShrimp-new_4: -6266999382035675691
+      FriedShrimp-new_5: 6229383616950581160
+      FriedShrimp-new_6: 6936039979049258083
+      FriedShrimp-new_7: -5079164138246162761
+      FriedShrimp-new_8: -6088430146975507867
+      FriedShrimp-new_9: -8735308687935434548
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

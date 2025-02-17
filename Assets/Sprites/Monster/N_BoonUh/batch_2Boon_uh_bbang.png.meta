@@ -1,0 +1,702 @@
+fileFormatVersion: 2
+guid: 971fa393735ff94468113208ce90b864
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2333609677273411779
+    second: batch_2Boon_uh_bbang_0
+  - first:
+      213: -8526259791098387636
+    second: batch_2Boon_uh_bbang_1
+  - first:
+      213: 7746996907373194351
+    second: batch_2Boon_uh_bbang_2
+  - first:
+      213: -2714925354622143040
+    second: batch_2Boon_uh_bbang_3
+  - first:
+      213: 6492243497244944944
+    second: batch_2Boon_uh_bbang_4
+  - first:
+      213: -2338583420453271646
+    second: batch_2Boon_uh_bbang_5
+  - first:
+      213: 1742528794177751199
+    second: batch_2Boon_uh_bbang_6
+  - first:
+      213: 6100757372637991471
+    second: batch_2Boon_uh_bbang_7
+  - first:
+      213: 8009164938130176634
+    second: batch_2Boon_uh_bbang_8
+  - first:
+      213: -8672560554159037263
+    second: batch_2Boon_uh_bbang_9
+  - first:
+      213: 7130704339393336206
+    second: batch_2Boon_uh_bbang_10
+  - first:
+      213: 6780618899756005319
+    second: batch_2Boon_uh_bbang_11
+  - first:
+      213: -5805907599020270800
+    second: batch_2Boon_uh_bbang_12
+  - first:
+      213: 1090516237984142305
+    second: batch_2Boon_uh_bbang_13
+  - first:
+      213: 2596228590670277527
+    second: batch_2Boon_uh_bbang_14
+  - first:
+      213: 2206673282065230804
+    second: batch_2Boon_uh_bbang_15
+  - first:
+      213: 960980451250932037
+    second: batch_2Boon_uh_bbang_16
+  - first:
+      213: -234834407377848007
+    second: batch_2Boon_uh_bbang_17
+  - first:
+      213: 6175257884355680866
+    second: batch_2Boon_uh_bbang_18
+  - first:
+      213: -7813572391200904662
+    second: batch_2Boon_uh_bbang_19
+  - first:
+      213: 6469004682865808545
+    second: batch_2Boon_uh_bbang_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: batch_2Boon_uh_bbang_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1488.3334
+        width: 429.5
+        height: 297.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3f44bdcc5a5d9fd0800000000000000
+      internalID: -2333609677273411779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_2Boon_uh_bbang_1
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 1488.3334
+        width: 429.5
+        height: 297.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4362e0e4e3aca980800000000000000
+      internalID: -8526259791098387636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_2Boon_uh_bbang_2
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 1488.3334
+        width: 429.5
+        height: 297.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6c670454acd28b60800000000000000
+      internalID: 7746996907373194351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_2Boon_uh_bbang_3
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 1488.3334
+        width: 429.5
+        height: 297.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c5bb0636c5a25ad0800000000000000
+      internalID: -2714925354622143040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_2Boon_uh_bbang_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1191.3334
+        width: 429.5
+        height: 297.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03aef983015191a50800000000000000
+      internalID: 6492243497244944944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_2Boon_uh_bbang_5
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 1191.3334
+        width: 429.5
+        height: 297.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a7c34af4ceab8fd0800000000000000
+      internalID: -2338583420453271646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_2Boon_uh_bbang_6
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 1191.3334
+        width: 429.5
+        height: 297.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f98cadbb4b4be2810800000000000000
+      internalID: 1742528794177751199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_2Boon_uh_bbang_7
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 1191.3334
+        width: 429.5
+        height: 297.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f22dee8d18e3aa450800000000000000
+      internalID: 6100757372637991471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_2Boon_uh_bbang_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 894.3334
+        width: 429.5
+        height: 297.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a33cca315462f60800000000000000
+      internalID: 8009164938130176634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_2Boon_uh_bbang_9
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 894.3334
+        width: 429.5
+        height: 297.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b4294c0020e4a780800000000000000
+      internalID: -8672560554159037263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_2Boon_uh_bbang_10
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 894.3334
+        width: 429.5
+        height: 297.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8350eb01d955f260800000000000000
+      internalID: 7130704339393336206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_2Boon_uh_bbang_11
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 894.3334
+        width: 429.5
+        height: 297.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c7b14dc6f8991e50800000000000000
+      internalID: 6780618899756005319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_2Boon_uh_bbang_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 597.3334
+        width: 429.5
+        height: 297.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03bd7a9bcc54d6fa0800000000000000
+      internalID: -5805907599020270800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_2Boon_uh_bbang_13
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 597.3334
+        width: 429.5
+        height: 297.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e317da9dba422f00800000000000000
+      internalID: 1090516237984142305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_2Boon_uh_bbang_14
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 597.3334
+        width: 429.5
+        height: 297.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79b6d96d528a70420800000000000000
+      internalID: 2596228590670277527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_2Boon_uh_bbang_15
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 597.3334
+        width: 429.5
+        height: 297.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dbe7d898adaf9e10800000000000000
+      internalID: 2206673282065230804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_2Boon_uh_bbang_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300.33334
+        width: 429.5
+        height: 297.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54908e001a6165d00800000000000000
+      internalID: 960980451250932037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_2Boon_uh_bbang_17
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 300.33334
+        width: 429.5
+        height: 297.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9393437c953bdbcf0800000000000000
+      internalID: -234834407377848007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_2Boon_uh_bbang_18
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 300.33334
+        width: 429.5
+        height: 297.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a5371f35ce2b550800000000000000
+      internalID: 6175257884355680866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_2Boon_uh_bbang_19
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 300.33334
+        width: 429.5
+        height: 297.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2aababee4d909390800000000000000
+      internalID: -7813572391200904662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batch_2Boon_uh_bbang_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3.3333435
+        width: 429.5
+        height: 297.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a41e8c1c7586c950800000000000000
+      internalID: 6469004682865808545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      batch_2Boon_uh_bbang_0: -2333609677273411779
+      batch_2Boon_uh_bbang_1: -8526259791098387636
+      batch_2Boon_uh_bbang_10: 7130704339393336206
+      batch_2Boon_uh_bbang_11: 6780618899756005319
+      batch_2Boon_uh_bbang_12: -5805907599020270800
+      batch_2Boon_uh_bbang_13: 1090516237984142305
+      batch_2Boon_uh_bbang_14: 2596228590670277527
+      batch_2Boon_uh_bbang_15: 2206673282065230804
+      batch_2Boon_uh_bbang_16: 960980451250932037
+      batch_2Boon_uh_bbang_17: -234834407377848007
+      batch_2Boon_uh_bbang_18: 6175257884355680866
+      batch_2Boon_uh_bbang_19: -7813572391200904662
+      batch_2Boon_uh_bbang_2: 7746996907373194351
+      batch_2Boon_uh_bbang_20: 6469004682865808545
+      batch_2Boon_uh_bbang_3: -2714925354622143040
+      batch_2Boon_uh_bbang_4: 6492243497244944944
+      batch_2Boon_uh_bbang_5: -2338583420453271646
+      batch_2Boon_uh_bbang_6: 1742528794177751199
+      batch_2Boon_uh_bbang_7: 6100757372637991471
+      batch_2Boon_uh_bbang_8: 8009164938130176634
+      batch_2Boon_uh_bbang_9: -8672560554159037263
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

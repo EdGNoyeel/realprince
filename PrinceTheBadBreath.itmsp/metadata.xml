@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<package version="software5.7" xmlns="http://apple.com/itunes/importer">
+  <provider>VH4XNZHBRD</provider>
+  <team_id>VH4XNZHBRD</team_id>
+  <software>
+    <vendor_id>PrinceTheBadBreath</vendor_id>
+    <software_metadata>
+      <in_app_purchases>
+        <in_app_purchase>
+          <product_id> dia5000</product_id>
+          <reference_name> dia5000</reference_name>
+          <type>consumable</type>
+          <products>
+            <product>
+              <cleared_for_sale>true</cleared_for_sale>
+              <wholesale_price_tier>4</wholesale_price_tier>
+            </product>
+          </products>
+          <locales>
+            <locale name="ko">
+              <title>다이아 5000개</title>
+              <description>게임내 주요재화인 다이아를 5000개 구매합니다</description>
+            </locale>
+          </locales>
+          <review_screenshot>
+            <file_name>batch_ScreenShot.jpg</file_name>
+            <size>384573</size>
+            <checksum>6aa589b0e653d4fde796b67a338ee872</checksum>
+          </review_screenshot>
+        </in_app_purchase>
+        <in_app_purchase>
+          <product_id>dia1000</product_id>
+          <reference_name>dia1000</reference_name>
+          <type>consumable</type>
+          <products>
+            <product>
+              <cleared_for_sale>true</cleared_for_sale>
+              <wholesale_price_tier>1</wholesale_price_tier>
+            </product>
+          </products>
+          <locales>
+            <locale name="ko">
+              <title>다이아 1000개</title>
+              <description>게임내 주요재화인 다이아를 1000개 구매합니다</description>
+            </locale>
+          </locales>
+          <review_screenshot>
+            <file_name>batch_ScreenShot.jpg</file_name>
+            <size>384573</size>
+            <checksum>6aa589b0e653d4fde796b67a338ee872</checksum>
+          </review_screenshot>
+        </in_app_purchase>
+        <in_app_purchase>
+          <product_id>dia10000</product_id>
+          <reference_name>dia10000</reference_name>
+          <type>consumable</type>
+          <products>
+            <product>
+              <cleared_for_sale>true</cleared_for_sale>
+              <wholesale_price_tier>7</wholesale_price_tier>
+            </product>
+          </products>
+          <locales>
+            <locale name="ko">
+              <title>다이아 10000개</title>
+              <description>게임내 주요재화인 다이아를 10000개 구매합니다</description>
+            </locale>
+          </locales>
+          <review_screenshot>
+            <file_name>batch_ScreenShot.jpg</file_name>
+            <size>384573</size>
+            <checksum>6aa589b0e653d4fde796b67a338ee872</checksum>
+          </review_screenshot>
+        </in_app_purchase>
+      </in_app_purchases>
+    </software_metadata>
+  </software>
+</package>
