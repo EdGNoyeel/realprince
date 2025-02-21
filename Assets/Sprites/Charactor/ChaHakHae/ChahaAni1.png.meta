@@ -1,0 +1,1293 @@
+fileFormatVersion: 2
+guid: 9fc94bdcee3974ca58c37276744dc629
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5002051610761727353
+    second: ChahaAni1_0
+  - first:
+      213: 3755762831646113655
+    second: ChahaAni1_1
+  - first:
+      213: -4014500155460541318
+    second: ChahaAni1_2
+  - first:
+      213: -2217659726774074062
+    second: ChahaAni1_3
+  - first:
+      213: -8069741177104688307
+    second: ChahaAni1_4
+  - first:
+      213: 8993417161208930157
+    second: ChahaAni1_5
+  - first:
+      213: 4666875021402570904
+    second: ChahaAni1_6
+  - first:
+      213: 7436233731181583598
+    second: ChahaAni1_7
+  - first:
+      213: -6609903647911484486
+    second: ChahaAni1_8
+  - first:
+      213: 3985757229148268334
+    second: ChahaAni1_9
+  - first:
+      213: 8767966073559442059
+    second: ChahaAni1_10
+  - first:
+      213: -7856950741536793991
+    second: ChahaAni1_11
+  - first:
+      213: 4006665367734988796
+    second: ChahaAni1_12
+  - first:
+      213: 6722415331431936340
+    second: ChahaAni1_13
+  - first:
+      213: -6186796688566519407
+    second: ChahaAni1_14
+  - first:
+      213: -2439988891101067640
+    second: ChahaAni1_15
+  - first:
+      213: -8110778759965865490
+    second: ChahaAni1_16
+  - first:
+      213: 8331167532335648962
+    second: ChahaAni1_17
+  - first:
+      213: 471326264766293950
+    second: ChahaAni1_18
+  - first:
+      213: -935322742868355840
+    second: ChahaAni1_19
+  - first:
+      213: -3466763928494018591
+    second: ChahaAni1_20
+  - first:
+      213: -3696202303141261808
+    second: ChahaAni1_21
+  - first:
+      213: -3716058187808488445
+    second: ChahaAni1_22
+  - first:
+      213: 8694641301434073261
+    second: ChahaAni1_23
+  - first:
+      213: 2351877252006690204
+    second: ChahaAni1_24
+  - first:
+      213: -6637096675745681512
+    second: ChahaAni1_25
+  - first:
+      213: 1727123084164303225
+    second: ChahaAni1_26
+  - first:
+      213: 7466103658259927759
+    second: ChahaAni1_27
+  - first:
+      213: -1832792290428492651
+    second: ChahaAni1_28
+  - first:
+      213: 1216073505426835061
+    second: ChahaAni1_29
+  - first:
+      213: -7808921185203425397
+    second: ChahaAni1_30
+  - first:
+      213: 3065914088461290164
+    second: ChahaAni1_31
+  - first:
+      213: -4814951265436320552
+    second: ChahaAni1_32
+  - first:
+      213: 5283045333449258322
+    second: ChahaAni1_33
+  - first:
+      213: -8473625586406797091
+    second: ChahaAni1_34
+  - first:
+      213: 8427198034739353869
+    second: ChahaAni1_35
+  - first:
+      213: 8493429516803170226
+    second: ChahaAni1_36
+  - first:
+      213: -3474961365487710913
+    second: ChahaAni1_37
+  - first:
+      213: 408851946066210305
+    second: ChahaAni1_38
+  - first:
+      213: -8399780290942554387
+    second: ChahaAni1_39
+  - first:
+      213: -4824242927671718978
+    second: ChahaAni1_40
+  - first:
+      213: -6903982451790920378
+    second: ChahaAni1_41
+  - first:
+      213: 7815963022383826272
+    second: ChahaAni1_42
+  - first:
+      213: 491660864044410555
+    second: ChahaAni1_43
+  - first:
+      213: -8940942401610410644
+    second: ChahaAni1_44
+  - first:
+      213: -4928551593795206464
+    second: ChahaAni1_45
+  - first:
+      213: -8873153503661939216
+    second: ChahaAni1_46
+  - first:
+      213: -5098115164291313168
+    second: ChahaAni1_47
+  - first:
+      213: -4160699093828250710
+    second: ChahaAni1_48
+  - first:
+      213: -1672549532267392987
+    second: ChahaAni1_49
+  - first:
+      213: 7753829129876387224
+    second: ChahaAni1_50
+  - first:
+      213: -8512156031701993269
+    second: ChahaAni1_51
+  - first:
+      213: -2842573972944971899
+    second: ChahaAni1_52
+  - first:
+      213: 1174271900665966770
+    second: ChahaAni1_53
+  - first:
+      213: -76236968266273880
+    second: ChahaAni1_54
+  - first:
+      213: -5571312069501204706
+    second: ChahaAni1_55
+  - first:
+      213: -5509858699776931128
+    second: ChahaAni1_56
+  - first:
+      213: 6141863672913568037
+    second: ChahaAni1_57
+  - first:
+      213: -1823299290801356831
+    second: ChahaAni1_58
+  - first:
+      213: -6461354482683731133
+    second: ChahaAni1_59
+  - first:
+      213: 1459416001476378282
+    second: ChahaAni1_60
+  - first:
+      213: -8681006680686516776
+    second: ChahaAni1_61
+  - first:
+      213: 4618840956083942435
+    second: ChahaAni1_62
+  - first:
+      213: 8351322023838106376
+    second: ChahaAni1_63
+  - first:
+      213: 6153717103796619900
+    second: ChahaAni1_64
+  - first:
+      213: 6514506184238320696
+    second: ChahaAni1_65
+  - first:
+      213: -7269315426876355487
+    second: ChahaAni1_66
+  - first:
+      213: 4239001488504214055
+    second: ChahaAni1_67
+  - first:
+      213: 3178198509770108835
+    second: ChahaAni1_68
+  - first:
+      213: 2281196055701988318
+    second: ChahaAni1_69
+  - first:
+      213: 6617467057681101122
+    second: ChahaAni1_70
+  - first:
+      213: 6960189019861522284
+    second: ChahaAni1_71
+  - first:
+      213: 2129727597722192562
+    second: ChahaAni1_72
+  - first:
+      213: -5135973857591427091
+    second: ChahaAni1_73
+  - first:
+      213: 1998360948486377114
+    second: ChahaAni1_74
+  - first:
+      213: 7415795647539449638
+    second: ChahaAni1_75
+  - first:
+      213: -8790098019006003048
+    second: ChahaAni1_76
+  - first:
+      213: -5867085042452943241
+    second: ChahaAni1_77
+  - first:
+      213: -6594889170722470901
+    second: ChahaAni1_78
+  - first:
+      213: -2758969223775277752
+    second: ChahaAni1_79
+  - first:
+      213: 8189983286406138874
+    second: ChahaAni1_80
+  - first:
+      213: -3289126178971216109
+    second: ChahaAni1_81
+  - first:
+      213: -6819432224327417630
+    second: ChahaAni1_82
+  - first:
+      213: -5981109933472780542
+    second: ChahaAni1_83
+  - first:
+      213: -3994412221806978009
+    second: ChahaAni1_84
+  - first:
+      213: -2173165118339558705
+    second: ChahaAni1_85
+  - first:
+      213: -3887715707766122084
+    second: ChahaAni1_86
+  - first:
+      213: 996611905129977582
+    second: ChahaAni1_87
+  - first:
+      213: -6711361622588828743
+    second: ChahaAni1_88
+  - first:
+      213: -1134486183807249318
+    second: ChahaAni1_89
+  - first:
+      213: -4061872435961424471
+    second: ChahaAni1_90
+  - first:
+      213: 2477972754851716299
+    second: ChahaAni1_91
+  - first:
+      213: -720350529444920210
+    second: ChahaAni1_92
+  - first:
+      213: 745258568967487291
+    second: ChahaAni1_93
+  - first:
+      213: -997244164098051234
+    second: ChahaAni1_94
+  - first:
+      213: -7554114564765068417
+    second: ChahaAni1_95
+  - first:
+      213: -1315667197281666447
+    second: ChahaAni1_96
+  - first:
+      213: -6134733168574864281
+    second: ChahaAni1_97
+  - first:
+      213: 2342876623945614013
+    second: ChahaAni1_98
+  - first:
+      213: 5499373027047286850
+    second: ChahaAni1_99
+  - first:
+      213: 8654167880586694706
+    second: ChahaAni1_100
+  - first:
+      213: -169619101487274748
+    second: ChahaAni1_101
+  - first:
+      213: 371243361103019251
+    second: ChahaAni1_102
+  - first:
+      213: 1590968697918990109
+    second: ChahaAni1_103
+  - first:
+      213: 8199803528604086724
+    second: ChahaAni1_104
+  - first:
+      213: 1139924723768735624
+    second: ChahaAni1_105
+  - first:
+      213: -8023843942061554452
+    second: ChahaAni1_106
+  - first:
+      213: -5622290873985145593
+    second: ChahaAni1_107
+  - first:
+      213: -3973981916360407085
+    second: ChahaAni1_108
+  - first:
+      213: 3440896143714066217
+    second: ChahaAni1_109
+  - first:
+      213: -7948385970154168144
+    second: ChahaAni1_110
+  - first:
+      213: -3146500469748871244
+    second: ChahaAni1_111
+  - first:
+      213: -2784005425289980610
+    second: ChahaAni1_112
+  - first:
+      213: -6119737755039135123
+    second: ChahaAni1_113
+  - first:
+      213: -8744651784674947576
+    second: ChahaAni1_114
+  - first:
+      213: 4303491358767079419
+    second: ChahaAni1_115
+  - first:
+      213: -1372465062615266454
+    second: ChahaAni1_116
+  - first:
+      213: -6569215748894066408
+    second: ChahaAni1_117
+  - first:
+      213: 324394870442441568
+    second: ChahaAni1_118
+  - first:
+      213: -7883791024304369194
+    second: ChahaAni1_119
+  - first:
+      213: -8830887492723868724
+    second: ChahaAni1_120
+  - first:
+      213: 4110442351244639589
+    second: ChahaAni1_121
+  - first:
+      213: -4178681520082806141
+    second: ChahaAni1_122
+  - first:
+      213: -1073403707027339000
+    second: ChahaAni1_123
+  - first:
+      213: -7033418787436913092
+    second: ChahaAni1_124
+  - first:
+      213: 7191282027446609742
+    second: ChahaAni1_125
+  - first:
+      213: 6584378286751164402
+    second: ChahaAni1_126
+  - first:
+      213: 3450181165250947030
+    second: ChahaAni1_127
+  - first:
+      213: -5902807914412954911
+    second: ChahaAni1_128
+  - first:
+      213: 4837986190811403005
+    second: ChahaAni1_129
+  - first:
+      213: -267750581053264231
+    second: ChahaAni1_130
+  - first:
+      213: 6057094902719683488
+    second: ChahaAni1_131
+  - first:
+      213: 665464479274117412
+    second: ChahaAni1_132
+  - first:
+      213: 125837400681987715
+    second: ChahaAni1_133
+  - first:
+      213: -5015043699501527657
+    second: ChahaAni1_134
+  - first:
+      213: -1344905091494183118
+    second: ChahaAni1_135
+  - first:
+      213: 3914477931758794717
+    second: ChahaAni1_136
+  - first:
+      213: -7110216742115172167
+    second: ChahaAni1_137
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ChahaAni1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1350
+        width: 250
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f0b3d74a326c49159525a4ce7250f49
+      internalID: -1703845908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChahaAni1_1
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1350
+        width: 250
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e35c0a89aff0f4fe99e7e536718dbcbe
+      internalID: 1950642598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChahaAni1_2
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1350
+        width: 250
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6c9b1b21d2274786885f487683bd3d3
+      internalID: -887689851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChahaAni1_3
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1350
+        width: 250
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 961d97ab93c5943509d6ddafa39e7ce4
+      internalID: -669743802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChahaAni1_4
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1350
+        width: 250
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f665c30c631334f879e274faae305da1
+      internalID: -183466588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChahaAni1_5
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 1350
+        width: 250
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83cd46334a9bf4d2f9cc973e5d50c9ee
+      internalID: 1678580706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChahaAni1_6
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1350
+        width: 250
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c325887289f204ebc9fd6d1b38ce5979
+      internalID: 635945915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChahaAni1_7
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 1350
+        width: 250
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1674f0bfc5f5841feb27387a82621ae9
+      internalID: 990902479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChahaAni1_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 900
+        width: 250
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04dc7290812d848ec879416cd3d67cd3
+      internalID: -900640167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChahaAni1_9
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 900
+        width: 250
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faef2b5515a234d4d9aefe26c4707ad1
+      internalID: 1224499943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChahaAni1_10
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 900
+        width: 250
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f632c9815244a3b8bed3ad6312b5e7
+      internalID: -906242941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChahaAni1_11
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 900
+        width: 250
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42ccbceecde454beda6cf84d395ecb76
+      internalID: -623887086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChahaAni1_12
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 900
+        width: 250
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a23a220a6b5934460bfdf8c43d2cc7fa
+      internalID: 1565499255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChahaAni1_13
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 900
+        width: 250
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f13fc0fce09a4bfdaefcd7d29a16c4d
+      internalID: -1092855661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChahaAni1_14
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 900
+        width: 250
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd844f58439684c7a80ac49ddee25b34
+      internalID: 1950164967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChahaAni1_15
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 900
+        width: 250
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b869bf07348b747bfaec5f4ce94625aa
+      internalID: -70614199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChahaAni1_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 450
+        width: 250
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aa2a52b6471345f9a3450aa312cc861
+      internalID: 1453601330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChahaAni1_17
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 450
+        width: 250
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00f0559eb369845929ebcf8cd881a5db
+      internalID: 937509124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChahaAni1_18
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 450
+        width: 250
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e44c2600fff447bda4f246ca8c8e45b
+      internalID: -1771817360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChahaAni1_19
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 450
+        width: 250
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be50ff24eed74f3fb4e9cabb4775612
+      internalID: -1473519692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChahaAni1_20
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 450
+        width: 250
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19213d09830fd4684a84685fc5a55f3b
+      internalID: -1239573219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChahaAni1_21
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 450
+        width: 250
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ac1a2a8e4a1e487eb9143d3326cccf0
+      internalID: 774897248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChahaAni1_22
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 450
+        width: 250
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8c737052ff6542faa428d03edd57bc7
+      internalID: -1214735505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChahaAni1_23
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 450
+        width: 250
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9b761b09d7024797a3d1684f1236bb9
+      internalID: -800824118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChahaAni1_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 250
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55441541810af41f28e665f6ace7e5b2
+      internalID: 1287344001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChahaAni1_25
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 0
+        width: 250
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8df60cdcf210a437e8d803a2f238e1c2
+      internalID: 1584041998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChahaAni1_26
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 0
+        width: 250
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa8e6e143a714d86b92b64c4e231473
+      internalID: -297464099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChahaAni1_27
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 0
+        width: 250
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0b94b568a81c426e9271c201475cce6
+      internalID: 441783219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChahaAni1_28
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 0
+        width: 250
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1091a995a3014e6d9d39b1736df51c1
+      internalID: -623170914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChahaAni1_29
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 0
+        width: 250
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88cbe942cc7bf4c9a84d1d1b6f53cb16
+      internalID: -594265040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChahaAni1_30
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 0
+        width: 250
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3215a34692df145dcaf056571e204c13
+      internalID: -1382900205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChahaAni1_31
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 0
+        width: 250
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec3ed014b193447c6adf0e4f1fe6b9c7
+      internalID: 1504514706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: a885fd9cd12ba472489e11f2c456707f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ChahaAni1_0: -1703845908
+      ChahaAni1_1: 1950642598
+      ChahaAni1_10: -906242941
+      ChahaAni1_11: -623887086
+      ChahaAni1_12: 1565499255
+      ChahaAni1_13: -1092855661
+      ChahaAni1_14: 1950164967
+      ChahaAni1_15: -70614199
+      ChahaAni1_16: 1453601330
+      ChahaAni1_17: 937509124
+      ChahaAni1_18: -1771817360
+      ChahaAni1_19: -1473519692
+      ChahaAni1_2: -887689851
+      ChahaAni1_20: -1239573219
+      ChahaAni1_21: 774897248
+      ChahaAni1_22: -1214735505
+      ChahaAni1_23: -800824118
+      ChahaAni1_24: 1287344001
+      ChahaAni1_25: 1584041998
+      ChahaAni1_26: -297464099
+      ChahaAni1_27: 441783219
+      ChahaAni1_28: -623170914
+      ChahaAni1_29: -594265040
+      ChahaAni1_3: -669743802
+      ChahaAni1_30: -1382900205
+      ChahaAni1_31: 1504514706
+      ChahaAni1_4: -183466588
+      ChahaAni1_5: 1678580706
+      ChahaAni1_6: 635945915
+      ChahaAni1_7: 990902479
+      ChahaAni1_8: -900640167
+      ChahaAni1_9: 1224499943
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
