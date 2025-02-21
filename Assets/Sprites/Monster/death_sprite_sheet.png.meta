@@ -360,7 +360,16 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      death_sprite_sheet_0: -6091054335254508231
+      death_sprite_sheet_1: -3537798163064989427
+      death_sprite_sheet_2: 8907093762115647097
+      death_sprite_sheet_3: -6691887260016684421
+      death_sprite_sheet_4: -1840523975305115599
+      death_sprite_sheet_5: -4471200020756251676
+      death_sprite_sheet_6: 1564844103098987191
+      death_sprite_sheet_7: -5594091249788242017
+      death_sprite_sheet_8: 5464812064216707147
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
