@@ -65,7 +65,7 @@ public class AuthManager : MonoBehaviour
     {
         if (canOpenPopup)
         {
-            resetMailSentPopup.SetActive(true);
+            //resetMailSentPopup.SetActive(true);
             canOpenPopup = false;
         }
     }
