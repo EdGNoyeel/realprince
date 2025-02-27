@@ -11,7 +11,7 @@ public class KmaWeather : MonoBehaviour
     private string kmaUrl = "https://www.kma.go.kr/weather/forecast/mid-term-rss3.jsp?stnId=109"; // 서울 및 경기 지역
     public TextMeshProUGUI weatherText; // UI에 표시할 TMP 텍스트
     public Image weatherIcon; // 날씨 아이콘을 표시할 UI Image
-    public Sprite clearSprite, fewCloudsSprite, cloudySprite, rainSprite, snowSprite, sleetSprite, showerSprite, cloudRain; // 날씨별 스프라이트
+    public Sprite clearSprite, fewCloudsSprite, cloudySprite, rainSprite, snowSprite, sleetSprite, owerSprite, cloudRain, cloudSnow; // 날씨별 스프라이트
 
     private Dictionary<string, Sprite> weatherSprites;
 
@@ -24,20 +24,20 @@ public class KmaWeather : MonoBehaviour
             { "구름많음", cloudySprite },
             { "흐림", cloudySprite },
             { "비", rainSprite },
-            { "소나기", showerSprite },
+            { "소나기", rainSprite },
             { "눈", snowSprite },
             { "비/눈", sleetSprite },
             { "소낙눈", snowSprite },
             { "흐리고 비", cloudRain },
-            { "흐리고 눈", cloudRain },
+            { "흐리고 눈", cloudSnow },
             { "흐리고 비/눈", sleetSprite },
-            { "흐리고 소나기", showerSprite },
+            { "흐리고 소나기", rainSprite },
             { "흐리고 소낙눈", snowSprite },
             { "구름많고 비", rainSprite },
             { "구름많고 눈", snowSprite },
             { "구름많고 비/눈", sleetSprite },
-            { "구름많고 소나기", showerSprite },
-            { "구름많고 소낙눈", snowSprite }
+            { "구름많고 소나기", rainSprite },
+            { "구름많고 소낙눈", cloudSnow }
         };
         StartCoroutine(GetWeatherFromKMA());
     }
