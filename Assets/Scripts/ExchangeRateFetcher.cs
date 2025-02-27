@@ -1,16 +1,18 @@
 using System.Collections;
 using UnityEngine;
 using UnityEngine.Networking;
-using TMPro; // TextMeshPro 사용 시 필요
+using UnityEngine.UI;
+using SimpleJSON;
+using TMPro;
 
 public class ExchangeRateFetcher : MonoBehaviour
 {
-    public TextMeshProUGUI exchangeRateText; // UI에 표시할 텍스트
-
-    private string apiUrl = "https://api.exchangerate-api.com/v4/latest/USD"; // 예제 API (USD 기준 환율)
+    public TextMeshProUGUI exchangeRateText; // UI에 표시할 Text
+    private string apiUrl = "https://api.exchangerate-api.com/v4/latest/USD"; // API URL
 
     void Start()
     {
+
         StartCoroutine(GetExchangeRate());
     }
 
@@ -20,29 +22,30 @@ public class ExchangeRateFetcher : MonoBehaviour
         {
             yield return request.SendWebRequest();
 
-            if (request.result == UnityWebRequest.Result.Success)
+            if (request.result == UnityWebRequest.Result.ConnectionError || request.result == UnityWebRequest.Result.ProtocolError)
             {
-                string json = request.downloadHandler.text;
-                ExchangeRateData data = JsonUtility.FromJson<ExchangeRateData>(json);
-
-                if (data != null && data.rates != null)
-                {
-                    float rate = data.rates["KRW"]; // 원화(KRW) 환율 가져오기
-                    exchangeRateText.text = $"USD to KRW: {rate:F2}";
-                }
+                Debug.LogError("API 요청 실패: " + request.error);
+                exchangeRateText.text = "환율 정보를 가져올 수 없습니다.";
             }
             else
             {
-                Debug.LogError("API 호출 실패: " + request.error);
+                string json = request.downloadHandler.text;
+                Debug.Log("응답 데이터: " + json);
+
+                var data = JSON.Parse(json); // SimpleJSON을 사용하여 파싱
+
+                if (data == null || !data.HasKey("rates") || !data["rates"].HasKey("KRW"))
+                {
+                    Debug.LogError("JSON 파싱 실패: rates 또는 KRW 데이터 없음");
+                    exchangeRateText.text = "환율 데이터를 불러올 수 없습니다.";
+                }
+                else
+                {
+                    double rate = data["rates"]["KRW"].AsDouble;
+                    exchangeRateText.text = $"1 USD = {rate} KRW";
+                    Debug.Log($"환율 업데이트 완료: 1 USD = {rate} KRW");
+                }
             }
         }
     }
-}
-
-// JSON 데이터를 매핑할 클래스
-[System.Serializable]
-public class ExchangeRateData
-{
-    public string base_currency;
-    public System.Collections.Generic.Dictionary<string, float> rates;
 }
