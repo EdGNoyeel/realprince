@@ -52,13 +52,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   weatherText: {fileID: 8737876848508125173}
   weatherIcon: {fileID: 2491508866386702841}
-  clearSprite: {fileID: 0}
-  fewCloudsSprite: {fileID: 0}
-  cloudySprite: {fileID: 0}
-  rainSprite: {fileID: 0}
-  snowSprite: {fileID: 0}
-  sleetSprite: {fileID: 0}
-  showerSprite: {fileID: 0}
+  clearSprite: {fileID: 10383181, guid: 0031517bb17a14c72b022b9fcb8d5c29, type: 3}
+  fewCloudsSprite: {fileID: 1316031343, guid: 0031517bb17a14c72b022b9fcb8d5c29, type: 3}
+  cloudySprite: {fileID: 1316031343, guid: 0031517bb17a14c72b022b9fcb8d5c29, type: 3}
+  rainSprite: {fileID: 1196245206, guid: 0031517bb17a14c72b022b9fcb8d5c29, type: 3}
+  snowSprite: {fileID: -124699365, guid: 0031517bb17a14c72b022b9fcb8d5c29, type: 3}
+  sleetSprite: {fileID: 781156347, guid: 0031517bb17a14c72b022b9fcb8d5c29, type: 3}
+  showerSprite: {fileID: -1482913416, guid: 0031517bb17a14c72b022b9fcb8d5c29, type: 3}
 --- !u!1 &3647828207317265767
 GameObject:
   m_ObjectHideFlags: 0
