@@ -37,7 +37,7 @@ public class RSSNewsFetcher : MonoBehaviour
                 if (items.Count > 0)
                 {
                     string headline = items[0]["title"].InnerText;
-                    newsText.text = $"헤드라인 뉴스: {headline}";
+                    newsText.text = $"충격 실화! {headline}";
                     Debug.Log($"헤드라인 뉴스: {headline}");
                 }
                 else
