@@ -1,0 +1,411 @@
+fileFormatVersion: 2
+guid: 0031517bb17a14c72b022b9fcb8d5c29
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8680565408968327117
+    second: howstheweather_0
+  - first:
+      213: 3461522489543259375
+    second: howstheweather_1
+  - first:
+      213: -5229671092309996469
+    second: howstheweather_2
+  - first:
+      213: 7902019274693290202
+    second: howstheweather_3
+  - first:
+      213: 3545984223801430733
+    second: howstheweather_4
+  - first:
+      213: 457711743584012617
+    second: howstheweather_5
+  - first:
+      213: 5764418985542428498
+    second: howstheweather_6
+  - first:
+      213: 5170492051043498377
+    second: howstheweather_7
+  - first:
+      213: 1088298895264394211
+    second: howstheweather_8
+  - first:
+      213: 432568457317079089
+    second: howstheweather_9
+  - first:
+      213: -2766252105939649242
+    second: howstheweather_10
+  - first:
+      213: 7581185723188279586
+    second: howstheweather_11
+  - first:
+      213: -7942376404646872087
+    second: howstheweather_12
+  - first:
+      213: -1736326422673855395
+    second: howstheweather_13
+  - first:
+      213: 9142828189037632391
+    second: howstheweather_14
+  - first:
+      213: 8796657120467468581
+    second: howstheweather_15
+  - first:
+      213: 2414839079495816241
+    second: howstheweather_16
+  - first:
+      213: -8422032678441434162
+    second: howstheweather_17
+  - first:
+      213: 8042983827529441533
+    second: howstheweather_18
+  - first:
+      213: -4997134269826113718
+    second: howstheweather_19
+  - first:
+      213: -4004915742411141177
+    second: howstheweather_20
+  - first:
+      213: -5119299365835834003
+    second: howstheweather_21
+  - first:
+      213: -590766789877231198
+    second: howstheweather_22
+  - first:
+      213: -4074708319264799617
+    second: howstheweather_23
+  - first:
+      213: 7367790271301014316
+    second: howstheweather_24
+  - first:
+      213: 3622065541517728962
+    second: howstheweather_25
+  - first:
+      213: -6734702108303857068
+    second: howstheweather_26
+  - first:
+      213: 7133179418141998569
+    second: howstheweather_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: howstheweather_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 207
+        width: 206
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a68c9501574c49e2b77379dca7abb5e
+      internalID: 1316031343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: howstheweather_1
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 207
+        width: 206
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42bf80c7d70504eb3972030f38962f3e
+      internalID: 10383181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: howstheweather_2
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 207
+        width: 206
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81f8da71ed67146f8a788c4455fa58f9
+      internalID: -124699365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: howstheweather_3
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 207
+        width: 206
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fb3413d535f342dcba65da073457ef0
+      internalID: 831708698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: howstheweather_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 206
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55f0a5a7f02ec4ea68f78102b3f94563
+      internalID: 781156347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: howstheweather_5
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1
+        width: 206
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ebdffd3d46547eaa11c4fea6209dca
+      internalID: -1482913416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: howstheweather_6
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 1
+        width: 206
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ade0a3cad97be42fe9ffe59cfe3788c2
+      internalID: 1196245206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: howstheweather_7
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 1
+        width: 206
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 377229016ce3a4cf387ee5dfcc2f69dc
+      internalID: -157256950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 1d74c58bc3ab846ffaf8ab006c473dda
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      howstheweather_0: 1316031343
+      howstheweather_1: 10383181
+      howstheweather_2: -124699365
+      howstheweather_3: 831708698
+      howstheweather_4: 781156347
+      howstheweather_5: -1482913416
+      howstheweather_6: 1196245206
+      howstheweather_7: -157256950
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
