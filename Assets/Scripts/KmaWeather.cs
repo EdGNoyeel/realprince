@@ -9,9 +9,12 @@ using UnityEngine.UI;
 public class KmaWeather : MonoBehaviour
 {
     private string kmaUrl = "https://www.kma.go.kr/weather/forecast/mid-term-rss3.jsp?stnId=109"; // 서울 및 경기 지역
-    public TextMeshProUGUI weatherText; // UI에 표시할 TMP 텍스트
+
+    public TextMeshProUGUI weatherConditionText; // 기상 상태 (맑음, 흐림 등)
+    public TextMeshProUGUI temperatureText; // 현재 온도 표시
+
     public Image weatherIcon; // 날씨 아이콘을 표시할 UI Image
-    public Sprite clearSprite, fewCloudsSprite, cloudySprite, rainSprite, snowSprite, sleetSprite, owerSprite, cloudRain, cloudSnow; // 날씨별 스프라이트
+    public Sprite clearSprite, fewCloudsSprite, cloudySprite, rainSprite, snowSprite, sleetSprite, owerSprite, cloudRain, cloudSnow;
 
     private Dictionary<string, Sprite> weatherSprites;
 
@@ -51,7 +54,8 @@ public class KmaWeather : MonoBehaviour
             if (request.result == UnityWebRequest.Result.ConnectionError || request.result == UnityWebRequest.Result.ProtocolError)
             {
                 Debug.LogError("날씨 데이터를 가져오는데 실패했습니다: " + request.error);
-                weatherText.text = "날씨 정보를 불러올 수 없습니다.";
+                weatherConditionText.text = "날씨 정보를 불러올 수 없습니다.";
+                temperatureText.text = "";
             }
             else
             {
@@ -72,7 +76,9 @@ public class KmaWeather : MonoBehaviour
             string weather = firstItem["wf"].InnerText; // 날씨 상태 (맑음, 흐림 등)
             string temp = firstItem["tmn"].InnerText + "°C ~ " + firstItem["tmx"].InnerText + "°C"; // 최저~최고 기온
 
-            weatherText.text = $"현재 날씨: {weather}, {temp}";
+            // UI에 반영
+            weatherConditionText.text = weather;
+            temperatureText.text = temp;
 
             // 아이콘 변경
             if (weatherSprites.ContainsKey(weather))
@@ -86,7 +92,8 @@ public class KmaWeather : MonoBehaviour
         }
         else
         {
-            weatherText.text = "날씨 정보를 불러올 수 없습니다.";
+            weatherConditionText.text = "날씨 정보를 불러올 수 없습니다.";
+            temperatureText.text = "";
         }
     }
 }
