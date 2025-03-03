@@ -8,13 +8,13 @@ using UnityEngine.UI;
 
 public class KmaWeather : MonoBehaviour
 {
-    private string kmaUrl = "https://www.kma.go.kr/weather/forecast/mid-term-rss3.jsp?stnId=109"; // 서울 및 경기 지역
+    private string kmaUrl = "https://www.kma.go.kr/weather/forecast/mid-term-rss3.jsp?stnId=109";
 
-    public TextMeshProUGUI weatherConditionText; // 기상 상태 (맑음, 흐림 등)
-    public TextMeshProUGUI temperatureText; // 현재 온도 표시
+    public TextMeshProUGUI weatherConditionText; // 기상 상태
+    public TextMeshProUGUI temperatureText; // 최저~최고 기온
 
-    public Image weatherIcon; // 날씨 아이콘을 표시할 UI Image
-    public Sprite clearSprite, fewCloudsSprite, cloudySprite, rainSprite, snowSprite, sleetSprite, owerSprite, cloudRain, cloudSnow;
+    public Image weatherIcon;
+    public Sprite clearSprite, fewCloudsSprite, cloudySprite, rainSprite, snowSprite, sleetSprite, cloudRain, cloudSnow;
 
     private Dictionary<string, Sprite> weatherSprites;
 
@@ -42,6 +42,7 @@ public class KmaWeather : MonoBehaviour
             { "구름많고 소나기", rainSprite },
             { "구름많고 소낙눈", cloudSnow }
         };
+
         StartCoroutine(GetWeatherFromKMA());
     }
 
@@ -53,9 +54,11 @@ public class KmaWeather : MonoBehaviour
 
             if (request.result == UnityWebRequest.Result.ConnectionError || request.result == UnityWebRequest.Result.ProtocolError)
             {
-                Debug.LogError("날씨 데이터를 가져오는데 실패했습니다: " + request.error);
-                weatherConditionText.text = "날씨 정보를 불러올 수 없습니다.";
-                temperatureText.text = "";
+                Debug.LogError("기상청 API 데이터를 가져오는데 실패했습니다: " + request.error);
+                if (weatherConditionText != null)
+                    weatherConditionText.text = "날씨 정보를 불러올 수 없습니다.";
+                if (temperatureText != null)
+                    temperatureText.text = "";
             }
             else
             {
@@ -76,9 +79,10 @@ public class KmaWeather : MonoBehaviour
             string weather = firstItem["wf"].InnerText; // 날씨 상태 (맑음, 흐림 등)
             string temp = firstItem["tmn"].InnerText + "°C ~ " + firstItem["tmx"].InnerText + "°C"; // 최저~최고 기온
 
-            // UI에 반영
-            weatherConditionText.text = weather;
-            temperatureText.text = temp;
+            if (weatherConditionText != null)
+                weatherConditionText.text = weather;
+            if (temperatureText != null)
+                temperatureText.text = temp;
 
             // 아이콘 변경
             if (weatherSprites.ContainsKey(weather))
@@ -92,8 +96,10 @@ public class KmaWeather : MonoBehaviour
         }
         else
         {
-            weatherConditionText.text = "날씨 정보를 불러올 수 없습니다.";
-            temperatureText.text = "";
+            if (weatherConditionText != null)
+                weatherConditionText.text = "날씨 정보를 불러올 수 없습니다.";
+            if (temperatureText != null)
+                temperatureText.text = "";
         }
     }
 }
