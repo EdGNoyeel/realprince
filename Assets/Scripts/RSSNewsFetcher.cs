@@ -3,6 +3,8 @@ using System.Xml;
 using UnityEngine;
 using UnityEngine.Networking;
 using TMPro;
+using System.Text.RegularExpressions;
+using System.Xml;
 
 public class RSSNewsFetcher : MonoBehaviour
 {
@@ -44,8 +46,11 @@ public class RSSNewsFetcher : MonoBehaviour
                     newsHeadline = items[0]["title"].InnerText;
                     Debug.Log($"헤드라인 뉴스: {newsHeadline}");
 
+                    // 연속된 공백을 하나로 정리
+                    newsHeadline = Regex.Replace(newsHeadline, @"\s+", " ");
+
                     // 뉴스 문장을 두 번 반복하여 여백 없이 이어지도록 설정
-                    newsText.text = $"{newsHeadline}    {newsHeadline}    ";
+                    newsText.text = $"{newsHeadline} {newsHeadline} ";
 
                     // 텍스트 위치 및 이동 범위 설정
                     startX = parentRect.rect.width / 2 + newsTextRect.rect.width / 2;
