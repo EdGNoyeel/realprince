@@ -2099,7 +2099,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 236, y: -462}
+  m_AnchoredPosition: {x: 127, y: -462}
   m_SizeDelta: {x: 105, y: 116}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!95 &112920604
@@ -20974,9 +20974,9 @@ PrefabInstance:
     - target: {fileID: 118775935450200127, guid: dd2d3272d00a54d059b2a331f9c3eaef,
         type: 3}
       propertyPath: m_text
-      value: "<\uC18D\uBCF4> \uAF41\uAF41 \uC5BC\uC5B4\uBD99\uC740 \uD55C\uAC15 \uC704\uB85C
-        \uACE0\uC591\uC774\uAC00 \uAC78\uC5B4\uB2E4\uB2C8\uACE0 \uC788\uB2E4\uB294
-        \uC18C\uC2DD\uC785\uB2C8\uB2E4"
+      value: "\u2666<\uC18D\uBCF4> \uAF41\uAF41 \uC5BC\uC5B4\uBD99\uC740 \uD55C\uAC15
+        \uC704\uB85C \uACE0\uC591\uC774\uAC00 \uAC78\uC5B4\uB2E4\uB2C8\uACE0 \uC788\uB2E4\uB294
+        \uC18C\uC2DD\uC785\uB2C8\uB2E4\u2666"
       objectReference: {fileID: 0}
     - target: {fileID: 118775935450200127, guid: dd2d3272d00a54d059b2a331f9c3eaef,
         type: 3}
@@ -35109,7 +35109,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1714377184
 RectTransform:
   m_ObjectHideFlags: 0
