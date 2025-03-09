@@ -13015,8 +13015,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 584500304}
-        m_TargetAssemblyTypeName: 
-        m_MethodName: TryChangeMyWord
+        m_TargetAssemblyTypeName: MyPage, Assembly-CSharp
+        m_MethodName: ChangeMyWord
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}

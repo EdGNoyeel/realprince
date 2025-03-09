@@ -94,6 +94,7 @@ public class MyPage : MonoBehaviour
 
     public void ChangeMyWord()
     {
+        Debug.Log("TryChangeMyWord");
         Debug.Log(newWord.GetComponent<TMP_InputField>().text);
         StatusManager.instance.myWord = newWord.GetComponent<TMP_InputField>().text;
         myWordTMP.GetComponent<TextMeshProUGUI>().text = "내 좌우명은 " + StatusManager.instance.myWord;

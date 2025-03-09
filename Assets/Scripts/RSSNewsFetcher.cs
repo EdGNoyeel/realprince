@@ -48,6 +48,7 @@ public class RSSNewsFetcher : MonoBehaviour
 
                     // 연속된 공백을 하나로 정리
                     newsHeadline = Regex.Replace(newsHeadline, @"\s+", " ");
+                    newsHeadline = $"♦ {newsHeadline} ";
 
                     // 뉴스 문장을 두 번 반복하여 여백 없이 이어지도록 설정
                     newsText.text = $"{newsHeadline} {newsHeadline} ";
