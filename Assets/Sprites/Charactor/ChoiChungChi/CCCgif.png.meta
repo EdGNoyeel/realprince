@@ -1,0 +1,819 @@
+fileFormatVersion: 2
+guid: fe0fcab6f88e048b7ae204a295dd7ab6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 439000124048758907
+    second: CCCgif_0
+  - first:
+      213: -7050756865086632130
+    second: CCCgif_1
+  - first:
+      213: 1172776450602609856
+    second: CCCgif_2
+  - first:
+      213: 8300559834239171339
+    second: CCCgif_3
+  - first:
+      213: 6641232028129901404
+    second: CCCgif_4
+  - first:
+      213: 6984520057012095226
+    second: CCCgif_5
+  - first:
+      213: -6042023815414656723
+    second: CCCgif_6
+  - first:
+      213: 3873292063095555191
+    second: CCCgif_7
+  - first:
+      213: 7470002744718457580
+    second: CCCgif_8
+  - first:
+      213: 9179789633259289918
+    second: CCCgif_9
+  - first:
+      213: -7997837746315901568
+    second: CCCgif_10
+  - first:
+      213: 6092560124505139541
+    second: CCCgif_11
+  - first:
+      213: 6704263073504274026
+    second: CCCgif_12
+  - first:
+      213: -4015587435318527058
+    second: CCCgif_13
+  - first:
+      213: 6773178888990832024
+    second: CCCgif_14
+  - first:
+      213: -490688556876405571
+    second: CCCgif_15
+  - first:
+      213: 2745057006969982011
+    second: CCCgif_16
+  - first:
+      213: -7719479355988999684
+    second: CCCgif_17
+  - first:
+      213: -2626939904365080570
+    second: CCCgif_18
+  - first:
+      213: 3751279988355855787
+    second: CCCgif_19
+  - first:
+      213: 5151785278934681641
+    second: CCCgif_20
+  - first:
+      213: -7074940035148575622
+    second: CCCgif_21
+  - first:
+      213: -8277775430733708528
+    second: CCCgif_22
+  - first:
+      213: 6059788505741377732
+    second: CCCgif_23
+  - first:
+      213: 6121508289152577663
+    second: CCCgif_24
+  - first:
+      213: 2988477547583411421
+    second: CCCgif_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CCCgif_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1350
+        width: 254
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d9178ede6c8545a3a2aaa3bc06c3286
+      internalID: -2108416025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CCCgif_1
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 1350
+        width: 254
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66c93655410c34d26a97b3c82de4bef7
+      internalID: -642436458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CCCgif_2
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 1350
+        width: 254
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b829e946f3fa4bbb9085021f4b02dac
+      internalID: 1355387826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CCCgif_3
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 1350
+        width: 254
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9a08999873964d1e908ed0c9686e40c
+      internalID: 1616903013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CCCgif_4
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 1350
+        width: 254
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4040079d07bb42d78996069abda0443
+      internalID: 905389160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CCCgif_5
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 1350
+        width: 254
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84bd4e0fd800c4ae3bf2b5e08c01debc
+      internalID: 1297618274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CCCgif_6
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 1350
+        width: 254
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f8718f0a87d0485c9ef844b3b6edef6
+      internalID: 188006336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CCCgif_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 900
+        width: 254
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57f30d1e665754584b0c7d49c30095c8
+      internalID: 1398889519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CCCgif_8
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 900
+        width: 254
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f741c7c8a70148918fdaece37f32419
+      internalID: 1801636630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CCCgif_9
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 900
+        width: 254
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8818316c1f8b9433e90425fbdf701e49
+      internalID: 639385058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CCCgif_10
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 900
+        width: 254
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 006a27184308f4f29ba8af0e9e31e531
+      internalID: -1189135600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CCCgif_11
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 900
+        width: 254
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5bd1dc2721564d439e186cb9f418068
+      internalID: -2041038177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CCCgif_12
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 900
+        width: 254
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1e808efa2c214ce883cf688efaae910
+      internalID: -144071475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CCCgif_13
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 900
+        width: 254
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45ef7c5450a66425cb2c70570c9b2d55
+      internalID: 186614525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CCCgif_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 450
+        width: 254
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a86c403b743784b8682fee558aae4143
+      internalID: -839512077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CCCgif_15
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 450
+        width: 254
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 572b94a15616f4c6d8347b60a8057e84
+      internalID: -696282369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CCCgif_16
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 450
+        width: 254
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58be030ff1c0e430bb4a437094369ea4
+      internalID: -1121615728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CCCgif_17
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 450
+        width: 254
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d1328c8727e94741ba651cd3b735de4
+      internalID: 1249991354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CCCgif_18
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 450
+        width: 254
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6e04c46f1da44ff281a975b949f55fb
+      internalID: 1769459839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CCCgif_19
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 450
+        width: 254
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b771854a5c71b48af9feba6aa90f64bb
+      internalID: -357066541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CCCgif_20
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 450
+        width: 254
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 263ab99dada72406084d039fcf7da4ae
+      internalID: 1680906588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CCCgif_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 254
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f307c8d8e14f4b0ca1c28090e2c1c00
+      internalID: -1977128578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CCCgif_22
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 0
+        width: 254
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 154194459ebb24b57948736158f78b46
+      internalID: -1274109742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CCCgif_23
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 0
+        width: 254
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bfaaeeb76f83467e9a8a396ecb07e01
+      internalID: -563925121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CCCgif_24
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 0
+        width: 254
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7484325d12fc4e66a7c78418375e1f2
+      internalID: -1062688259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CCCgif_25
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 0
+        width: 254
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f48c3c3debe84de6b692d69fe53d4bd
+      internalID: -480059870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 8b36fc3709f7b444eb1d064de01331b4
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      CCCgif_0: -2108416025
+      CCCgif_1: -642436458
+      CCCgif_10: -1189135600
+      CCCgif_11: -2041038177
+      CCCgif_12: -144071475
+      CCCgif_13: 186614525
+      CCCgif_14: -839512077
+      CCCgif_15: -696282369
+      CCCgif_16: -1121615728
+      CCCgif_17: 1249991354
+      CCCgif_18: 1769459839
+      CCCgif_19: -357066541
+      CCCgif_2: 1355387826
+      CCCgif_20: 1680906588
+      CCCgif_21: -1977128578
+      CCCgif_22: -1274109742
+      CCCgif_23: -563925121
+      CCCgif_24: -1062688259
+      CCCgif_25: -480059870
+      CCCgif_3: 1616903013
+      CCCgif_4: 905389160
+      CCCgif_5: 1297618274
+      CCCgif_6: 188006336
+      CCCgif_7: 1398889519
+      CCCgif_8: 1801636630
+      CCCgif_9: 639385058
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
