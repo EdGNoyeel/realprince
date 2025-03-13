@@ -5040,7 +5040,7 @@ PrefabInstance:
     - target: {fileID: 3881087803549984436, guid: ec536a7718376554185e4a856d5ae230,
         type: 3}
       propertyPath: m_LocalScale.y
-      value: 1.5
+      value: 1.2
       objectReference: {fileID: 0}
     - target: {fileID: 3881087803549984436, guid: ec536a7718376554185e4a856d5ae230,
         type: 3}
@@ -53168,7 +53168,7 @@ MonoBehaviour:
   boostSpeed: 12
   attackSpeed: 10
   attackRate: 0.1
-  manualAttackSpeed: 800
+  manualAttackSpeed: 600
   up: 0
   down: 0
 --- !u!4 &2112378937
@@ -95708,7 +95708,7 @@ MonoBehaviour:
   m_HandleRect: {fileID: 8986394243048141948}
   m_Direction: 2
   m_Value: 1.0000001
-  m_Size: 0.28085005
+  m_Size: 0.28084993
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:
