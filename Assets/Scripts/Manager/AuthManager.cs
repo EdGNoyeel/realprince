@@ -11,6 +11,7 @@ using System.Threading.Tasks;
 
 public class AuthManager : MonoBehaviour
 {
+    public GameObject loginFailedPN;
     public TextMeshProUGUI loginStatus; // 로그인 상태 텍스트
     public TMP_InputField emailField;  // 이메일 입력 필드
     public TMP_InputField passwordField; // 비밀번호 입력 필드
@@ -30,6 +31,9 @@ public class AuthManager : MonoBehaviour
 
     [SerializeField]
     FireStoreManager fireStoreManager;
+
+    string email;
+    string password;
 
     private void Start()
     {
@@ -77,8 +81,9 @@ public class AuthManager : MonoBehaviour
     {
         if (!isFirebaseReady) return;
 
-        string email = newEmailField.text.Trim();
-        string password = newPasswordField.text.Trim();
+        
+        email = newEmailField.text.Trim();
+        password = newPasswordField.text.Trim();
 
         auth.CreateUserWithEmailAndPasswordAsync(email, password).ContinueWith(task => {
             if (task.IsCanceled) {
@@ -92,6 +97,15 @@ public class AuthManager : MonoBehaviour
 
         // Firebase user has been created.
         Firebase.Auth.AuthResult result = task.Result;
+
+        PlayerPrefs.SetString("Email", email);
+        PlayerPrefs.SetString("Password",password);
+
+        if (PlayerPrefs.HasKey("Email"))
+            emailField.text = PlayerPrefs.GetString("Email");
+
+        if (PlayerPrefs.HasKey("Password"))
+            passwordField.text = PlayerPrefs.GetString("Password");
         Debug.LogFormat("Firebase user created successfully: {0} ({1})",
             result.User.DisplayName, result.User.UserId);
         });
@@ -107,29 +121,37 @@ public class AuthManager : MonoBehaviour
         isSignInOnProgress = true;
         signInButton.interactable = false;
 
-        string email = emailField.text.Trim();
-        string password = passwordField.text.Trim();
+        email = emailField.text.Trim();
+        password = passwordField.text.Trim();
 
-        auth.SignInWithEmailAndPasswordAsync(email, password).ContinueWith(task => {
-            if (task.IsCanceled) {
+        auth.SignInWithEmailAndPasswordAsync(email, password).ContinueWithOnMainThread(task =>
+        {
+            isSignInOnProgress = false;  // 로그인 진행 상태 초기화
+            signInButton.interactable = true; // 버튼 다시 활성화
+
+            if (task.IsCanceled)
+            {
                 Debug.LogError("SignInWithEmailAndPasswordAsync was canceled.");
+                loginFailedPN.SetActive(true); // 로그인 실패 패널 활성화
                 return;
             }
-            if (task.IsFaulted) {
+            if (task.IsFaulted)
+            {
                 Debug.LogError("SignInWithEmailAndPasswordAsync encountered an error: " + task.Exception);
+                loginFailedPN.SetActive(true); // 로그인 실패 패널 활성화
                 return;
             }
 
+            // 로그인 성공
             Firebase.Auth.AuthResult result = task.Result;
             Debug.LogFormat("User signed in successfully: {0} ({1})",
                 result.User.DisplayName, result.User.UserId);
-                StatusManager.instance.uid=result.User.UserId;
-                
-                
-                
-            
-            });
+
+            StatusManager.instance.uid = result.User.UserId;
+
+            // 로그인 성공 시에만 코루틴 시작
             StartCoroutine(LoadMainScene());
+        });
     }
     
 
@@ -168,8 +190,8 @@ public class AuthManager : MonoBehaviour
         isSignInOnProgress = true;
         signInButton.interactable = false;
 
-        string email = "guest@yourgame.com"; // 게스트 계정 이메일
-        string password = "guestpassword"; // 게스트 계정 비밀번호
+        email = "guest@yourgame.com"; // 게스트 계정 이메일
+        password = "guestpassword"; // 게스트 계정 비밀번호
 
         auth.SignInWithEmailAndPasswordAsync(email, password).ContinueWithOnMainThread(task =>
         {
@@ -199,6 +221,8 @@ public class AuthManager : MonoBehaviour
         // 2초의 로딩 지연 (기존의 wait)
         yield return new WaitForSecondsRealtime(2f);
         Debug.Log("gotoToilet");
+        PlayerPrefs.SetString("Email", email);
+        PlayerPrefs.SetString("Password",password);
 
         // uid가 null이 아닌지 1초마다 확인
         while (string.IsNullOrEmpty(StatusManager.instance.uid))
