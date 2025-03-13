@@ -15,13 +15,10 @@ public class VariableJoystick : Joystick
     public void SetMode(JoystickType joystickType)
     {
         this.joystickType = joystickType;
-        if(joystickType == JoystickType.Fixed)
-        {
-            background.anchoredPosition = fixedPosition;
-            background.gameObject.SetActive(true);
-        }
-        else
-            background.gameObject.SetActive(false);
+        
+        // ✅ 항상 보이게 수정
+        background.anchoredPosition = fixedPosition;
+        background.gameObject.SetActive(true);
     }
 
     protected override void Start()
@@ -33,18 +30,17 @@ public class VariableJoystick : Joystick
 
     public override void OnPointerDown(PointerEventData eventData)
     {
-        if(joystickType != JoystickType.Fixed)
-        {
-            background.anchoredPosition = ScreenPointToAnchoredPosition(eventData.position);
-            background.gameObject.SetActive(true);
-        }
+        // ✅ 조이스틱이 항상 보이도록 수정
+        background.anchoredPosition = ScreenPointToAnchoredPosition(eventData.position);
+        background.gameObject.SetActive(true);
+
         base.OnPointerDown(eventData);
     }
 
     public override void OnPointerUp(PointerEventData eventData)
     {
-        if(joystickType != JoystickType.Fixed)
-            background.gameObject.SetActive(false);
+        // ✅ 터치가 끝나도 조이스틱이 사라지지 않도록 수정
+        background.gameObject.SetActive(true);
 
         base.OnPointerUp(eventData);
     }
