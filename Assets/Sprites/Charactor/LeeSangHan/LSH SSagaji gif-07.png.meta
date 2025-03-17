@@ -1,0 +1,1096 @@
+fileFormatVersion: 2
+guid: 98a3d8813840644c88fa549922d7aa7b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2225132727295273062
+    second: LSH SSagaji gif-07_0
+  - first:
+      213: 1854692308842593732
+    second: LSH SSagaji gif-07_1
+  - first:
+      213: 5678220799984261081
+    second: LSH SSagaji gif-07_2
+  - first:
+      213: -1006360049832296156
+    second: LSH SSagaji gif-07_3
+  - first:
+      213: -6413285881638477609
+    second: LSH SSagaji gif-07_4
+  - first:
+      213: 5857786544167167722
+    second: LSH SSagaji gif-07_5
+  - first:
+      213: -46799440448944495
+    second: LSH SSagaji gif-07_6
+  - first:
+      213: 7082252759300677110
+    second: LSH SSagaji gif-07_7
+  - first:
+      213: 8144842290857502986
+    second: LSH SSagaji gif-07_8
+  - first:
+      213: -6932562037608087687
+    second: LSH SSagaji gif-07_9
+  - first:
+      213: -8345744152065437680
+    second: LSH SSagaji gif-07_10
+  - first:
+      213: -1954493925152909020
+    second: LSH SSagaji gif-07_11
+  - first:
+      213: 7829607697681573411
+    second: LSH SSagaji gif-07_12
+  - first:
+      213: 7999810943218048543
+    second: LSH SSagaji gif-07_13
+  - first:
+      213: -5630914498630740260
+    second: LSH SSagaji gif-07_14
+  - first:
+      213: -8774412986844118123
+    second: LSH SSagaji gif-07_15
+  - first:
+      213: 2279915901419145671
+    second: LSH SSagaji gif-07_16
+  - first:
+      213: 9170359509527482584
+    second: LSH SSagaji gif-07_17
+  - first:
+      213: 2144582110800902006
+    second: LSH SSagaji gif-07_18
+  - first:
+      213: -1638391535291170476
+    second: LSH SSagaji gif-07_19
+  - first:
+      213: 432244467356018752
+    second: LSH SSagaji gif-07_20
+  - first:
+      213: -2622182691794998089
+    second: LSH SSagaji gif-07_21
+  - first:
+      213: -3780053902458188199
+    second: LSH SSagaji gif-07_22
+  - first:
+      213: 5154963541225761095
+    second: LSH SSagaji gif-07_23
+  - first:
+      213: 3461323999034373322
+    second: LSH SSagaji gif-07_24
+  - first:
+      213: 6210343677642051725
+    second: LSH SSagaji gif-07_25
+  - first:
+      213: -7279011811247262280
+    second: LSH SSagaji gif-07_26
+  - first:
+      213: -3346100368638218176
+    second: LSH SSagaji gif-07_27
+  - first:
+      213: 616952514541106718
+    second: LSH SSagaji gif-07_28
+  - first:
+      213: 423345377176806297
+    second: LSH SSagaji gif-07_29
+  - first:
+      213: 4699802230368085027
+    second: LSH SSagaji gif-07_30
+  - first:
+      213: 8620730242040134639
+    second: LSH SSagaji gif-07_31
+  - first:
+      213: 5351649976813620021
+    second: LSH SSagaji gif-07_32
+  - first:
+      213: -7244240576323119974
+    second: LSH SSagaji gif-07_33
+  - first:
+      213: -9179753293431327508
+    second: LSH SSagaji gif-07_34
+  - first:
+      213: 8193947908397790512
+    second: LSH SSagaji gif-07_35
+  - first:
+      213: 5388828664016419080
+    second: LSH SSagaji gif-07_36
+  - first:
+      213: -5989537194144192491
+    second: LSH SSagaji gif-07_37
+  - first:
+      213: -759942190070494003
+    second: LSH SSagaji gif-07_38
+  - first:
+      213: -2113894717323277565
+    second: LSH SSagaji gif-07_39
+  - first:
+      213: -7986093037040984357
+    second: LSH SSagaji gif-07_40
+  - first:
+      213: 5135137658404550291
+    second: LSH SSagaji gif-07_41
+  - first:
+      213: 613210650107300791
+    second: LSH SSagaji gif-07_42
+  - first:
+      213: -5788813880399973904
+    second: LSH SSagaji gif-07_43
+  - first:
+      213: -6073252766367293181
+    second: LSH SSagaji gif-07_44
+  - first:
+      213: 8174875710406054909
+    second: LSH SSagaji gif-07_45
+  - first:
+      213: -6728963212905920494
+    second: LSH SSagaji gif-07_46
+  - first:
+      213: 3788704207635509691
+    second: LSH SSagaji gif-07_47
+  - first:
+      213: -4819479101731454772
+    second: LSH SSagaji gif-07_48
+  - first:
+      213: -7380666610677537068
+    second: LSH SSagaji gif-07_49
+  - first:
+      213: -3799900951491231640
+    second: LSH SSagaji gif-07_50
+  - first:
+      213: 5335266584751937546
+    second: LSH SSagaji gif-07_51
+  - first:
+      213: -3143282915417861436
+    second: LSH SSagaji gif-07_52
+  - first:
+      213: -109708597468618042
+    second: LSH SSagaji gif-07_53
+  - first:
+      213: 866231229858694041
+    second: LSH SSagaji gif-07_54
+  - first:
+      213: -8877945519689096910
+    second: LSH SSagaji gif-07_55
+  - first:
+      213: 630545801028997159
+    second: LSH SSagaji gif-07_56
+  - first:
+      213: 50085110033593890
+    second: LSH SSagaji gif-07_57
+  - first:
+      213: -8253831925898879547
+    second: LSH SSagaji gif-07_58
+  - first:
+      213: 918664596983752951
+    second: LSH SSagaji gif-07_59
+  - first:
+      213: -1571775749925127495
+    second: LSH SSagaji gif-07_60
+  - first:
+      213: -8591932958274569964
+    second: LSH SSagaji gif-07_61
+  - first:
+      213: -1349170799950167561
+    second: LSH SSagaji gif-07_62
+  - first:
+      213: -159777956510220704
+    second: LSH SSagaji gif-07_63
+  - first:
+      213: 4073307712971337096
+    second: LSH SSagaji gif-07_64
+  - first:
+      213: 7353437486624160619
+    second: LSH SSagaji gif-07_65
+  - first:
+      213: -5671288554706391775
+    second: LSH SSagaji gif-07_66
+  - first:
+      213: 3966760139490691895
+    second: LSH SSagaji gif-07_67
+  - first:
+      213: 1825530856532457719
+    second: LSH SSagaji gif-07_68
+  - first:
+      213: -412571380187033464
+    second: LSH SSagaji gif-07_69
+  - first:
+      213: 1754035677868761727
+    second: LSH SSagaji gif-07_70
+  - first:
+      213: -3662125958844280695
+    second: LSH SSagaji gif-07_71
+  - first:
+      213: -5093099655386566069
+    second: LSH SSagaji gif-07_72
+  - first:
+      213: 6224486273408952865
+    second: LSH SSagaji gif-07_73
+  - first:
+      213: -2000985125376371284
+    second: LSH SSagaji gif-07_74
+  - first:
+      213: -8808639480370549820
+    second: LSH SSagaji gif-07_75
+  - first:
+      213: -6923338628551602705
+    second: LSH SSagaji gif-07_76
+  - first:
+      213: 1355246885032369588
+    second: LSH SSagaji gif-07_77
+  - first:
+      213: 2197005537492714128
+    second: LSH SSagaji gif-07_78
+  - first:
+      213: 8967800754051804527
+    second: LSH SSagaji gif-07_79
+  - first:
+      213: -9077979106617648091
+    second: LSH SSagaji gif-07_80
+  - first:
+      213: -5349135295121337465
+    second: LSH SSagaji gif-07_81
+  - first:
+      213: 2844552981786523462
+    second: LSH SSagaji gif-07_82
+  - first:
+      213: 7073430964681840300
+    second: LSH SSagaji gif-07_83
+  - first:
+      213: -9167264518690019753
+    second: LSH SSagaji gif-07_84
+  - first:
+      213: -7961787181631732169
+    second: LSH SSagaji gif-07_85
+  - first:
+      213: 7770464463528661603
+    second: LSH SSagaji gif-07_86
+  - first:
+      213: -7216645125755260516
+    second: LSH SSagaji gif-07_87
+  - first:
+      213: 4973802660099216834
+    second: LSH SSagaji gif-07_88
+  - first:
+      213: -3431321564515518788
+    second: LSH SSagaji gif-07_89
+  - first:
+      213: 4867243348685270491
+    second: LSH SSagaji gif-07_90
+  - first:
+      213: -5049248319137846920
+    second: LSH SSagaji gif-07_91
+  - first:
+      213: 3684196410452122016
+    second: LSH SSagaji gif-07_92
+  - first:
+      213: -102431636939657249
+    second: LSH SSagaji gif-07_93
+  - first:
+      213: -5707177359887497462
+    second: LSH SSagaji gif-07_94
+  - first:
+      213: 8008690711863957461
+    second: LSH SSagaji gif-07_95
+  - first:
+      213: 3051545313026412072
+    second: LSH SSagaji gif-07_96
+  - first:
+      213: 7550758790839065938
+    second: LSH SSagaji gif-07_97
+  - first:
+      213: -3573848968358323179
+    second: LSH SSagaji gif-07_98
+  - first:
+      213: 7634329435732109026
+    second: LSH SSagaji gif-07_99
+  - first:
+      213: -2945353998634513770
+    second: LSH SSagaji gif-07_100
+  - first:
+      213: 5690090863526470527
+    second: LSH SSagaji gif-07_101
+  - first:
+      213: 4515702108985179354
+    second: LSH SSagaji gif-07_102
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LSH SSagaji gif-07_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1350
+        width: 254
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40d00d22e7b3449cc8557df1fc0b4123
+      internalID: -911601863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LSH SSagaji gif-07_1
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 1350
+        width: 254
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d58fd7ace21a84e2db2a932af9b35029
+      internalID: 883961729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LSH SSagaji gif-07_2
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 1350
+        width: 254
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: defe8e0cff5194531981e0a392235ac9
+      internalID: 205132554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LSH SSagaji gif-07_3
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 1350
+        width: 254
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2426261a0291e4546a155cb016a62758
+      internalID: -1989503259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LSH SSagaji gif-07_4
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 1350
+        width: 254
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ba5b5d93019b4137b0e0590f66cf290
+      internalID: -1239191153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LSH SSagaji gif-07_5
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 1350
+        width: 254
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba93e1356a3e7447babb627d391a9e34
+      internalID: -603142187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LSH SSagaji gif-07_6
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 1350
+        width: 254
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3baafe36889cd4a2284c17651296dbbe
+      internalID: 742220796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LSH SSagaji gif-07_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 900
+        width: 254
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53e6c80f920c8467da486edda6a4e71a
+      internalID: 1812903547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LSH SSagaji gif-07_8
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 900
+        width: 254
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 184f8d2fb24964cfb97d94600ff0224c
+      internalID: -1570457215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LSH SSagaji gif-07_9
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 900
+        width: 254
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c4366f3d5b0f40a3a7563ff1f48e2b7
+      internalID: -325141198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LSH SSagaji gif-07_10
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 900
+        width: 254
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3461a448eb60247b3b0f3c2593bd29c0
+      internalID: 562379783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LSH SSagaji gif-07_11
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 900
+        width: 254
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d24837110e9d949a0a024b220042147d
+      internalID: -1169694415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LSH SSagaji gif-07_12
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 900
+        width: 254
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ee13360521648c6a74fde811fad979
+      internalID: 1270700631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LSH SSagaji gif-07_13
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 900
+        width: 254
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c9b9de2a4204ea5a576e455e225030
+      internalID: 191659568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LSH SSagaji gif-07_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 450
+        width: 254
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9844e8390e070437286f7f412d299226
+      internalID: -459568603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LSH SSagaji gif-07_15
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 450
+        width: 254
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29bfd12388a5f40d383319c8aae22b25
+      internalID: 1581774479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LSH SSagaji gif-07_16
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 450
+        width: 254
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c36e38c4fb20e489aac4498fe5bcc0fc
+      internalID: 424224711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LSH SSagaji gif-07_17
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 450
+        width: 254
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ac548573e345486f88d11b0aed2cf8e
+      internalID: 2112384772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LSH SSagaji gif-07_18
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 450
+        width: 254
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b91079abad67848d7bae5c90e410b16d
+      internalID: 1811597616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LSH SSagaji gif-07_19
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 450
+        width: 254
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84dd8002a96694951bcce9d381336725
+      internalID: -1648022169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LSH SSagaji gif-07_20
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 450
+        width: 254
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4761b5edaed74cbba3c99f050c67887
+      internalID: 670471516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LSH SSagaji gif-07_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 254
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c0cff7ec346f4515ab47f8425fa7bab
+      internalID: -1598555756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LSH SSagaji gif-07_22
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 0
+        width: 254
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d9e19db4bdbb42c8bf6131fc09915ea
+      internalID: -92219933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LSH SSagaji gif-07_23
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 0
+        width: 254
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da28a9e347420418aa8fd89914e980ee
+      internalID: 336646486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LSH SSagaji gif-07_24
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 0
+        width: 254
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1918fd329d22743b68378346a0aecb1d
+      internalID: -1993102336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LSH SSagaji gif-07_25
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 0
+        width: 254
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76b051deea6fe4ce1b90c3cdb69b72b2
+      internalID: -1642154037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LSH SSagaji gif-07_26
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 0
+        width: 254
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 550154bcaf2a148909ab8ad0c457ffc4
+      internalID: -1836574721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LSH SSagaji gif-07_27
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 0
+        width: 254
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b703ac3325b25462e95cde4f39f91612
+      internalID: 935955256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d2a10f74635a446279a74d4a1261a853
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      LSH SSagaji gif-07_0: -911601863
+      LSH SSagaji gif-07_1: 883961729
+      LSH SSagaji gif-07_10: 562379783
+      LSH SSagaji gif-07_11: -1169694415
+      LSH SSagaji gif-07_12: 1270700631
+      LSH SSagaji gif-07_13: 191659568
+      LSH SSagaji gif-07_14: -459568603
+      LSH SSagaji gif-07_15: 1581774479
+      LSH SSagaji gif-07_16: 424224711
+      LSH SSagaji gif-07_17: 2112384772
+      LSH SSagaji gif-07_18: 1811597616
+      LSH SSagaji gif-07_19: -1648022169
+      LSH SSagaji gif-07_2: 205132554
+      LSH SSagaji gif-07_20: 670471516
+      LSH SSagaji gif-07_21: -1598555756
+      LSH SSagaji gif-07_22: -92219933
+      LSH SSagaji gif-07_23: 336646486
+      LSH SSagaji gif-07_24: -1993102336
+      LSH SSagaji gif-07_25: -1642154037
+      LSH SSagaji gif-07_26: -1836574721
+      LSH SSagaji gif-07_27: 935955256
+      LSH SSagaji gif-07_3: -1989503259
+      LSH SSagaji gif-07_4: -1239191153
+      LSH SSagaji gif-07_5: -603142187
+      LSH SSagaji gif-07_6: 742220796
+      LSH SSagaji gif-07_7: 1812903547
+      LSH SSagaji gif-07_8: -1570457215
+      LSH SSagaji gif-07_9: -325141198
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

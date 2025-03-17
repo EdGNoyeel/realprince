@@ -1,0 +1,574 @@
+fileFormatVersion: 2
+guid: eed720716594f4a30b81a99bb914c4a5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -703035078421227597
+    second: LSH SSagaji gif-09_0
+  - first:
+      213: 3275586994002587945
+    second: LSH SSagaji gif-09_1
+  - first:
+      213: -6698443528976221581
+    second: LSH SSagaji gif-09_2
+  - first:
+      213: -6317519822981014116
+    second: LSH SSagaji gif-09_3
+  - first:
+      213: -5791990812062508645
+    second: LSH SSagaji gif-09_4
+  - first:
+      213: 3068960308532773347
+    second: LSH SSagaji gif-09_5
+  - first:
+      213: -5544686806888735381
+    second: LSH SSagaji gif-09_6
+  - first:
+      213: -8488034042826467092
+    second: LSH SSagaji gif-09_7
+  - first:
+      213: 4890705299954920970
+    second: LSH SSagaji gif-09_8
+  - first:
+      213: -3347088716079685237
+    second: LSH SSagaji gif-09_9
+  - first:
+      213: -4286212390064651565
+    second: LSH SSagaji gif-09_10
+  - first:
+      213: 4252485894265126600
+    second: LSH SSagaji gif-09_11
+  - first:
+      213: 3741686469948166627
+    second: LSH SSagaji gif-09_12
+  - first:
+      213: -7625266537592696738
+    second: LSH SSagaji gif-09_13
+  - first:
+      213: 6222590670435361144
+    second: LSH SSagaji gif-09_14
+  - first:
+      213: 5105573884214494328
+    second: LSH SSagaji gif-09_15
+  - first:
+      213: -3971842650135106253
+    second: LSH SSagaji gif-09_16
+  - first:
+      213: 7455062049898358495
+    second: LSH SSagaji gif-09_17
+  - first:
+      213: -2824642794609245160
+    second: LSH SSagaji gif-09_18
+  - first:
+      213: 1783100079425436743
+    second: LSH SSagaji gif-09_19
+  - first:
+      213: -2850433969442117986
+    second: LSH SSagaji gif-09_20
+  - first:
+      213: -4408297943200402504
+    second: LSH SSagaji gif-09_21
+  - first:
+      213: 4011807517065077610
+    second: LSH SSagaji gif-09_22
+  - first:
+      213: 7681608281799775383
+    second: LSH SSagaji gif-09_23
+  - first:
+      213: -352547006383436985
+    second: LSH SSagaji gif-09_24
+  - first:
+      213: 6265471248155504180
+    second: LSH SSagaji gif-09_25
+  - first:
+      213: 9099898085134356562
+    second: LSH SSagaji gif-09_26
+  - first:
+      213: -2388531546518986646
+    second: LSH SSagaji gif-09_27
+  - first:
+      213: 1331164447626153269
+    second: LSH SSagaji gif-09_28
+  - first:
+      213: 5289510866562216415
+    second: LSH SSagaji gif-09_29
+  - first:
+      213: 4383859203012485000
+    second: LSH SSagaji gif-09_30
+  - first:
+      213: 4755805961906372946
+    second: LSH SSagaji gif-09_31
+  - first:
+      213: -7837034037994745735
+    second: LSH SSagaji gif-09_32
+  - first:
+      213: 7021959878446423314
+    second: LSH SSagaji gif-09_33
+  - first:
+      213: -25536126573493288
+    second: LSH SSagaji gif-09_34
+  - first:
+      213: 6912002350279237221
+    second: LSH SSagaji gif-09_35
+  - first:
+      213: 809111208465030707
+    second: LSH SSagaji gif-09_36
+  - first:
+      213: 6146062077885377778
+    second: LSH SSagaji gif-09_37
+  - first:
+      213: -3397633946192106388
+    second: LSH SSagaji gif-09_38
+  - first:
+      213: -6916645749708130437
+    second: LSH SSagaji gif-09_39
+  - first:
+      213: -7501630236301926113
+    second: LSH SSagaji gif-09_40
+  - first:
+      213: 2672366427219214878
+    second: LSH SSagaji gif-09_41
+  - first:
+      213: 2732830923209912590
+    second: LSH SSagaji gif-09_42
+  - first:
+      213: 7361288625207743935
+    second: LSH SSagaji gif-09_43
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LSH SSagaji gif-09_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1350
+        width: 254
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 486ca530af7e041c88bac4d89d81cdfc
+      internalID: 1338060223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LSH SSagaji gif-09_1
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 1350
+        width: 254
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf3c70cb871274acaad7e602f010ff68
+      internalID: 1460155762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LSH SSagaji gif-09_2
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 1350
+        width: 254
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aed63df1ea0b6457480002adcb8cdcb4
+      internalID: -477659964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LSH SSagaji gif-09_3
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 1350
+        width: 254
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c01ec4d43f164d7997522baacfc789c
+      internalID: -825907336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LSH SSagaji gif-09_4
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 1350
+        width: 254
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c17a0b5dff87410e958c2e9bda9d7ca
+      internalID: 424387288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LSH SSagaji gif-09_5
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 1350
+        width: 254
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25bebe5d6630d46ffa9f11f09860ce46
+      internalID: -1063547938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LSH SSagaji gif-09_6
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 1350
+        width: 254
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6186eeabcad034ab381466e6c0efdb38
+      internalID: 761984121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LSH SSagaji gif-09_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 900
+        width: 254
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 234900992f47f4c2c8f9f804c2b1680f
+      internalID: 1314259624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LSH SSagaji gif-09_8
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 900
+        width: 254
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25f7323cb651d45eaad0486bdfa788f8
+      internalID: 1559884614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LSH SSagaji gif-09_9
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 900
+        width: 254
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0c4959d2e9ac481bbde08276169f218
+      internalID: 1562157157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LSH SSagaji gif-09_10
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 900
+        width: 254
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b618408a2de1e4c1bb3e43e412401058
+      internalID: -1263641189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LSH SSagaji gif-09_11
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 900
+        width: 254
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1990bcd3ea0c4eb090b8fd996a2e635
+      internalID: -127844941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LSH SSagaji gif-09_12
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 900
+        width: 254
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbf607278c64f4ac5b61f0abb0d9baf0
+      internalID: 132494089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 2c351483fce064ed5b9f57a173889bcc
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      LSH SSagaji gif-09_0: 1338060223
+      LSH SSagaji gif-09_1: 1460155762
+      LSH SSagaji gif-09_10: -1263641189
+      LSH SSagaji gif-09_11: -127844941
+      LSH SSagaji gif-09_12: 132494089
+      LSH SSagaji gif-09_2: -477659964
+      LSH SSagaji gif-09_3: -825907336
+      LSH SSagaji gif-09_4: 424387288
+      LSH SSagaji gif-09_5: -1063547938
+      LSH SSagaji gif-09_6: 761984121
+      LSH SSagaji gif-09_7: 1314259624
+      LSH SSagaji gif-09_8: 1559884614
+      LSH SSagaji gif-09_9: 1562157157
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
