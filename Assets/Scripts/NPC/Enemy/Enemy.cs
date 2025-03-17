@@ -131,6 +131,14 @@ public class Enemy : MonoBehaviour
     }
     public void Lines()
     {
+        if(!live){
+            Debug.Log("TryingDyingMassage");
+            lineText=dyingMessege;
+            lineText1=dyingMessege;
+            lineText2=dyingMessege;
+            lineText3=dyingMessege;
+            lineText4=dyingMessege;
+        }
         if (canTalk)
         {
             lineTextTMP = ObjPuller.instance.objectPoolList[9].Dequeue();
@@ -146,10 +154,27 @@ public class Enemy : MonoBehaviour
                 //lineTextTMP.transform.position = new Vector3(0, 0.5f, 0);
             }
 
+
+        }
+        if(live){
+            SeletLine();
+        }        
+        else{
+            CancelInvoke("Lines");
+            Debug.Log("TryingDyingMassage22"+dyingMessege);
+            lineText=dyingMessege;
+            lineTextTMP = ObjPuller.instance.objectPoolList[9].Dequeue();
+            lineTextTMP.GetComponent<TextMeshPro>().text=lineText;
+            
+            lineTextTMP.SetActive(true);
+            //lineTextTMP.transform.position = gameObject.transform.position; // 표시될 위치
+            //lineTextTMP.GetComponent<EnemyLines>().lines = lineText;
+            
+            lineTextTMP.transform.SetParent(this.transform, false);
+            
+            Debug.Log("TryingDyingMassage33"+lineTextTMP.GetComponent<TextMeshPro>().text);
         }
         
-        
-        SeletLine();
     }
 
     public void Targetting()
@@ -249,15 +274,18 @@ public class Enemy : MonoBehaviour
             }
             else
             {
+
                 hpBarSp.SetActive(false);
                 if (addOn != null)
                     addOn.gameObject.SetActive(false);
                 SoundManager.instance.PlaySE("diring");
                 //canMove = false;
                 canHit = false;
-                canTalk = false;
+                
                 ScoreManager.instance.IncreaseScore(getScore);
                 live = false;
+                //Lines();
+                canTalk = false;
                 speedSave = speed;
                 speed = 0.00001f;
 
@@ -267,6 +295,7 @@ public class Enemy : MonoBehaviour
                 CancelInvoke();
                 KillCount();
                 targetBeacon.SetActive(false);
+                
             }
         }   
     }
