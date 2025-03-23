@@ -171,6 +171,7 @@ public class GameManager : MonoBehaviour
         GameObject mouth = GameObject.Find("Mouth");
         mouth.GetComponent<TeethManager>().RestoreTeeth();
         tutorialOpener.SetActive(true);
+        AdmobObj.instance.ShowInterstitialAd();
 
         GameObject.Find(currentLand).GetComponentInChildren<LandMap>().upDateStage(stageNumb[landNumb]);
         GameObject.Find(currentLand).GetComponentInChildren<LandMap>().CheckStages();
@@ -351,7 +352,7 @@ public class GameManager : MonoBehaviour
 
     public void TrySecondChance()
     {
-        AdmobObj.instance.UserChoseToWatchAd();
+        AdmobObj.instance.ShowRewardedAd(0);
         Time.timeScale = 0;
 
         /*((success) => {

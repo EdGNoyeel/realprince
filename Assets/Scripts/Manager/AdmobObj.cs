@@ -7,32 +7,33 @@ using System;
 public class AdmobObj : MonoBehaviour
 {
     private RewardedAd rewardedAd;
+    private InterstitialAd interstitialAd; // 전면 광고 추가
+
     public int unLockNumb;
     public int rechargeHeartNumb;
     public bool loaded;
 
-    [SerializeField]
-    Button presentBTN;
+    [SerializeField] Button presentBTN;
 
-    [SerializeField]
-    bool ios;
-    [SerializeField]
-    bool android;
-    [SerializeField]
-    bool iosTest;
-    [SerializeField]
-    bool androidTest;
+    [Header("플랫폼 설정")]
+    [SerializeField] bool ios;
+    [SerializeField] bool android;
+    [SerializeField] bool iosTest;
+    [SerializeField] bool androidTest;
 
-    [SerializeField]
-    string iosId = "ca-app-pub-4902307626283456/9629524579";
-    [SerializeField]
-    string androidId = "ca-app-pub-4902307626283456/9339967696";
-    [SerializeField]
-    string iosTestId = "ca-app-pub-3940256099942544/1712485313";
-    [SerializeField]
-    string androidTestId = "ca-app-pub-3940256099942544/5224354917";
+    [Header("애드몹 ID")]
+    [SerializeField] string iosRewardId = "ca-app-pub-4902307626283456/9629524579";
+    [SerializeField] string androidRewardId = "ca-app-pub-4902307626283456/9339967696";
+    [SerializeField] string iosTestRewardId = "ca-app-pub-3940256099942544/1712485313";
+    [SerializeField] string androidTestRewardId = "ca-app-pub-3940256099942544/5224354917";
 
-    private string adUnitId;
+    [SerializeField] string iosInterstitialId = "ca-app-pub-4902307626283456/1234567890"; // 예시
+    [SerializeField] string androidInterstitialId = "ca-app-pub-4902307626283456/1234567890"; // 예시
+    [SerializeField] string iosTestInterstitialId = "ca-app-pub-3940256099942544/4411468910";
+    [SerializeField] string androidTestInterstitialId = "ca-app-pub-3940256099942544/1033173712";
+
+    private string rewardAdUnitId;
+    private string interstitialAdUnitId;
 
     static public AdmobObj instance;
 
@@ -54,89 +55,87 @@ public class AdmobObj : MonoBehaviour
         MobileAds.Initialize(initStatus => { });
 
         // 광고 ID 설정
-        if (ios) adUnitId = iosId;
-        if (android) adUnitId = androidId;
-        if (iosTest) adUnitId = iosTestId;
-        if (androidTest) adUnitId = androidTestId;
+        if (ios)
+        {
+            rewardAdUnitId = iosRewardId;
+            interstitialAdUnitId = iosInterstitialId;
+        }
+        if (android)
+        {
+            rewardAdUnitId = androidRewardId;
+            interstitialAdUnitId = androidInterstitialId;
+        }
+        if (iosTest)
+        {
+            rewardAdUnitId = iosTestRewardId;
+            interstitialAdUnitId = iosTestInterstitialId;
+        }
+        if (androidTest)
+        {
+            rewardAdUnitId = androidTestRewardId;
+            interstitialAdUnitId = androidTestInterstitialId;
+        }
 
         unLockNumb = 0;
 
-        LoadRewardedAd(); // 리워드 광고 로드
+        LoadRewardedAd();
+        LoadInterstitialAd();
     }
 
+    // -------------------- 리워드 광고 --------------------
     public void LoadRewardedAd()
     {
-        // Clean up the old ad before loading a new one.
         if (rewardedAd != null)
         {
-                rewardedAd.Destroy();
-                rewardedAd = null;
+            rewardedAd.Destroy();
+            rewardedAd = null;
         }
 
-        Debug.Log("Loading the rewarded ad.");
-
-        // create our request used to load the ad.
         var adRequest = new AdRequest();
-
-        // send the request to load the ad.
-        RewardedAd.Load(adUnitId, adRequest,
-            (RewardedAd ad, LoadAdError error) =>
+        RewardedAd.Load(rewardAdUnitId, adRequest, (RewardedAd ad, LoadAdError error) =>
+        {
+            if (error != null || ad == null)
             {
-                // if error is not null, the load request failed.
-                if (error != null || ad == null)
-                {
-                    Debug.LogError("Rewarded ad failed to load an ad " +
-                                    "with error : " + error);
-                    return;
-                }
-
-                Debug.Log("Rewarded ad loaded with response : "
-                            + ad.GetResponseInfo());
-
-                rewardedAd = ad;
-            });
+                Debug.LogError("Rewarded ad failed to load: " + error);
+                return;
+            }
+            rewardedAd = ad;
+        });
     }
 
-    private void Update()
+    public void ShowRewardedAd(int numb)
     {
-        loaded = (rewardedAd != null);
+        unLockNumb = numb;
+
+        if (rewardedAd != null)
+        {
+            rewardedAd.Show(HandleUserEarnedReward);
+        }
+        else
+        {
+            Debug.LogError("Rewarded ad not ready. Reloading...");
+            LoadRewardedAd();
+        }
     }
 
     public void ShowReChareHeartAd(int numb)
     {
         unLockNumb = numb;
-        UserChoseToWatchAd();
-    }
 
-    public void UserChoseToWatchAd()
-    {
         if (rewardedAd != null)
         {
             rewardedAd.Show(HandleUserEarnedReward);
-            Debug.Log("🎬 Showing Rewarded Ad...");
         }
         else
         {
-            Debug.LogError("🚫 Rewarded Ad not loaded yet. Reloading...");
-            LoadRewardedAd(); // 광고 다시 로드
+            Debug.LogError("Rewarded ad not ready. Reloading...");
+            LoadRewardedAd();
         }
     }
 
-    public void HandleRewardedAdClosed()
+    private void HandleUserEarnedReward(Reward reward)
     {
-        Debug.Log("🎬 Rewarded ad closed. Reloading...");
-        LoadRewardedAd();
-    }
-
-    public void HandleRewardedAdFailedToShow(AdError error)
-    {
-        Debug.LogError($"❌ Rewarded ad failed to show: {error.GetMessage()}");
-        LoadRewardedAd();
-    }
-
-    public void HandleUserEarnedReward(Reward reward)
-    {
-        Debug.Log($"🏆 User earned reward: {reward.Amount} {reward.Type}");
+        Debug.Log($"User earned reward: {reward.Amount} {reward.Type}");
 
         if (SceneManager.GetActiveScene().name == "Toilet")
         {
@@ -156,5 +155,60 @@ public class AdmobObj : MonoBehaviour
         }
 
         LoadRewardedAd();
+    }
+
+    // -------------------- 전면 광고 --------------------
+    public void LoadInterstitialAd()
+    {
+        if (interstitialAd != null)
+        {
+            interstitialAd.Destroy();
+            interstitialAd = null;
+        }
+
+        var adRequest = new AdRequest();
+        InterstitialAd.Load(interstitialAdUnitId, adRequest, (InterstitialAd ad, LoadAdError error) =>
+        {
+            if (error != null || ad == null)
+            {
+                Debug.LogError("Interstitial ad failed to load: " + error);
+                return;
+            }
+            interstitialAd = ad;
+            Debug.Log("IntAdLoaded");
+        });
+    }
+
+    public void ShowInterstitialAd()
+    {
+        Debug.Log("TryShowintAd");
+        if (interstitialAd != null && interstitialAd.CanShowAd())
+        {
+            Debug.Log("AdSuccess");
+            interstitialAd.Show();
+            LoadInterstitialAd(); // 다음 광고 미리 로드
+        }
+        else
+        {
+            Debug.LogError("Interstitial ad not ready.");
+            LoadInterstitialAd();
+        }
+    }
+
+    private void OnDestroy()
+    {
+        if (rewardedAd != null)
+        {
+            rewardedAd.Destroy();
+        }
+        if (interstitialAd != null)
+        {
+            interstitialAd.Destroy();
+        }
+    }
+
+    void Update()
+    {
+        loaded = (rewardedAd != null);
     }
 }
