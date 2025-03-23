@@ -354,7 +354,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 4096
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -412,9 +412,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 1350
-        width: 254
-        height: 450
+        y: 2700
+        width: 508
+        height: 900
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -433,10 +433,10 @@ TextureImporter:
       name: LSH SSagaji gif-06_1
       rect:
         serializedVersion: 2
-        x: 254
-        y: 1350
-        width: 254
-        height: 450
+        x: 508
+        y: 2700
+        width: 508
+        height: 900
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -455,10 +455,10 @@ TextureImporter:
       name: LSH SSagaji gif-06_2
       rect:
         serializedVersion: 2
-        x: 508
-        y: 1350
-        width: 254
-        height: 450
+        x: 1016
+        y: 2700
+        width: 508
+        height: 900
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -477,10 +477,10 @@ TextureImporter:
       name: LSH SSagaji gif-06_3
       rect:
         serializedVersion: 2
-        x: 762
-        y: 1350
-        width: 254
-        height: 450
+        x: 1524
+        y: 2700
+        width: 508
+        height: 900
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -499,10 +499,10 @@ TextureImporter:
       name: LSH SSagaji gif-06_4
       rect:
         serializedVersion: 2
-        x: 1016
-        y: 1350
-        width: 254
-        height: 450
+        x: 2032
+        y: 2700
+        width: 508
+        height: 900
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -521,10 +521,10 @@ TextureImporter:
       name: LSH SSagaji gif-06_5
       rect:
         serializedVersion: 2
-        x: 1270
-        y: 1350
-        width: 254
-        height: 450
+        x: 2540
+        y: 2700
+        width: 508
+        height: 900
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -543,10 +543,10 @@ TextureImporter:
       name: LSH SSagaji gif-06_6
       rect:
         serializedVersion: 2
-        x: 1524
-        y: 1350
-        width: 254
-        height: 450
+        x: 3048
+        y: 2700
+        width: 508
+        height: 900
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -566,9 +566,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 900
-        width: 254
-        height: 450
+        y: 1800
+        width: 508
+        height: 900
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -587,10 +587,10 @@ TextureImporter:
       name: LSH SSagaji gif-06_8
       rect:
         serializedVersion: 2
-        x: 254
-        y: 900
-        width: 254
-        height: 450
+        x: 508
+        y: 1800
+        width: 508
+        height: 900
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -609,10 +609,10 @@ TextureImporter:
       name: LSH SSagaji gif-06_9
       rect:
         serializedVersion: 2
-        x: 508
-        y: 900
-        width: 254
-        height: 450
+        x: 1016
+        y: 1800
+        width: 508
+        height: 900
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -631,10 +631,10 @@ TextureImporter:
       name: LSH SSagaji gif-06_10
       rect:
         serializedVersion: 2
-        x: 762
-        y: 900
-        width: 254
-        height: 450
+        x: 1524
+        y: 1800
+        width: 508
+        height: 900
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -653,10 +653,10 @@ TextureImporter:
       name: LSH SSagaji gif-06_11
       rect:
         serializedVersion: 2
-        x: 1016
-        y: 900
-        width: 254
-        height: 450
+        x: 2032
+        y: 1800
+        width: 508
+        height: 900
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -675,10 +675,10 @@ TextureImporter:
       name: LSH SSagaji gif-06_12
       rect:
         serializedVersion: 2
-        x: 1270
-        y: 900
-        width: 254
-        height: 450
+        x: 2540
+        y: 1800
+        width: 508
+        height: 900
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -697,10 +697,10 @@ TextureImporter:
       name: LSH SSagaji gif-06_13
       rect:
         serializedVersion: 2
-        x: 1524
-        y: 900
-        width: 254
-        height: 450
+        x: 3048
+        y: 1800
+        width: 508
+        height: 900
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -720,9 +720,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 450
-        width: 254
-        height: 450
+        y: 900
+        width: 508
+        height: 900
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -741,10 +741,10 @@ TextureImporter:
       name: LSH SSagaji gif-06_15
       rect:
         serializedVersion: 2
-        x: 254
-        y: 450
-        width: 254
-        height: 450
+        x: 508
+        y: 900
+        width: 508
+        height: 900
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -763,10 +763,10 @@ TextureImporter:
       name: LSH SSagaji gif-06_16
       rect:
         serializedVersion: 2
-        x: 508
-        y: 450
-        width: 254
-        height: 450
+        x: 1016
+        y: 900
+        width: 508
+        height: 900
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -785,10 +785,10 @@ TextureImporter:
       name: LSH SSagaji gif-06_17
       rect:
         serializedVersion: 2
-        x: 762
-        y: 450
-        width: 254
-        height: 450
+        x: 1524
+        y: 900
+        width: 508
+        height: 900
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -807,10 +807,10 @@ TextureImporter:
       name: LSH SSagaji gif-06_18
       rect:
         serializedVersion: 2
-        x: 1016
-        y: 450
-        width: 254
-        height: 450
+        x: 2032
+        y: 900
+        width: 508
+        height: 900
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -829,10 +829,10 @@ TextureImporter:
       name: LSH SSagaji gif-06_19
       rect:
         serializedVersion: 2
-        x: 1270
-        y: 450
-        width: 254
-        height: 450
+        x: 2540
+        y: 900
+        width: 508
+        height: 900
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -851,10 +851,10 @@ TextureImporter:
       name: LSH SSagaji gif-06_20
       rect:
         serializedVersion: 2
-        x: 1524
-        y: 450
-        width: 254
-        height: 450
+        x: 3048
+        y: 900
+        width: 508
+        height: 900
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -875,8 +875,8 @@ TextureImporter:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 254
-        height: 450
+        width: 508
+        height: 900
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -895,10 +895,10 @@ TextureImporter:
       name: LSH SSagaji gif-06_22
       rect:
         serializedVersion: 2
-        x: 254
+        x: 508
         y: 0
-        width: 254
-        height: 450
+        width: 508
+        height: 900
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -917,10 +917,10 @@ TextureImporter:
       name: LSH SSagaji gif-06_23
       rect:
         serializedVersion: 2
-        x: 508
+        x: 1016
         y: 0
-        width: 254
-        height: 450
+        width: 508
+        height: 900
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -939,10 +939,10 @@ TextureImporter:
       name: LSH SSagaji gif-06_24
       rect:
         serializedVersion: 2
-        x: 762
+        x: 1524
         y: 0
-        width: 254
-        height: 450
+        width: 508
+        height: 900
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -961,10 +961,10 @@ TextureImporter:
       name: LSH SSagaji gif-06_25
       rect:
         serializedVersion: 2
-        x: 1016
+        x: 2032
         y: 0
-        width: 254
-        height: 450
+        width: 508
+        height: 900
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -983,10 +983,10 @@ TextureImporter:
       name: LSH SSagaji gif-06_26
       rect:
         serializedVersion: 2
-        x: 1270
+        x: 2540
         y: 0
-        width: 254
-        height: 450
+        width: 508
+        height: 900
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1005,10 +1005,10 @@ TextureImporter:
       name: LSH SSagaji gif-06_27
       rect:
         serializedVersion: 2
-        x: 1524
+        x: 3048
         y: 0
-        width: 254
-        height: 450
+        width: 508
+        height: 900
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
