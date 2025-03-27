@@ -201,7 +201,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 4096
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -259,9 +259,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 1350
-        width: 254
-        height: 450
+        y: 2700
+        width: 508
+        height: 900
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -280,10 +280,10 @@ TextureImporter:
       name: LSH SSagaji gif-09_1
       rect:
         serializedVersion: 2
-        x: 254
-        y: 1350
-        width: 254
-        height: 450
+        x: 508
+        y: 2700
+        width: 508
+        height: 900
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -302,10 +302,10 @@ TextureImporter:
       name: LSH SSagaji gif-09_2
       rect:
         serializedVersion: 2
-        x: 508
-        y: 1350
-        width: 254
-        height: 450
+        x: 1016
+        y: 2700
+        width: 508
+        height: 900
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -324,10 +324,10 @@ TextureImporter:
       name: LSH SSagaji gif-09_3
       rect:
         serializedVersion: 2
-        x: 762
-        y: 1350
-        width: 254
-        height: 450
+        x: 1524
+        y: 2700
+        width: 508
+        height: 900
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -346,10 +346,10 @@ TextureImporter:
       name: LSH SSagaji gif-09_4
       rect:
         serializedVersion: 2
-        x: 1016
-        y: 1350
-        width: 254
-        height: 450
+        x: 2032
+        y: 2700
+        width: 508
+        height: 900
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -368,10 +368,10 @@ TextureImporter:
       name: LSH SSagaji gif-09_5
       rect:
         serializedVersion: 2
-        x: 1270
-        y: 1350
-        width: 254
-        height: 450
+        x: 2540
+        y: 2700
+        width: 508
+        height: 900
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -390,10 +390,10 @@ TextureImporter:
       name: LSH SSagaji gif-09_6
       rect:
         serializedVersion: 2
-        x: 1524
-        y: 1350
-        width: 254
-        height: 450
+        x: 3048
+        y: 2700
+        width: 508
+        height: 900
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -413,9 +413,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 900
-        width: 254
-        height: 450
+        y: 1800
+        width: 508
+        height: 900
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -434,10 +434,10 @@ TextureImporter:
       name: LSH SSagaji gif-09_8
       rect:
         serializedVersion: 2
-        x: 254
-        y: 900
-        width: 254
-        height: 450
+        x: 508
+        y: 1800
+        width: 508
+        height: 900
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -456,10 +456,10 @@ TextureImporter:
       name: LSH SSagaji gif-09_9
       rect:
         serializedVersion: 2
-        x: 508
-        y: 900
-        width: 254
-        height: 450
+        x: 1016
+        y: 1800
+        width: 508
+        height: 900
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -478,10 +478,10 @@ TextureImporter:
       name: LSH SSagaji gif-09_10
       rect:
         serializedVersion: 2
-        x: 762
-        y: 900
-        width: 254
-        height: 450
+        x: 1524
+        y: 1800
+        width: 508
+        height: 900
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -500,10 +500,10 @@ TextureImporter:
       name: LSH SSagaji gif-09_11
       rect:
         serializedVersion: 2
-        x: 1016
-        y: 900
-        width: 254
-        height: 450
+        x: 2032
+        y: 1800
+        width: 508
+        height: 900
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -522,10 +522,10 @@ TextureImporter:
       name: LSH SSagaji gif-09_12
       rect:
         serializedVersion: 2
-        x: 1270
-        y: 900
-        width: 254
-        height: 450
+        x: 2540
+        y: 1800
+        width: 508
+        height: 900
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -536,6 +536,160 @@ TextureImporter:
       bones: []
       spriteID: fbf607278c64f4ac5b61f0abb0d9baf0
       internalID: 132494089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LSH SSagaji gif-09_13
+      rect:
+        serializedVersion: 2
+        x: 3048
+        y: 1800
+        width: 508
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b7c3768b24204c2aa1dfe3a8bbb0388
+      internalID: 541797575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LSH SSagaji gif-09_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 900
+        width: 508
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 260cdc4a7544b499d9d026c4e9b3160e
+      internalID: -383761062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LSH SSagaji gif-09_15
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 900
+        width: 508
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da9e889676b4b4acfb61cc912f2c1b71
+      internalID: 314154663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LSH SSagaji gif-09_16
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 900
+        width: 508
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f04d3a011d82e4af4afcc392320d3bb6
+      internalID: 1868164437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LSH SSagaji gif-09_17
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 900
+        width: 508
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba2adc745c42458cba6edec75be50fa
+      internalID: -718689018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LSH SSagaji gif-09_18
+      rect:
+        serializedVersion: 2
+        x: 2032
+        y: 900
+        width: 508
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e3760a8940e4856ab04911cf4b0fd5
+      internalID: 1358243176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LSH SSagaji gif-09_19
+      rect:
+        serializedVersion: 2
+        x: 2540
+        y: 900
+        width: 508
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43cf89ea4021442f1bad7d953d4c31a5
+      internalID: 668794894
       vertices: []
       indices: 
       edges: []
@@ -559,6 +713,13 @@ TextureImporter:
       LSH SSagaji gif-09_10: -1263641189
       LSH SSagaji gif-09_11: -127844941
       LSH SSagaji gif-09_12: 132494089
+      LSH SSagaji gif-09_13: 541797575
+      LSH SSagaji gif-09_14: -383761062
+      LSH SSagaji gif-09_15: 314154663
+      LSH SSagaji gif-09_16: 1868164437
+      LSH SSagaji gif-09_17: -718689018
+      LSH SSagaji gif-09_18: 1358243176
+      LSH SSagaji gif-09_19: 668794894
       LSH SSagaji gif-09_2: -477659964
       LSH SSagaji gif-09_3: -825907336
       LSH SSagaji gif-09_4: 424387288
