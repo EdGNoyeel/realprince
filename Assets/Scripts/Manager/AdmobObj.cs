@@ -3,11 +3,12 @@ using GoogleMobileAds.Api;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
 using System;
+using System.Collections;
 
 public class AdmobObj : MonoBehaviour
 {
     private RewardedAd rewardedAd;
-    private InterstitialAd interstitialAd; // 전면 광고 추가
+    private InterstitialAd interstitialAd;
 
     public int unLockNumb;
     public int rechargeHeartNumb;
@@ -27,15 +28,15 @@ public class AdmobObj : MonoBehaviour
     [SerializeField] string iosTestRewardId = "ca-app-pub-3940256099942544/1712485313";
     [SerializeField] string androidTestRewardId = "ca-app-pub-3940256099942544/5224354917";
 
-    [SerializeField] string iosInterstitialId = "ca-app-pub-4902307626283456/1234567890"; // 예시
-    [SerializeField] string androidInterstitialId = "ca-app-pub-4902307626283456/1234567890"; // 예시
+    [SerializeField] string iosInterstitialId = "ca-app-pub-4902307626283456/1234567890";
+    [SerializeField] string androidInterstitialId = "ca-app-pub-4902307626283456/1234567890";
     [SerializeField] string iosTestInterstitialId = "ca-app-pub-3940256099942544/4411468910";
     [SerializeField] string androidTestInterstitialId = "ca-app-pub-3940256099942544/1033173712";
 
     private string rewardAdUnitId;
     private string interstitialAdUnitId;
 
-    static public AdmobObj instance;
+    public static AdmobObj instance;
 
     void Awake()
     {
@@ -54,7 +55,6 @@ public class AdmobObj : MonoBehaviour
     {
         MobileAds.Initialize(initStatus => { });
 
-        // 광고 ID 설정
         if (ios)
         {
             rewardAdUnitId = iosRewardId;
@@ -181,18 +181,60 @@ public class AdmobObj : MonoBehaviour
 
     public void ShowInterstitialAd()
     {
+        if(StatusManager.instance.adRemoved==0){
+            if (Time.timeScale == 0f)
+            {
+                Debug.LogWarning("Game is paused. Delaying interstitial ad.");
+                Time.timeScale = 1f;
+                StartCoroutine(DelayAdAndThenPause(0.1f));
+            }
+            else
+            {
+                ShowRealAd();
+            }
+        }
+        
+    }
+
+    private IEnumerator DelayAdAndThenPause(float delay)
+    {
+        yield return new WaitForSecondsRealtime(delay);
+
+        ShowRealAd();
+
+        yield return new WaitForSecondsRealtime(0.5f);
+        if (ShouldPauseAfterAd())
+        {
+            Debug.Log("Re-pausing game after ad.");
+            Time.timeScale = 0f;
+        }
+    }
+
+    private bool ShouldPauseAfterAd()
+    {
+        return true;
+    }
+
+    private void ShowRealAd()
+    {
         Debug.Log("TryShowintAd");
         if (interstitialAd != null && interstitialAd.CanShowAd())
         {
             Debug.Log("AdSuccess");
             interstitialAd.Show();
-            LoadInterstitialAd(); // 다음 광고 미리 로드
+            LoadInterstitialAd();
         }
         else
         {
             Debug.LogError("Interstitial ad not ready.");
             LoadInterstitialAd();
         }
+    }
+
+    // 광고 준비 여부 확인 함수 추가
+    public bool IsInterstitialAdReady()
+    {
+        return interstitialAd != null && interstitialAd.CanShowAd();
     }
 
     private void OnDestroy()

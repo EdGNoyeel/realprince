@@ -22,6 +22,7 @@ public class MyPage : MonoBehaviour
     GameObject canNotChangePN;
     [SerializeField]
     GameObject[] avatartButton;
+    bool _ani;
 
     // Start is called before the first frame update
     void OnEnable()
@@ -56,7 +57,10 @@ public class MyPage : MonoBehaviour
 
     public void ChangeAvatar(string avatarName)
     {
+        _ani = avatarName.EndsWith("1");
         Transform[] children = avatar.GetComponentsInChildren<Transform>();
+
+        
 
         if (children != null)
         {
@@ -65,10 +69,43 @@ public class MyPage : MonoBehaviour
                 Destroy(children[i].gameObject);
             }
         }
+
+        if (_ani)
+        {
+            avatarName = avatarName.Substring(0, avatarName.Length - 1); // "1" 제거
+        }
+
         StatusManager.instance.avatar = avatarName;
         PrefabManager.instance.LoadPrefabs(StatusManager.instance.avatar, avatar);
 
+        
+        //CheckAvatarTexts();
+        Invoke("CheckAvatarAnim", 0.2f);
+
         Invoke("CheckAvatarTexts", 0.2f);
+    }
+
+    void CheckAvatarAnim(){
+        ImgPrefabs img = avatar.GetComponentInChildren<ImgPrefabs>();
+        if (img != null)
+        {
+            Debug.Log("ImgPrefabs 찾음!");
+            if (_ani)
+            {
+                img.SpeacialAnimate();
+                Debug.Log("Animation");
+            }
+            else
+            {
+                img.HighLight();
+                Debug.Log("NotAnimation");
+            }
+        }
+        else
+        {
+            Debug.LogWarning("ImgPrefabs 컴포넌트를 찾지 못했습니다.");
+        }  
+
     }
 
 
