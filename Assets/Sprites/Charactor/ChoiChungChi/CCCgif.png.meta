@@ -147,7 +147,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 4096
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -205,9 +205,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 1350
-        width: 254
-        height: 450
+        y: 2700
+        width: 508
+        height: 900
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -226,10 +226,10 @@ TextureImporter:
       name: CCCgif_1
       rect:
         serializedVersion: 2
-        x: 254
-        y: 1350
-        width: 254
-        height: 450
+        x: 508
+        y: 2700
+        width: 508
+        height: 900
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -248,10 +248,10 @@ TextureImporter:
       name: CCCgif_2
       rect:
         serializedVersion: 2
-        x: 508
-        y: 1350
-        width: 254
-        height: 450
+        x: 1016
+        y: 2700
+        width: 508
+        height: 900
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -270,10 +270,10 @@ TextureImporter:
       name: CCCgif_3
       rect:
         serializedVersion: 2
-        x: 762
-        y: 1350
-        width: 254
-        height: 450
+        x: 1524
+        y: 2700
+        width: 508
+        height: 900
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -292,10 +292,10 @@ TextureImporter:
       name: CCCgif_4
       rect:
         serializedVersion: 2
-        x: 1016
-        y: 1350
-        width: 254
-        height: 450
+        x: 2032
+        y: 2700
+        width: 508
+        height: 900
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -314,10 +314,10 @@ TextureImporter:
       name: CCCgif_5
       rect:
         serializedVersion: 2
-        x: 1270
-        y: 1350
-        width: 254
-        height: 450
+        x: 2540
+        y: 2700
+        width: 508
+        height: 900
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -336,10 +336,10 @@ TextureImporter:
       name: CCCgif_6
       rect:
         serializedVersion: 2
-        x: 1524
-        y: 1350
-        width: 254
-        height: 450
+        x: 3048
+        y: 2700
+        width: 508
+        height: 900
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -359,9 +359,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 900
-        width: 254
-        height: 450
+        y: 1800
+        width: 508
+        height: 900
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -380,10 +380,10 @@ TextureImporter:
       name: CCCgif_8
       rect:
         serializedVersion: 2
-        x: 254
-        y: 900
-        width: 254
-        height: 450
+        x: 508
+        y: 1800
+        width: 508
+        height: 900
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -402,10 +402,10 @@ TextureImporter:
       name: CCCgif_9
       rect:
         serializedVersion: 2
-        x: 508
-        y: 900
-        width: 254
-        height: 450
+        x: 1016
+        y: 1800
+        width: 508
+        height: 900
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -424,10 +424,10 @@ TextureImporter:
       name: CCCgif_10
       rect:
         serializedVersion: 2
-        x: 762
-        y: 900
-        width: 254
-        height: 450
+        x: 1524
+        y: 1800
+        width: 508
+        height: 900
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -446,10 +446,10 @@ TextureImporter:
       name: CCCgif_11
       rect:
         serializedVersion: 2
-        x: 1016
-        y: 900
-        width: 254
-        height: 450
+        x: 2032
+        y: 1800
+        width: 508
+        height: 900
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -468,10 +468,10 @@ TextureImporter:
       name: CCCgif_12
       rect:
         serializedVersion: 2
-        x: 1270
-        y: 900
-        width: 254
-        height: 450
+        x: 2540
+        y: 1800
+        width: 508
+        height: 900
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -490,10 +490,10 @@ TextureImporter:
       name: CCCgif_13
       rect:
         serializedVersion: 2
-        x: 1524
-        y: 900
-        width: 254
-        height: 450
+        x: 3048
+        y: 1800
+        width: 508
+        height: 900
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -513,9 +513,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 450
-        width: 254
-        height: 450
+        y: 900
+        width: 508
+        height: 900
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -534,10 +534,10 @@ TextureImporter:
       name: CCCgif_15
       rect:
         serializedVersion: 2
-        x: 254
-        y: 450
-        width: 254
-        height: 450
+        x: 508
+        y: 900
+        width: 508
+        height: 900
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -556,10 +556,10 @@ TextureImporter:
       name: CCCgif_16
       rect:
         serializedVersion: 2
-        x: 508
-        y: 450
-        width: 254
-        height: 450
+        x: 1016
+        y: 900
+        width: 508
+        height: 900
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -578,10 +578,10 @@ TextureImporter:
       name: CCCgif_17
       rect:
         serializedVersion: 2
-        x: 762
-        y: 450
-        width: 254
-        height: 450
+        x: 1524
+        y: 900
+        width: 508
+        height: 900
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -600,10 +600,10 @@ TextureImporter:
       name: CCCgif_18
       rect:
         serializedVersion: 2
-        x: 1016
-        y: 450
-        width: 254
-        height: 450
+        x: 2032
+        y: 900
+        width: 508
+        height: 900
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -622,10 +622,10 @@ TextureImporter:
       name: CCCgif_19
       rect:
         serializedVersion: 2
-        x: 1270
-        y: 450
-        width: 254
-        height: 450
+        x: 2540
+        y: 900
+        width: 508
+        height: 900
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -644,10 +644,10 @@ TextureImporter:
       name: CCCgif_20
       rect:
         serializedVersion: 2
-        x: 1524
-        y: 450
-        width: 254
-        height: 450
+        x: 3048
+        y: 900
+        width: 508
+        height: 900
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -668,8 +668,8 @@ TextureImporter:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 254
-        height: 450
+        width: 508
+        height: 900
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -688,10 +688,10 @@ TextureImporter:
       name: CCCgif_22
       rect:
         serializedVersion: 2
-        x: 254
+        x: 508
         y: 0
-        width: 254
-        height: 450
+        width: 508
+        height: 900
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -710,10 +710,10 @@ TextureImporter:
       name: CCCgif_23
       rect:
         serializedVersion: 2
-        x: 508
+        x: 1016
         y: 0
-        width: 254
-        height: 450
+        width: 508
+        height: 900
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -732,10 +732,10 @@ TextureImporter:
       name: CCCgif_24
       rect:
         serializedVersion: 2
-        x: 762
+        x: 1524
         y: 0
-        width: 254
-        height: 450
+        width: 508
+        height: 900
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -754,10 +754,10 @@ TextureImporter:
       name: CCCgif_25
       rect:
         serializedVersion: 2
-        x: 1016
+        x: 2032
         y: 0
-        width: 254
-        height: 450
+        width: 508
+        height: 900
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
