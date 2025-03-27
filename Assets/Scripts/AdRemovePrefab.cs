@@ -14,8 +14,8 @@ public class AdRemovePrefab : MonoBehaviour
     }
 
     // Update is called once per frame
-    void Update()
-    {
-        
+    public void BuyAdRemover(){
+        StatusManager.instance.adRemoved=1;
+        this.gameObject.SetActive(false);
     }
 }
