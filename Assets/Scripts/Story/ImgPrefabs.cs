@@ -11,6 +11,8 @@ public class ImgPrefabs : MonoBehaviour
     [SerializeField]
     GameObject[] LL;
     [SerializeField]
+    GameObject animated;
+    [SerializeField]
     public GameObject texts;
     [SerializeField]
     TextMeshProUGUI name1;
@@ -45,13 +47,27 @@ public class ImgPrefabs : MonoBehaviour
     public void HighLight()
     {
         
+        Debug.Log("HighLighted");
         for (int i = 0; i < HL.Length; i++)
         {
 
-            HL[i].GetComponent<Image>().enabled = true;
-            LL[i].GetComponent<Image>().enabled = false;
+            HL[i].SetActive(true);
+            var image = LL[i]?.GetComponent<Image>();
+            if (image == null)
+            {
+                Debug.LogWarning($"LL[{i}]의 Image 컴포넌트를 찾지 못했습니다.");
+            }
+            else
+            {
+                image.enabled = false;
+                Debug.Log($"LL[{i}] 이미지 비활성화 완료");
+            }
+            
         }
-        
+        if (animated != null)
+        {
+            animated.SetActive(false);
+        }
         
     }
     public void Name1(string _string)
@@ -78,8 +94,13 @@ public class ImgPrefabs : MonoBehaviour
 
         for (int i = 0; i < HL.Length; i++)
         {
-            HL[i].GetComponent<Image>().enabled = false;
-            LL[i].GetComponent<Image>().enabled = true;
+            HL[i].SetActive(false);
+            LL[i].SetActive(true);
+            
+        }
+        if (animated != null)
+        {
+            animated.SetActive(false);
         }
     }
 
@@ -89,8 +110,29 @@ public class ImgPrefabs : MonoBehaviour
     {
         for (int i = 0; i < HL.Length; i++)
         {
-            HL[i].GetComponent<Image>().enabled = false;
-            LL[i].GetComponent<Image>().enabled = false;
+            HL[i].SetActive(false);
+            LL[i].SetActive(false);
+            
+        }
+
+        if (animated != null)
+        {
+            animated.SetActive(false);
+        }
+    }
+
+    public void SpeacialAnimate(){
+        for (int i = 0; i < HL.Length; i++)
+        {
+            HL[i].SetActive(false);
+            LL[i].SetActive(false);
+            
+        }
+
+        if (animated != null)
+        {
+            animated.SetActive(true);
+            Debug.Log("animationPlayed");
         }
     }
 
