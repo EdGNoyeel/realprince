@@ -352,8 +352,14 @@ public class GameManager : MonoBehaviour
 
     public void TrySecondChance()
     {
-        AdmobObj.instance.ShowRewardedAd(0);
-        Time.timeScale = 0;
+        if(StatusManager.instance.adRemoved ==0){
+            AdmobObj.instance.ShowRewardedAd(0);
+            Time.timeScale = 0;
+        }
+        else{
+            SecondChance(0);
+        }
+        
 
         /*((success) => {
         if (success)
