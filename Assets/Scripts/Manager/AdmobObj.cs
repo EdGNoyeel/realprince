@@ -101,9 +101,10 @@ public class AdmobObj : MonoBehaviour
             }
             rewardedAd = ad;
         });
+
     }
 
-    public void ShowRewardedAd(int numb)
+    public void ShowReChareHeartAd(int numb)
     {
         unLockNumb = numb;
 
@@ -118,7 +119,7 @@ public class AdmobObj : MonoBehaviour
         }
     }
 
-    public void ShowReChareHeartAd(int numb)
+    public void ShowRewardedAd(int numb)
     {
         unLockNumb = numb;
 
@@ -174,7 +175,7 @@ public class AdmobObj : MonoBehaviour
                 Debug.LogError("Interstitial ad failed to load: " + error);
                 return;
             }
-            interstitialAd = ad;
+            interstitialAd = ad;            
             Debug.Log("IntAdLoaded");
         });
     }
@@ -193,7 +194,6 @@ public class AdmobObj : MonoBehaviour
                 ShowRealAd();
             }
         }
-        
     }
 
     private IEnumerator DelayAdAndThenPause(float delay)
@@ -217,10 +217,15 @@ public class AdmobObj : MonoBehaviour
 
     private void ShowRealAd()
     {
+        BGM_Manager.instance.PauseBGMForAd();
         Debug.Log("TryShowintAd");
         if (interstitialAd != null && interstitialAd.CanShowAd())
         {
             Debug.Log("AdSuccess");
+
+            // 콜백을 명확하게 핸들러 함수로 연결
+            //interstitialAd.OnFullScreenContentClosed += HandleInterstitialClosed;
+
             interstitialAd.Show();
             LoadInterstitialAd();
         }
@@ -229,6 +234,28 @@ public class AdmobObj : MonoBehaviour
             Debug.LogError("Interstitial ad not ready.");
             LoadInterstitialAd();
         }
+    }
+
+// 핸들러 함수 정의
+    private void HandleInterstitialClosed(object sender, EventArgs args)
+    {
+        Debug.Log("Interstitial Ad Closed.");
+
+        // 필요 시 게임 일시 정지
+        if (ShouldPauseAfterAd())
+        {
+            Debug.Log("Re-pausing game after ad.");
+            Time.timeScale = 0f;
+        }
+
+        // 기타 광고 이후 처리 로직 작성
+    }
+
+    private void OnInterstitialAdClosed(object sender, EventArgs e)
+    {
+        Debug.Log("Interstitial Ad Closed.");
+        // 광고가 끝난 후 필요한 로직을 여기에 추가하세요.
+        // 예: 게임을 다시 일시 정지 또는 다른 작업 수행
     }
 
     // 광고 준비 여부 확인 함수 추가
@@ -252,5 +279,42 @@ public class AdmobObj : MonoBehaviour
     void Update()
     {
         loaded = (rewardedAd != null);
+    }
+    private void RegisterEventHandlers(InterstitialAd interstitialAd)
+    {
+        // Raised when the ad is estimated to have earned money.
+        interstitialAd.OnAdPaid += (AdValue adValue) =>
+        {
+            Debug.Log(String.Format("Interstitial ad paid {0} {1}.",
+                adValue.Value,
+                adValue.CurrencyCode));
+        };
+        // Raised when an impression is recorded for an ad.
+        interstitialAd.OnAdImpressionRecorded += () =>
+        {
+            Debug.Log("Interstitial ad recorded an impression.");
+        };
+        // Raised when a click is recorded for an ad.
+        interstitialAd.OnAdClicked += () =>
+        {
+            Debug.Log("Interstitial ad was clicked.");
+        };
+        // Raised when an ad opened full screen content.
+        interstitialAd.OnAdFullScreenContentOpened += () =>
+        {
+            Debug.Log("Interstitial ad full screen content opened.");
+        };
+        // Raised when the ad closed full screen content.
+        interstitialAd.OnAdFullScreenContentClosed += () =>
+        {
+            BGM_Manager.instance.ResumeBGMAfterAd();
+            Debug.Log("Interstitial ad full screen content closed.");
+        };
+        // Raised when the ad failed to open full screen content.
+        interstitialAd.OnAdFullScreenContentFailed += (AdError error) =>
+        {
+            Debug.LogError("Interstitial ad failed to open full screen content " +
+                        "with error : " + error);
+        };
     }
 }
