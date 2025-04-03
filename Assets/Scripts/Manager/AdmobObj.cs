@@ -217,7 +217,7 @@ public class AdmobObj : MonoBehaviour
 
     private void ShowRealAd()
     {
-        BGM_Manager.instance.PauseBGMForAd();
+        
         Debug.Log("TryShowintAd");
         if (interstitialAd != null && interstitialAd.CanShowAd())
         {
@@ -302,12 +302,14 @@ public class AdmobObj : MonoBehaviour
         // Raised when an ad opened full screen content.
         interstitialAd.OnAdFullScreenContentOpened += () =>
         {
+            GameObject.Find("BGM_Manager").GetComponent<BGM_Manager>().PauseBGMForAd();
+
             Debug.Log("Interstitial ad full screen content opened.");
         };
         // Raised when the ad closed full screen content.
         interstitialAd.OnAdFullScreenContentClosed += () =>
         {
-            BGM_Manager.instance.ResumeBGMAfterAd();
+            GameObject.Find("BGM_Manager").GetComponent<BGM_Manager>().ResumeBGMAfterAd();
             Debug.Log("Interstitial ad full screen content closed.");
         };
         // Raised when the ad failed to open full screen content.
