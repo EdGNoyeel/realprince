@@ -2138,6 +2138,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   button: {fileID: 112920600}
   canEnable: 1
+  buttonTXT: {fileID: 0}
 --- !u!1 &113497301
 GameObject:
   m_ObjectHideFlags: 0
@@ -5562,6 +5563,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   button: {fileID: 225578972}
   canEnable: 0
+  buttonTXT: {fileID: 0}
 --- !u!1 &225880033
 GameObject:
   m_ObjectHideFlags: 0
@@ -22136,7 +22138,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -263.99994, y: 82}
+  m_AnchoredPosition: {x: -264, y: 82}
   m_SizeDelta: {x: -752.0251, y: 21.85788}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &1008947073
@@ -23005,6 +23007,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   button: {fileID: 1040919922}
   canEnable: 0
+  buttonTXT: {fileID: 0}
 --- !u!1 &1052540228
 GameObject:
   m_ObjectHideFlags: 0
@@ -27741,7 +27744,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1359186781
 RectTransform:
   m_ObjectHideFlags: 0
@@ -28321,6 +28324,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   button: {fileID: 1378492575}
   canEnable: 0
+  buttonTXT: {fileID: 0}
 --- !u!1 &1380347711
 GameObject:
   m_ObjectHideFlags: 0
@@ -44676,6 +44680,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   button: {fileID: 2128993776}
   canEnable: 0
+  buttonTXT: {fileID: 0}
 --- !u!1 &2136041887
 GameObject:
   m_ObjectHideFlags: 0
@@ -44984,6 +44989,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   button: {fileID: 2143490462}
   canEnable: 1
+  buttonTXT: {fileID: 0}
 --- !u!1001 &921923222680674414
 PrefabInstance:
   m_ObjectHideFlags: 0
