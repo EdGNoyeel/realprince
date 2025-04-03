@@ -8,6 +8,7 @@ public class BGM
 {
     public string name;
     public AudioClip clip;
+    
 }
 public class BGM_Manager : MonoBehaviour
 {
@@ -15,6 +16,8 @@ public class BGM_Manager : MonoBehaviour
 
     public AudioSource audioSourceBgm;
     public float bgmVol=1;
+
+    private bool wasPlayingBeforeAd = false;
 
     //public string[] playSoundName;
 
@@ -62,4 +65,25 @@ public class BGM_Manager : MonoBehaviour
     {
         audioSourceBgm.volume = numb;
     }
+
+    public void PauseBGMForAd()
+    {
+        if (audioSourceBgm.isPlaying)
+        {
+            wasPlayingBeforeAd = true;
+            audioSourceBgm.Pause();
+        }
+        else
+        {
+            wasPlayingBeforeAd = false;
+        }
+    }
+    public void ResumeBGMAfterAd()
+    {
+        if (wasPlayingBeforeAd)
+        {
+            audioSourceBgm.UnPause();
+        }
+    }
 }
+

@@ -12,6 +12,8 @@ public class Setting : MonoBehaviour
     [SerializeField]
     Slider musicVol;
     public TextMeshProUGUI id;
+
+    public TextMeshProUGUI uid;
     // Start is called before the first frame update
     void Start()
     {
@@ -30,10 +32,18 @@ public class Setting : MonoBehaviour
         //effectVol.value = StatusManager.instance.effectVol;
         //musicVol.value = StatusManager.instance.musicVol;
     }
+    public void CopyToClipboard()
+    {
+        GUIUtility.systemCopyBuffer = StatusManager.instance.uid;
+        Debug.Log("클립보드에 복사됨: ");
+    }
+
+
 
     // Update is called once per frame
     public void Open()
     {
+        uid.text=StatusManager.instance.uid;
         anim.SetTrigger("Open");
     }
 
