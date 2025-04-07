@@ -35,6 +35,8 @@ public class AuthManager : MonoBehaviour
     string email;
     string password;
 
+    bool guest=false;
+
     private void Start()
     {
         signInButton.interactable = false;
@@ -117,6 +119,7 @@ public class AuthManager : MonoBehaviour
     public void SignIn()
     {
         if (!isFirebaseReady || isSignInOnProgress) return;
+        StatusManager.instance.guest=false;
 
         isSignInOnProgress = true;
         signInButton.interactable = false;
@@ -185,13 +188,17 @@ public class AuthManager : MonoBehaviour
     /// </summary>
     public void GuestLogin()
     {
+        
         if (!isFirebaseReady || isSignInOnProgress) return;
 
         isSignInOnProgress = true;
         signInButton.interactable = false;
+        guest=true;
+        StatusManager.instance.guest=true;
 
         email = "guest@yourgame.com"; // 게스트 계정 이메일
         password = "guestpassword"; // 게스트 계정 비밀번호
+        StartCoroutine(LoadMainScene());
 
         auth.SignInWithEmailAndPasswordAsync(email, password).ContinueWithOnMainThread(task =>
         {
@@ -212,6 +219,7 @@ public class AuthManager : MonoBehaviour
             StartCoroutine(LoadMainScene());
         });
     }
+    
 
     /// <summary>
     /// 메인 씬 로드
@@ -221,11 +229,14 @@ public class AuthManager : MonoBehaviour
         // 2초의 로딩 지연 (기존의 wait)
         yield return new WaitForSecondsRealtime(2f);
         Debug.Log("gotoToilet");
-        PlayerPrefs.SetString("Email", email);
-        PlayerPrefs.SetString("Password",password);
+        if(!guest){
+            PlayerPrefs.SetString("Email", email);
+            PlayerPrefs.SetString("Password",password);
+        }
+        
 
         // uid가 null이 아닌지 1초마다 확인
-        while (string.IsNullOrEmpty(StatusManager.instance.uid))
+        while (string.IsNullOrEmpty(StatusManager.instance.uid)&&!guest)
         {
             Debug.Log("UID is null, waiting...");
             yield return new WaitForSeconds(1f); // 1초 대기 후 다시 확인
@@ -233,7 +244,11 @@ public class AuthManager : MonoBehaviour
 
         // UID가 유효한 경우 FireStoreManager.Login() 호출
         Debug.Log("UID is valid. Calling FireStoreManager.Login() now.");
+
+        
         fireStoreManager.Login();
+        
+        
         yield return new WaitForSeconds(2f);
 
         // 씬 전환

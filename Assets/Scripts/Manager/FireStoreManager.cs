@@ -94,7 +94,7 @@ public class FireStoreManager : MonoBehaviour
     }
     public void Save()
     {
-        if (StatusManager.instance.uid != "pIMlZURo4DMZhCTrwKwqIFAVG962")
+        if (!StatusManager.instance.guest)
         {
             FirebaseFirestore db = FirebaseFirestore.DefaultInstance;
             DocumentReference docRef = db.Collection("users").Document(StatusManager.instance.uid);

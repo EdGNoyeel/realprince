@@ -52,6 +52,7 @@ public static class ExtensionNumber
 
 public class StatusManager : MonoBehaviour
 {
+    public bool guest=false;
     public int adRemoved=0;
     public string firstBuy;
     public bool firstLogin = true;
